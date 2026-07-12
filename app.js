@@ -1,123 +1,29 @@
 
 (function(){
-  const db = window.VGIK_DB;
-  const allItems = db && Array.isArray(db.items) ? db.items : [];
-  const $ = id => document.getElementById(id);
-  const el = {
-    meta:$("meta"), question:$("question"), options:$("options"), result:$("result"),
-    resultMark:$("resultMark"), correctAnswer:$("correctAnswer"), explanation:$("explanation"),
-    nextBtn:$("nextBtn"), stats:$("stats"), drawer:$("drawer"), menuBtn:$("menuBtn"),
-    closeDrawer:$("closeDrawer"), onlyWrong:$("onlyWrong"), hardMode:$("hardMode"),
-    resetBtn:$("resetBtn"), themeButtons:$("themeButtons")
-  };
-  const KEY = "vgik-test-v10";
-  const RECENT_LIMIT = 70;
-  const ANSWER_RECENT_LIMIT = 45;
-  let current = null;
-  let locked = false;
-  let state = loadState();
-
-  function def(){return {total:0,correct:0,wrong:0,streak:0,recentIds:[],recentQuestionKeys:[],recentAnswerKeys:[],sessionSeenIds:[],progress:{},settings:{theme:"all",onlyWrong:false,hardMode:false}}}
-  function loadState(){try{return Object.assign(def(),JSON.parse(localStorage.getItem(KEY))||{})}catch(e){return def()}}
-  function save(){localStorage.setItem(KEY,JSON.stringify(state))}
-  function p(id){if(!state.progress[id])state.progress[id]={seen:0,correct:0,wrong:0,dueAt:null};return state.progress[id]}
-  function norm(x){return String(x||"").toLowerCase().replaceAll("ё","е").replace(/[«»"'.!,?:;()[\]{}\-–—]/g," ").replace(/\s+/g," ").trim()}
-  function qKey(q){return norm(q.question)}
-  function aKey(q){return norm(q.full_answer || q.answer).slice(0,260)}
-  function getCategory(q){
-    if(q.category)return q.category;
-    const topic=String(q.topic||"").toUpperCase(), text=norm([q.question,q.answer,(q.tags||[]).join(" "),q.topic,q.topic_name].join(" "));
-    if(topic==="SOVIET_RUSSIAN_CURATED")return"vgikFilms";
-    if(topic==="FRENCH_AUTEUR")return"frenchAuteur";
-    if(topic==="FRENCH_SOUND")return"frenchSound";
-    if(topic==="FRANCE_RECHECKED"||topic==="FRANCE_GENERAL"||text.includes("франция")||text.includes("француз"))return"france";
-    if(topic==="CURATED_KNOWN_FILMS")return"known";
-    if(topic.startsWith("PHYS")||text.includes("физик")||text.includes("формула")||text.includes("закон ома")||text.includes("частота"))return"physics";
-    if(topic==="DIRECTORS"||text.includes("режиссер")||text.includes("режиссёр"))return"directors";
-    if(topic==="FILM_PHILOSOPHY"||text.includes("философия кино"))return"philosophy";
-    if(text.includes("сцена")||text.includes("звукозрительный анализ"))return"scenes";
-    if(text.includes("звукорежисс")||text.includes("фонограмма")||text.includes("звуков")||text.includes("шум")||text.includes("музык")||text.includes("слух")||text.includes("речь"))return"sound";
-    return"sound";
-  }
-  function matchesTheme(q){
-    const t=state.settings.theme, c=getCategory(q);
-    if(t==="all")return true;
-    if(t==="france")return c==="france"||c==="frenchAuteur"||c==="frenchSound";
-    if(t==="scenes")return c==="scenes"||c==="known"||c==="vgikFilms";
-    return c===t;
-  }
-  function activePool(){
-    let pool=allItems.filter(matchesTheme);
-    if(state.settings.onlyWrong){
-      pool=pool.filter(q=>{const pr=state.progress[q.id];return pr&&pr.wrong>pr.correct});
-    }
-    return pool;
-  }
-  function shuffle(arr){const a=arr.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
-  function unique(arr){const seen=new Set(),out=[];for(const x of arr){const k=String(x);if(k&&!seen.has(k)){seen.add(k);out.push(x)}}return out}
-  function scorePick(list){
-    const weights=list.map(q=>{const pr=p(q.id);let w=1;if(pr.seen===0)w+=9;if(!state.sessionSeenIds.includes(q.id))w+=8;if(pr.wrong>pr.correct)w+=2;if(state.settings.hardMode&&Number(q.difficulty)>=3)w+=2;return Math.max(.01,w)});
-    const sum=weights.reduce((a,b)=>a+b,0);let r=Math.random()*sum;
-    for(let i=0;i<list.length;i++){r-=weights[i];if(r<=0)return list[i]}return list[list.length-1];
-  }
-  function filterNoRepeats(pool, level){
-    const recentIds=new Set(state.recentIds.slice(0,RECENT_LIMIT)), recentQ=new Set(state.recentQuestionKeys.slice(0,RECENT_LIMIT)), recentA=new Set(state.recentAnswerKeys.slice(0,ANSWER_RECENT_LIMIT));
-    return pool.filter(q=>{if(current&&q.id===current.id)return false;if(level>=1&&recentIds.has(q.id))return false;if(level>=2&&recentQ.has(qKey(q)))return false;if(level>=3&&recentA.has(aKey(q)))return false;return true});
-  }
-  function pickQuestion(){
-    const pool=activePool(); if(!pool.length)return null; const now=state.total;
-    let due=filterNoRepeats(pool.filter(q=>{const pr=state.progress[q.id];return pr&&pr.dueAt!==null&&pr.dueAt<=now}),3); if(due.length)return scorePick(due);
-    let fresh=filterNoRepeats(pool.filter(q=>!state.sessionSeenIds.includes(q.id)),3); if(fresh.length)return scorePick(fresh);
-    fresh=filterNoRepeats(pool.filter(q=>p(q.id).seen===0),3); if(fresh.length)return scorePick(fresh);
-    let candidates=filterNoRepeats(pool,3); if(candidates.length)return scorePick(candidates);
-    candidates=filterNoRepeats(pool,2); if(candidates.length)return scorePick(candidates);
-    candidates=filterNoRepeats(pool,1); if(candidates.length)return scorePick(candidates);
-    const fallback=pool.filter(q=>!current||q.id!==current.id); return scorePick(fallback.length?fallback:pool);
-  }
-  function makeOptions(q){
-    const correct=String(q.answer||"Ответ не указан").trim();
-    if(Array.isArray(q.choices)&&q.choices.length>=2){
-      let opts=unique(q.choices.map(String));
-      if(!opts.some(x=>norm(x)===norm(correct)))opts.push(correct);
-      return shuffle(opts).slice(0,6);
-    }
-    const pool=activePool();
-    let answerPool=unique([...pool.filter(x=>x.id!==q.id&&x.topic===q.topic&&x.answer&&norm(x.answer)!==norm(correct)).map(x=>String(x.answer).trim()),...pool.filter(x=>x.id!==q.id&&getCategory(x)===getCategory(q)&&x.answer&&norm(x.answer)!==norm(correct)).map(x=>String(x.answer).trim()),...allItems.filter(x=>x.id!==q.id&&x.answer&&norm(x.answer)!==norm(correct)).map(x=>String(x.answer).trim())]).filter(x=>x.length>0&&x.length<1200);
-    let opts=unique([correct,...shuffle(answerPool).slice(0,3)]).slice(0,4);
-    const fillers=["Не относится к этой теме","Только пересказ сюжета","Только музыкальное сопровождение","Нет правильного ответа"];let i=0;while(opts.length<4)opts.push(fillers[i++]||"Другой вариант");
-    return shuffle(opts);
-  }
-  function render(){
-    locked=false; current=pickQuestion(); el.options.innerHTML=""; el.result.classList.add("hidden"); el.nextBtn.classList.add("hidden");
-    if(!current){el.meta.textContent=themeLabel(state.settings.theme);el.question.textContent=state.settings.onlyWrong?"В этой теме пока нет ошибок.":"В этой теме пока нет вопросов.";updateStats();return}
-    el.meta.textContent=`${themeLabel(state.settings.theme)} • ${current.id} • ${current.difficulty||1}`; el.question.textContent=current.question;
-    const opts=makeOptions(current), letters="АБВГДЕ";
-    opts.forEach((opt,i)=>{const btn=document.createElement("button");btn.className="option";btn.innerHTML=`<span class="letter">${letters[i]}</span><span>${esc(opt)}</span>`;btn.addEventListener("click",()=>choose(btn,opt));el.options.appendChild(btn)});
-    updateStats();
-  }
-  function choose(btn,opt){
-    if(locked)return; locked=true; const correct=String(current.answer||"").trim(), ok=norm(opt)===norm(correct);
-    [...el.options.children].forEach(b=>{const txt=b.querySelector("span:last-child").textContent;if(norm(txt)===norm(correct))b.classList.add("correct")});
-    if(!ok)btn.classList.add("wrong");
-    el.result.classList.remove("hidden"); el.resultMark.textContent=ok?"верно":"неверно"; el.resultMark.style.color=ok?"var(--good)":"var(--bad)";
-    el.correctAnswer.textContent=current.full_answer || correct; el.explanation.textContent=current.explanation||""; el.nextBtn.classList.remove("hidden"); record(ok);
-  }
-  function record(ok){
-    const pr=p(current.id); pr.seen+=1; state.total+=1;
-    if(ok){pr.correct+=1;pr.dueAt=null;state.correct+=1;state.streak+=1}else{pr.wrong+=1;pr.dueAt=state.total+10+Math.floor(Math.random()*10);state.wrong+=1;state.streak=0}
-    state.recentIds.unshift(current.id); state.recentQuestionKeys.unshift(qKey(current)); state.recentAnswerKeys.unshift(aKey(current)); state.sessionSeenIds.unshift(current.id);
-    state.recentIds=unique(state.recentIds).slice(0,140); state.recentQuestionKeys=unique(state.recentQuestionKeys).slice(0,140); state.recentAnswerKeys=unique(state.recentAnswerKeys).slice(0,90); state.sessionSeenIds=unique(state.sessionSeenIds).slice(0,3000);
-    save(); updateStats();
-  }
-  function themeLabel(t){return{all:"все",physics:"физика",sound:"звукорежиссура",vgikFilms:"классика СССР/РФ",known:"известные фильмы",france:"франция",frenchAuteur:"франц. авторское",frenchSound:"франц. звук",philosophy:"философия кино",directors:"режиссёры",scenes:"разбор сцен"}[t]||"все"}
-  function updateThemeButtons(){[...el.themeButtons.querySelectorAll("button")].forEach(btn=>btn.classList.toggle("active",btn.dataset.theme===state.settings.theme))}
-  function updateStats(){const pool=activePool();const unseen=pool.filter(q=>!state.sessionSeenIds.includes(q.id)).length;el.stats.textContent=`${themeLabel(state.settings.theme)} • ${pool.length} вопросов • новых ${unseen} • верно ${state.correct} • ошибки ${state.wrong}`;el.onlyWrong.checked=!!state.settings.onlyWrong;el.hardMode.checked=!!state.settings.hardMode;updateThemeButtons()}
-  function esc(s){return String(s).replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;").replaceAll('"',"&quot;").replaceAll("'","&#039;")}
-  el.nextBtn.addEventListener("click",render); el.menuBtn.addEventListener("click",()=>el.drawer.classList.remove("hidden")); el.closeDrawer.addEventListener("click",()=>el.drawer.classList.add("hidden")); el.drawer.addEventListener("click",e=>{if(e.target===el.drawer)el.drawer.classList.add("hidden")});
-  el.themeButtons.addEventListener("click",e=>{const btn=e.target.closest("button[data-theme]");if(!btn)return;state.settings.theme=btn.dataset.theme;current=null;save();el.drawer.classList.add("hidden");render()});
-  el.onlyWrong.addEventListener("change",e=>{state.settings.onlyWrong=e.target.checked;current=null;save();render()}); el.hardMode.addEventListener("change",e=>{state.settings.hardMode=e.target.checked;save()});
-  el.resetBtn.addEventListener("click",()=>{if(confirm("Сбросить весь прогресс и историю вопросов?")){const theme=state.settings.theme;state=def();state.settings.theme=theme;save();current=null;el.drawer.classList.add("hidden");render()}});
-  document.addEventListener("keydown",e=>{if((e.key==="ArrowRight"||e.key===" ")&&!el.nextBtn.classList.contains("hidden")){e.preventDefault();render()}});
-  if("serviceWorker"in navigator&&location.protocol!=="file:")navigator.serviceWorker.register("./service-worker.js?v=10").catch(()=>{});
-  render();
+const db=window.VGIK_DB,allItems=db&&Array.isArray(db.items)?db.items:[],$=id=>document.getElementById(id);
+const el={meta:$("meta"),question:$("question"),options:$("options"),result:$("result"),resultMark:$("resultMark"),correctAnswer:$("correctAnswer"),explanation:$("explanation"),nextBtn:$("nextBtn"),stats:$("stats"),drawer:$("drawer"),menuBtn:$("menuBtn"),closeDrawer:$("closeDrawer"),onlyWrong:$("onlyWrong"),hardMode:$("hardMode"),resetBtn:$("resetBtn"),themeButtons:$("themeButtons")};
+const KEY="vgik-test-v11",RECENT_LIMIT=90,ANSWER_RECENT_LIMIT=60;let current=null,locked=false,state=loadState();
+function def(){return{total:0,correct:0,wrong:0,streak:0,recentIds:[],recentQuestionKeys:[],recentAnswerKeys:[],sessionSeenIds:[],progress:{},settings:{theme:"all",onlyWrong:false,hardMode:false}}}
+function loadState(){try{return Object.assign(def(),JSON.parse(localStorage.getItem(KEY))||{})}catch(e){return def()}}
+function save(){localStorage.setItem(KEY,JSON.stringify(state))}
+function p(id){if(!state.progress[id])state.progress[id]={seen:0,correct:0,wrong:0,dueAt:null};return state.progress[id]}
+function norm(x){return String(x||"").toLowerCase().replaceAll("ё","е").replace(/[«»"'.!,?:;()[\]{}\-–—]/g," ").replace(/\s+/g," ").trim()}
+function qKey(q){return norm(q.question)} function aKey(q){return norm(q.full_answer||q.answer).slice(0,300)}
+function cat(q){return q.category||"sound"}
+function matchesTheme(q){const t=state.settings.theme,c=cat(q);if(t==="all")return true;return c===t}
+function activePool(){let pool=allItems.filter(matchesTheme);if(state.settings.onlyWrong)pool=pool.filter(q=>{const pr=state.progress[q.id];return pr&&pr.wrong>pr.correct});return pool}
+function shuffle(arr){const a=arr.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
+function unique(arr){const seen=new Set(),out=[];for(const x of arr){const k=String(x);if(k&&!seen.has(k)){seen.add(k);out.push(x)}}return out}
+function scorePick(list){const weights=list.map(q=>{const pr=p(q.id);let w=1;if(pr.seen===0)w+=10;if(!state.sessionSeenIds.includes(q.id))w+=10;if(pr.wrong>pr.correct)w+=2;if(state.settings.hardMode&&Number(q.difficulty)>=3)w+=2;return Math.max(.01,w)});const sum=weights.reduce((a,b)=>a+b,0);let r=Math.random()*sum;for(let i=0;i<list.length;i++){r-=weights[i];if(r<=0)return list[i]}return list[list.length-1]}
+function filterNoRepeats(pool,level){const ids=new Set(state.recentIds.slice(0,RECENT_LIMIT)),qs=new Set(state.recentQuestionKeys.slice(0,RECENT_LIMIT)),as=new Set(state.recentAnswerKeys.slice(0,ANSWER_RECENT_LIMIT));return pool.filter(q=>{if(current&&q.id===current.id)return false;if(level>=1&&ids.has(q.id))return false;if(level>=2&&qs.has(qKey(q)))return false;if(level>=3&&as.has(aKey(q)))return false;return true})}
+function pickQuestion(){const pool=activePool();if(!pool.length)return null;const now=state.total;let due=filterNoRepeats(pool.filter(q=>{const pr=state.progress[q.id];return pr&&pr.dueAt!==null&&pr.dueAt<=now}),3);if(due.length)return scorePick(due);let fresh=filterNoRepeats(pool.filter(q=>!state.sessionSeenIds.includes(q.id)),3);if(fresh.length)return scorePick(fresh);fresh=filterNoRepeats(pool.filter(q=>p(q.id).seen===0),3);if(fresh.length)return scorePick(fresh);let candidates=filterNoRepeats(pool,3);if(candidates.length)return scorePick(candidates);candidates=filterNoRepeats(pool,2);if(candidates.length)return scorePick(candidates);candidates=filterNoRepeats(pool,1);if(candidates.length)return scorePick(candidates);const fallback=pool.filter(q=>!current||q.id!==current.id);return scorePick(fallback.length?fallback:pool)}
+function makeOptions(q){const correct=String(q.answer||"Ответ не указан").trim();if(Array.isArray(q.choices)&&q.choices.length>=2){let opts=unique(q.choices.map(String));if(!opts.some(x=>norm(x)===norm(correct)))opts.push(correct);return shuffle(opts).slice(0,6)}let pool=activePool().filter(x=>cat(x)===cat(q));let answers=unique(pool.filter(x=>x.id!==q.id&&x.answer&&norm(x.answer)!==norm(correct)).map(x=>String(x.answer).trim())).filter(x=>x.length>0&&x.length<900);let opts=unique([correct,...shuffle(answers).slice(0,3)]).slice(0,4);while(opts.length<4)opts.push(["Не относится к теме","Только пересказ сюжета","Только музыкальное сопровождение","Нет правильного ответа"][opts.length-1]||"Другой вариант");return shuffle(opts)}
+function render(){locked=false;current=pickQuestion();el.options.innerHTML="";el.result.classList.add("hidden");el.nextBtn.classList.add("hidden");if(!current){el.meta.textContent=themeLabel(state.settings.theme);el.question.textContent=state.settings.onlyWrong?"В этой теме пока нет ошибок.":"В этой теме пока нет вопросов.";updateStats();return}el.meta.textContent=`${themeLabel(state.settings.theme)} • ${current.id} • ${current.difficulty||1}`;el.question.textContent=current.question;const opts=makeOptions(current),letters="АБВГДЕ";opts.forEach((opt,i)=>{const btn=document.createElement("button");btn.className="option";btn.innerHTML=`<span class="letter">${letters[i]}</span><span>${esc(opt)}</span>`;btn.addEventListener("click",()=>choose(btn,opt));el.options.appendChild(btn)});updateStats()}
+function choose(btn,opt){if(locked)return;locked=true;const correct=String(current.answer||"").trim(),ok=norm(opt)===norm(correct);[...el.options.children].forEach(b=>{const txt=b.querySelector("span:last-child").textContent;if(norm(txt)===norm(correct))b.classList.add("correct")});if(!ok)btn.classList.add("wrong");el.result.classList.remove("hidden");el.resultMark.textContent=ok?"верно":"неверно";el.resultMark.style.color=ok?"var(--good)":"var(--bad)";el.correctAnswer.textContent=current.full_answer||correct;el.explanation.textContent=current.explanation||"";el.nextBtn.classList.remove("hidden");record(ok)}
+function record(ok){const pr=p(current.id);pr.seen+=1;state.total+=1;if(ok){pr.correct+=1;pr.dueAt=null;state.correct+=1;state.streak+=1}else{pr.wrong+=1;pr.dueAt=state.total+10+Math.floor(Math.random()*10);state.wrong+=1;state.streak=0}state.recentIds.unshift(current.id);state.recentQuestionKeys.unshift(qKey(current));state.recentAnswerKeys.unshift(aKey(current));state.sessionSeenIds.unshift(current.id);state.recentIds=unique(state.recentIds).slice(0,180);state.recentQuestionKeys=unique(state.recentQuestionKeys).slice(0,180);state.recentAnswerKeys=unique(state.recentAnswerKeys).slice(0,120);state.sessionSeenIds=unique(state.sessionSeenIds).slice(0,5000);save();updateStats()}
+function themeLabel(t){return{all:"все",physics:"физика",sovietCinema:"кино СССР/РФ",frenchCinema:"кино Франция",sound:"звукорежиссура",directors:"режиссёры",philosophy:"философия кино"}[t]||"все"}
+function updateThemeButtons(){[...el.themeButtons.querySelectorAll("button")].forEach(btn=>btn.classList.toggle("active",btn.dataset.theme===state.settings.theme))}
+function updateStats(){const pool=activePool(),unseen=pool.filter(q=>!state.sessionSeenIds.includes(q.id)).length;el.stats.textContent=`${themeLabel(state.settings.theme)} • ${pool.length} вопросов • новых ${unseen} • верно ${state.correct} • ошибки ${state.wrong}`;el.onlyWrong.checked=!!state.settings.onlyWrong;el.hardMode.checked=!!state.settings.hardMode;updateThemeButtons()}
+function esc(s){return String(s).replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;").replaceAll('"',"&quot;").replaceAll("'","&#039;")}
+el.nextBtn.addEventListener("click",render);el.menuBtn.addEventListener("click",()=>el.drawer.classList.remove("hidden"));el.closeDrawer.addEventListener("click",()=>el.drawer.classList.add("hidden"));el.drawer.addEventListener("click",e=>{if(e.target===el.drawer)el.drawer.classList.add("hidden")});el.themeButtons.addEventListener("click",e=>{const btn=e.target.closest("button[data-theme]");if(!btn)return;state.settings.theme=btn.dataset.theme;current=null;save();el.drawer.classList.add("hidden");render()});el.onlyWrong.addEventListener("change",e=>{state.settings.onlyWrong=e.target.checked;current=null;save();render()});el.hardMode.addEventListener("change",e=>{state.settings.hardMode=e.target.checked;save()});el.resetBtn.addEventListener("click",()=>{if(confirm("Сбросить весь прогресс и историю вопросов?")){const theme=state.settings.theme;state=def();state.settings.theme=theme;save();current=null;el.drawer.classList.add("hidden");render()}});document.addEventListener("keydown",e=>{if((e.key==="ArrowRight"||e.key===" ")&&!el.nextBtn.classList.contains("hidden")){e.preventDefault();render()}});if("serviceWorker"in navigator&&location.protocol!=="file:")navigator.serviceWorker.register("./service-worker.js?v=11").catch(()=>{});render();
 })();

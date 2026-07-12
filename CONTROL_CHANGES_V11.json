@@ -1,0 +1,22 @@
+{
+  "version": "11.0",
+  "source": "vgik_test_app_v10_exam_focused.zip",
+  "total_items": 368,
+  "removed_old_or_bad": 256,
+  "physics_explain_added": 11,
+  "physics_link_added": 6,
+  "soviet_cinema_added": 46,
+  "french_cinema_added": 11,
+  "choices_rebuilt_same_category": 363,
+  "unit_cards_removed": 4,
+  "unit_cards_fixed": 20,
+  "menus": [
+    "Все",
+    "Физика",
+    "Кино СССР/РФ",
+    "Кино Франция",
+    "Звукорежиссура",
+    "Режиссёры",
+    "Философия кино"
+  ]
+}
