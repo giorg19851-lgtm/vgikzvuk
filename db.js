@@ -1,10 +1,10 @@
 window.VGIK_DB = {
   "meta": {
     "title": "ВГИК 55.05.02 Звукорежиссура аудиовизуальных искусств: база самотестирования для вступительных",
-    "version": "6.0",
+    "version": "8.0",
     "created": "2026-07-11",
     "language": "ru",
-    "total_items": 695,
+    "total_items": 702,
     "based_on": [
       "Официальная страница ВГИК по 55.05.02 на 2026/27",
       "Программа ДВИ 2026 по звукорежиссуре"
@@ -22,7 +22,7 @@ window.VGIK_DB = {
       "tags": "метки",
       "source": "источник/логика"
     },
-    "app_note": "v6: удалены ответы без примеров сцен; добавлены конкретные 2-3 сцены и звукозрительный анализ для фильмов."
+    "app_note": "v8: анти-повтор, общая история между темами, формулы в физике, Франция и известные фильмы."
   },
   "topics": [
     {
@@ -696,7 +696,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00002",
@@ -711,7 +712,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00003",
@@ -726,7 +728,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00004",
@@ -741,7 +744,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00005",
@@ -756,7 +760,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00006",
@@ -771,7 +776,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00007",
@@ -786,7 +792,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00008",
@@ -801,7 +808,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00009",
@@ -816,7 +824,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "scenes"
     },
     {
       "id": "VGIK-SOUND-00010",
@@ -831,7 +840,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00011",
@@ -846,7 +856,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00012",
@@ -861,7 +872,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00013",
@@ -876,7 +888,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00014",
@@ -891,7 +904,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00015",
@@ -906,7 +920,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00016",
@@ -921,7 +936,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00017",
@@ -936,7 +952,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00018",
@@ -951,7 +968,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00019",
@@ -966,7 +984,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00020",
@@ -981,7 +1000,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00021",
@@ -996,7 +1016,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00022",
@@ -1011,7 +1032,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00023",
@@ -1026,7 +1048,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00024",
@@ -1041,7 +1064,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "scenes"
     },
     {
       "id": "VGIK-SOUND-00025",
@@ -1056,7 +1080,8 @@ window.VGIK_DB = {
       "tags": [
         "официальное"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00026",
@@ -1076,7 +1101,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00027",
@@ -1096,7 +1122,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00033",
@@ -1116,7 +1143,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00034",
@@ -1136,7 +1164,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00040",
@@ -1156,7 +1185,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00041",
@@ -1176,7 +1206,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00047",
@@ -1196,7 +1227,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00048",
@@ -1216,7 +1248,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00054",
@@ -1236,7 +1269,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00055",
@@ -1256,7 +1290,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00061",
@@ -1276,7 +1311,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00062",
@@ -1296,7 +1332,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00068",
@@ -1316,7 +1353,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00069",
@@ -1336,7 +1374,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00075",
@@ -1356,7 +1395,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00076",
@@ -1376,7 +1416,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00082",
@@ -1396,7 +1437,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00083",
@@ -1416,7 +1458,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00089",
@@ -1436,7 +1479,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00090",
@@ -1456,7 +1500,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00096",
@@ -1476,7 +1521,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00097",
@@ -1496,7 +1542,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00103",
@@ -1516,7 +1563,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00104",
@@ -1536,7 +1584,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00110",
@@ -1556,7 +1605,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00111",
@@ -1576,7 +1626,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00117",
@@ -1596,7 +1647,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00118",
@@ -1616,7 +1668,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00124",
@@ -1636,7 +1689,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00125",
@@ -1656,7 +1710,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00131",
@@ -1676,7 +1731,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00132",
@@ -1696,7 +1752,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00138",
@@ -1716,7 +1773,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00139",
@@ -1736,7 +1794,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00145",
@@ -1756,7 +1815,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00146",
@@ -1776,7 +1836,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00152",
@@ -1796,7 +1857,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00153",
@@ -1816,7 +1878,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00159",
@@ -1836,7 +1899,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00160",
@@ -1856,7 +1920,8 @@ window.VGIK_DB = {
       "tags": [
         "официальный список"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00166",
@@ -1876,7 +1941,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00167",
@@ -1891,7 +1957,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00168",
@@ -1907,7 +1974,8 @@ window.VGIK_DB = {
         "литература",
         "собеседование"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00169",
@@ -1927,7 +1995,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00170",
@@ -1942,7 +2011,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00171",
@@ -1958,7 +2028,8 @@ window.VGIK_DB = {
         "литература",
         "собеседование"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00172",
@@ -1978,7 +2049,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00173",
@@ -1993,7 +2065,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00174",
@@ -2009,7 +2082,8 @@ window.VGIK_DB = {
         "литература",
         "собеседование"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00175",
@@ -2029,7 +2103,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00176",
@@ -2044,7 +2119,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00177",
@@ -2060,7 +2136,8 @@ window.VGIK_DB = {
         "литература",
         "собеседование"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00178",
@@ -2080,7 +2157,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00179",
@@ -2096,7 +2174,8 @@ window.VGIK_DB = {
         "литература",
         "собеседование"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00180",
@@ -2116,7 +2195,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00181",
@@ -2131,7 +2211,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00182",
@@ -2147,7 +2228,8 @@ window.VGIK_DB = {
         "литература",
         "собеседование"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00183",
@@ -2167,7 +2249,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00184",
@@ -2182,7 +2265,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00185",
@@ -2198,7 +2282,8 @@ window.VGIK_DB = {
         "литература",
         "собеседование"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00186",
@@ -2218,7 +2303,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00187",
@@ -2233,23 +2319,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
-    },
-    {
-      "id": "VGIK-SOUND-00188",
-      "topic": "LITERATURE_USE",
-      "topic_name": "Как использовать литературу",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Как использовать «Драматургия фильма» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «драматургия», привести пример из кино или искусства и связать это со звукорежиссурой.",
-      "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.",
-      "tags": [
-        "литература",
-        "собеседование"
-      ],
-      "source": "method"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00189",
@@ -2269,7 +2340,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00190",
@@ -2284,7 +2356,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00191",
@@ -2300,7 +2373,8 @@ window.VGIK_DB = {
         "литература",
         "собеседование"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00192",
@@ -2320,7 +2394,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00193",
@@ -2335,7 +2410,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00194",
@@ -2351,7 +2427,8 @@ window.VGIK_DB = {
         "литература",
         "собеседование"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00195",
@@ -2371,7 +2448,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00196",
@@ -2386,7 +2464,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00197",
@@ -2402,7 +2481,8 @@ window.VGIK_DB = {
         "литература",
         "собеседование"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00198",
@@ -2422,7 +2502,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00199",
@@ -2437,7 +2518,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00200",
@@ -2453,7 +2535,8 @@ window.VGIK_DB = {
         "литература",
         "собеседование"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00201",
@@ -2473,7 +2556,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00202",
@@ -2488,7 +2572,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00203",
@@ -2504,7 +2589,8 @@ window.VGIK_DB = {
         "литература",
         "собеседование"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00204",
@@ -2524,7 +2610,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00205",
@@ -2539,7 +2626,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00206",
@@ -2555,7 +2643,8 @@ window.VGIK_DB = {
         "литература",
         "собеседование"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00207",
@@ -2575,7 +2664,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00208",
@@ -2590,23 +2680,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
-    },
-    {
-      "id": "VGIK-SOUND-00209",
-      "topic": "LITERATURE_USE",
-      "topic_name": "Как использовать литературу",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Как использовать «История мировой культуры. Культура Западной Европы в средние века» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «мировая культура», привести пример из кино или искусства и связать это со звукорежиссурой.",
-      "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.",
-      "tags": [
-        "литература",
-        "собеседование"
-      ],
-      "source": "method"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00210",
@@ -2615,18 +2690,19 @@ window.VGIK_DB = {
       "type": "multiple_choice",
       "difficulty": 1,
       "question": "К какой зоне подготовки ближе «Справочник по физике. 7-9 классы. ФГОС»?",
-      "answer": "физика",
+      "answer": "физика\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [
         "мировая культура",
-        "физика",
+        "физика\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
         "кинозвук",
         "теория кинозвука"
       ],
-      "explanation": "Зона: физика.",
+      "explanation": "Зона: физика.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00211",
@@ -2635,14 +2711,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как использовать «Справочник по физике. 7-9 классы. ФГОС» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «физика», привести пример из кино или искусства и связать это со звукорежиссурой.",
+      "answer": "Вытащить 3 тезиса по теме «физика», привести пример из кино или искусства и связать это со звукорежиссурой.\n\nФормулы: v = λf; T = 1/f; ω = 2πf.",
       "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.",
+      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.\nФормулы: v = λf; T = 1/f; ω = 2πf.",
       "tags": [
         "литература",
         "собеседование"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00212",
@@ -2662,7 +2739,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00213",
@@ -2677,7 +2755,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00214",
@@ -2693,7 +2772,8 @@ window.VGIK_DB = {
         "литература",
         "собеседование"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00215",
@@ -2713,7 +2793,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00216",
@@ -2728,7 +2809,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00217",
@@ -2744,7 +2826,8 @@ window.VGIK_DB = {
         "литература",
         "собеседование"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00218",
@@ -2753,18 +2836,19 @@ window.VGIK_DB = {
       "type": "multiple_choice",
       "difficulty": 1,
       "question": "К какой зоне подготовки ближе «Физика. 7-9 классы. Сборник задач к учебникам»?",
-      "answer": "физика",
+      "answer": "физика\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [
-        "физика",
+        "физика\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
         "древнерусская культура",
         "кино и память",
         "кинозвук"
       ],
-      "explanation": "Зона: физика.",
+      "explanation": "Зона: физика.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00219",
@@ -2773,13 +2857,14 @@ window.VGIK_DB = {
       "type": "short",
       "difficulty": 2,
       "question": "Кто автор/составитель «Физика. 7-9 классы. Сборник задач к учебникам»?",
-      "answer": "Перышкин А.В.",
+      "answer": "Перышкин А.В.\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [],
-      "explanation": "Факт из списка литературы.",
+      "explanation": "Факт из списка литературы.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00220",
@@ -2788,14 +2873,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как использовать «Физика. 7-9 классы. Сборник задач к учебникам» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «физика», привести пример из кино или искусства и связать это со звукорежиссурой.",
+      "answer": "Вытащить 3 тезиса по теме «физика», привести пример из кино или искусства и связать это со звукорежиссурой.\n\nФормулы: v = λf; T = 1/f; ω = 2πf.",
       "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.",
+      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.\nФормулы: v = λf; T = 1/f; ω = 2πf.",
       "tags": [
         "литература",
         "собеседование"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00221",
@@ -2804,18 +2890,19 @@ window.VGIK_DB = {
       "type": "multiple_choice",
       "difficulty": 1,
       "question": "К какой зоне подготовки ближе «Физика. Толковый словарь школьника и студента»?",
-      "answer": "физика",
+      "answer": "физика\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [
-        "физика",
+        "физика\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
         "слух и психоакустика",
         "теория звукового кино",
         "изобразительное искусство"
       ],
-      "explanation": "Зона: физика.",
+      "explanation": "Зона: физика.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00222",
@@ -2824,13 +2911,14 @@ window.VGIK_DB = {
       "type": "short",
       "difficulty": 2,
       "question": "Кто автор/составитель «Физика. Толковый словарь школьника и студента»?",
-      "answer": "под ред. Гомоюнова К.К., Козлова В.Н., Сурыгина А.И.",
+      "answer": "под ред. Гомоюнова К.К., Козлова В.Н., Сурыгина А.И.\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [],
-      "explanation": "Факт из списка литературы.",
+      "explanation": "Факт из списка литературы.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00223",
@@ -2839,14 +2927,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как использовать «Физика. Толковый словарь школьника и студента» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «физика», привести пример из кино или искусства и связать это со звукорежиссурой.",
+      "answer": "Вытащить 3 тезиса по теме «физика», привести пример из кино или искусства и связать это со звукорежиссурой.\n\nФормулы: v = λf; T = 1/f; ω = 2πf.",
       "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.",
+      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.\nФормулы: v = λf; T = 1/f; ω = 2πf.",
       "tags": [
         "литература",
         "собеседование"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00224",
@@ -2855,18 +2944,19 @@ window.VGIK_DB = {
       "type": "multiple_choice",
       "difficulty": 1,
       "question": "К какой зоне подготовки ближе «Экспресс-курс физики для школьников, абитуриентов, студентов»?",
-      "answer": "физика",
+      "answer": "физика\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [
         "иконография",
         "теория кинозвука",
-        "физика",
+        "физика\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
         "звукорежиссура"
       ],
-      "explanation": "Зона: физика.",
+      "explanation": "Зона: физика.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00225",
@@ -2875,13 +2965,14 @@ window.VGIK_DB = {
       "type": "short",
       "difficulty": 2,
       "question": "Кто автор/составитель «Экспресс-курс физики для школьников, абитуриентов, студентов»?",
-      "answer": "Хорошавина С.Г.",
+      "answer": "Хорошавина С.Г.\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [],
-      "explanation": "Факт из списка литературы.",
+      "explanation": "Факт из списка литературы.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00226",
@@ -2890,14 +2981,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как использовать «Экспресс-курс физики для школьников, абитуриентов, студентов» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «физика», привести пример из кино или искусства и связать это со звукорежиссурой.",
+      "answer": "Вытащить 3 тезиса по теме «физика», привести пример из кино или искусства и связать это со звукорежиссурой.\n\nФормулы: v = λf; T = 1/f; ω = 2πf.",
       "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.",
+      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.\nФормулы: v = λf; T = 1/f; ω = 2πf.",
       "tags": [
         "литература",
         "собеседование"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00227",
@@ -2917,7 +3009,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00228",
@@ -2932,7 +3025,8 @@ window.VGIK_DB = {
       "tags": [
         "литература"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00229",
@@ -2948,7 +3042,8 @@ window.VGIK_DB = {
         "литература",
         "собеседование"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00230",
@@ -2969,7 +3064,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00231",
@@ -2990,7 +3086,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00232",
@@ -3011,7 +3108,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00236",
@@ -3032,7 +3130,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00237",
@@ -3053,7 +3152,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00238",
@@ -3074,7 +3174,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00242",
@@ -3095,7 +3196,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00243",
@@ -3116,7 +3218,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00244",
@@ -3137,7 +3240,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00248",
@@ -3158,7 +3262,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00249",
@@ -3179,7 +3284,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00250",
@@ -3200,7 +3306,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00254",
@@ -3221,7 +3328,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00255",
@@ -3242,7 +3350,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00256",
@@ -3263,7 +3372,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00260",
@@ -3284,7 +3394,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00261",
@@ -3305,7 +3416,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00262",
@@ -3326,7 +3438,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00266",
@@ -3347,7 +3460,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00267",
@@ -3368,7 +3482,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00268",
@@ -3389,7 +3504,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00272",
@@ -3410,7 +3526,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00273",
@@ -3431,7 +3548,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00274",
@@ -3452,7 +3570,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00278",
@@ -3473,7 +3592,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00279",
@@ -3494,7 +3614,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00280",
@@ -3515,7 +3636,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00284",
@@ -3536,7 +3658,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00285",
@@ -3557,7 +3680,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00286",
@@ -3578,7 +3702,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00290",
@@ -3599,7 +3724,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00291",
@@ -3620,7 +3746,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00292",
@@ -3641,7 +3768,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00296",
@@ -3662,7 +3790,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00297",
@@ -3683,7 +3812,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00298",
@@ -3704,7 +3834,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00302",
@@ -3725,7 +3856,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00303",
@@ -3746,7 +3878,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00304",
@@ -3767,7 +3900,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00308",
@@ -3788,7 +3922,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00309",
@@ -3809,7 +3944,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00310",
@@ -3830,7 +3966,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00314",
@@ -3851,7 +3988,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00315",
@@ -3872,7 +4010,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00316",
@@ -3893,7 +4032,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00320",
@@ -3914,7 +4054,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00321",
@@ -3935,7 +4076,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00322",
@@ -3956,7 +4098,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00326",
@@ -3965,19 +4108,20 @@ window.VGIK_DB = {
       "type": "multiple_choice",
       "difficulty": 1,
       "question": "Кто режиссёр фильма «Жестокий романс» (реж. Эльдар Рязанов, 1984)?",
-      "answer": "Эльдар Рязанов",
+      "answer": "Эльдар Рязанов\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [
         "Лариса Шепитько",
-        "Эльдар Рязанов",
+        "Эльдар Рязанов\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
         "Андрей Звягинцев",
         "Сергей Бодров старший"
       ],
-      "explanation": "«Жестокий романс» — Эльдар Рязанов, 1984.",
+      "explanation": "«Жестокий романс» — Эльдар Рязанов, 1984.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00327",
@@ -3986,19 +4130,20 @@ window.VGIK_DB = {
       "type": "multiple_choice",
       "difficulty": 1,
       "question": "В каком году вышел фильм «Жестокий романс» (реж. Эльдар Рязанов, 1984)?",
-      "answer": "1984",
+      "answer": "1984\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [
         "1963",
         "2009",
-        "1984",
+        "1984\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
         "1974"
       ],
-      "explanation": "«Жестокий романс» — 1984.",
+      "explanation": "«Жестокий романс» — 1984.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00328",
@@ -4007,19 +4152,20 @@ window.VGIK_DB = {
       "type": "multiple_choice",
       "difficulty": 2,
       "question": "К какому типу удобнее отнести «Жестокий романс» (реж. Эльдар Рязанов, 1984)?",
-      "answer": "мелодрама",
+      "answer": "мелодрама\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [
         "школьная драма",
         "историко-эпическое кино",
         "духовная драма",
-        "мелодрама"
+        "мелодрама\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S."
       ],
-      "explanation": "Классификация для устного ответа: мелодрама.",
+      "explanation": "Классификация для устного ответа: мелодрама.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00332",
@@ -4040,7 +4186,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00333",
@@ -4061,7 +4208,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00334",
@@ -4082,7 +4230,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00338",
@@ -4103,7 +4252,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00339",
@@ -4124,7 +4274,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00340",
@@ -4145,7 +4296,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00344",
@@ -4166,7 +4318,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00345",
@@ -4187,7 +4340,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00346",
@@ -4208,7 +4362,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00350",
@@ -4229,7 +4384,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00351",
@@ -4250,7 +4406,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00352",
@@ -4271,7 +4428,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00356",
@@ -4292,7 +4450,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00357",
@@ -4313,7 +4472,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00358",
@@ -4334,7 +4494,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00362",
@@ -4355,7 +4516,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00363",
@@ -4376,7 +4538,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00364",
@@ -4397,7 +4560,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00368",
@@ -4418,7 +4582,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00369",
@@ -4439,7 +4604,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00370",
@@ -4460,7 +4626,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00374",
@@ -4481,7 +4648,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00375",
@@ -4502,7 +4670,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00376",
@@ -4523,7 +4692,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00380",
@@ -4544,7 +4714,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00381",
@@ -4565,7 +4736,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00382",
@@ -4586,7 +4758,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00386",
@@ -4607,7 +4780,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00387",
@@ -4628,7 +4802,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00388",
@@ -4649,7 +4824,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00392",
@@ -4670,7 +4846,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00393",
@@ -4691,7 +4868,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00394",
@@ -4712,7 +4890,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00398",
@@ -4733,7 +4912,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00399",
@@ -4754,7 +4934,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00400",
@@ -4775,7 +4956,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00404",
@@ -4796,7 +4978,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00405",
@@ -4817,7 +5000,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00406",
@@ -4838,7 +5022,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00410",
@@ -4859,7 +5044,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00411",
@@ -4880,7 +5066,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00412",
@@ -4901,7 +5088,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00416",
@@ -4922,7 +5110,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00417",
@@ -4943,7 +5132,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00418",
@@ -4964,7 +5154,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00422",
@@ -4985,7 +5176,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00423",
@@ -5006,7 +5198,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00424",
@@ -5027,7 +5220,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00428",
@@ -5048,7 +5242,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00429",
@@ -5069,7 +5264,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00430",
@@ -5090,7 +5286,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00434",
@@ -5111,7 +5308,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00435",
@@ -5132,7 +5330,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00436",
@@ -5153,7 +5352,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00440",
@@ -5174,7 +5374,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00441",
@@ -5195,7 +5396,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00442",
@@ -5216,7 +5418,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00446",
@@ -5237,7 +5440,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00447",
@@ -5258,7 +5462,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00448",
@@ -5279,7 +5484,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00452",
@@ -5300,7 +5506,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00453",
@@ -5321,7 +5528,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00454",
@@ -5342,7 +5550,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00458",
@@ -5363,7 +5572,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00459",
@@ -5384,7 +5594,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00460",
@@ -5405,7 +5616,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00464",
@@ -5426,7 +5638,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00465",
@@ -5447,7 +5660,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00466",
@@ -5468,7 +5682,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00470",
@@ -5489,7 +5704,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00471",
@@ -5510,7 +5726,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00472",
@@ -5531,7 +5748,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00476",
@@ -5552,7 +5770,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00477",
@@ -5573,7 +5792,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00478",
@@ -5594,7 +5814,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00482",
@@ -5615,7 +5836,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00483",
@@ -5636,7 +5858,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00484",
@@ -5657,7 +5880,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00488",
@@ -5678,7 +5902,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00489",
@@ -5699,7 +5924,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00490",
@@ -5720,7 +5946,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00494",
@@ -5741,7 +5968,8 @@ window.VGIK_DB = {
         "фильм",
         "режиссёр"
       ],
-      "source": "VGIK DVI 2026 + correction"
+      "source": "VGIK DVI 2026 + correction",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00495",
@@ -5762,7 +5990,8 @@ window.VGIK_DB = {
         "фильм",
         "год"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00496",
@@ -5783,7 +6012,8 @@ window.VGIK_DB = {
         "фильм",
         "жанр"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00500",
@@ -5798,7 +6028,8 @@ window.VGIK_DB = {
       "tags": [
         "термин"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00501",
@@ -5814,7 +6045,8 @@ window.VGIK_DB = {
         "термин",
         "практика"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00502",
@@ -5829,7 +6061,8 @@ window.VGIK_DB = {
       "tags": [
         "термин"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00503",
@@ -5845,7 +6078,8 @@ window.VGIK_DB = {
         "термин",
         "практика"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00504",
@@ -5860,7 +6094,8 @@ window.VGIK_DB = {
       "tags": [
         "термин"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00505",
@@ -5876,7 +6111,8 @@ window.VGIK_DB = {
         "термин",
         "практика"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00506",
@@ -5885,13 +6121,14 @@ window.VGIK_DB = {
       "type": "short",
       "difficulty": 1,
       "question": "Дай определение термина «драматическая ситуация».",
-      "answer": "ситуация с целью, препятствием и напряжением.",
+      "answer": "ситуация с целью, препятствием и напряжением.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [],
-      "explanation": "Термин нужен для защиты работы.",
+      "explanation": "Термин нужен для защиты работы.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "термин"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00507",
@@ -5907,7 +6144,8 @@ window.VGIK_DB = {
         "термин",
         "практика"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00508",
@@ -5922,7 +6160,8 @@ window.VGIK_DB = {
       "tags": [
         "термин"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00509",
@@ -5938,7 +6177,8 @@ window.VGIK_DB = {
         "термин",
         "практика"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00510",
@@ -5953,7 +6193,8 @@ window.VGIK_DB = {
       "tags": [
         "термин"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00511",
@@ -5969,7 +6210,8 @@ window.VGIK_DB = {
         "термин",
         "практика"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00512",
@@ -5984,7 +6226,8 @@ window.VGIK_DB = {
       "tags": [
         "термин"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00513",
@@ -6000,7 +6243,8 @@ window.VGIK_DB = {
         "термин",
         "практика"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00514",
@@ -6015,7 +6259,8 @@ window.VGIK_DB = {
       "tags": [
         "термин"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00515",
@@ -6031,7 +6276,8 @@ window.VGIK_DB = {
         "термин",
         "практика"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00516",
@@ -6046,7 +6292,8 @@ window.VGIK_DB = {
       "tags": [
         "термин"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "scenes"
     },
     {
       "id": "VGIK-SOUND-00517",
@@ -6062,7 +6309,8 @@ window.VGIK_DB = {
         "термин",
         "практика"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00518",
@@ -6077,7 +6325,8 @@ window.VGIK_DB = {
       "tags": [
         "термин"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00519",
@@ -6093,7 +6342,8 @@ window.VGIK_DB = {
         "термин",
         "практика"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00520",
@@ -6108,7 +6358,8 @@ window.VGIK_DB = {
       "tags": [
         "термин"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00521",
@@ -6124,7 +6375,8 @@ window.VGIK_DB = {
         "термин",
         "практика"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00522",
@@ -6139,7 +6391,8 @@ window.VGIK_DB = {
       "tags": [
         "термин"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00523",
@@ -6155,7 +6408,8 @@ window.VGIK_DB = {
         "термин",
         "практика"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00524",
@@ -6170,7 +6424,8 @@ window.VGIK_DB = {
       "tags": [
         "термин"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "scenes"
     },
     {
       "id": "VGIK-SOUND-00525",
@@ -6186,7 +6441,8 @@ window.VGIK_DB = {
         "термин",
         "практика"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00526",
@@ -6201,7 +6457,8 @@ window.VGIK_DB = {
       "tags": [
         "термин"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "scenes"
     },
     {
       "id": "VGIK-SOUND-00527",
@@ -6217,7 +6474,8 @@ window.VGIK_DB = {
         "термин",
         "практика"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00528",
@@ -6232,7 +6490,8 @@ window.VGIK_DB = {
       "tags": [
         "термин"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00529",
@@ -6248,7 +6507,8 @@ window.VGIK_DB = {
         "термин",
         "практика"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00530",
@@ -6263,7 +6523,8 @@ window.VGIK_DB = {
       "tags": [
         "термин"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00531",
@@ -6279,7 +6540,8 @@ window.VGIK_DB = {
         "термин",
         "практика"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00532",
@@ -6294,7 +6556,8 @@ window.VGIK_DB = {
       "tags": [
         "термин"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00533",
@@ -6310,7 +6573,8 @@ window.VGIK_DB = {
         "термин",
         "практика"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00534",
@@ -6325,7 +6589,8 @@ window.VGIK_DB = {
       "tags": [
         "термин"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00535",
@@ -6341,7 +6606,8 @@ window.VGIK_DB = {
         "термин",
         "практика"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00536",
@@ -6356,7 +6622,8 @@ window.VGIK_DB = {
       "tags": [
         "термин"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00537",
@@ -6372,7 +6639,8 @@ window.VGIK_DB = {
         "термин",
         "практика"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00538",
@@ -6387,7 +6655,8 @@ window.VGIK_DB = {
       "tags": [
         "термин"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00539",
@@ -6403,7 +6672,8 @@ window.VGIK_DB = {
         "термин",
         "практика"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00540",
@@ -6418,7 +6688,8 @@ window.VGIK_DB = {
       "tags": [
         "анализ"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "scenes"
     },
     {
       "id": "VGIK-SOUND-00541",
@@ -6433,7 +6704,8 @@ window.VGIK_DB = {
       "tags": [
         "анализ"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00542",
@@ -6448,7 +6720,8 @@ window.VGIK_DB = {
       "tags": [
         "анализ"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00543",
@@ -6463,7 +6736,8 @@ window.VGIK_DB = {
       "tags": [
         "анализ"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00544",
@@ -6478,7 +6752,8 @@ window.VGIK_DB = {
       "tags": [
         "анализ"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00545",
@@ -6493,7 +6768,8 @@ window.VGIK_DB = {
       "tags": [
         "анализ"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00546",
@@ -6508,7 +6784,8 @@ window.VGIK_DB = {
       "tags": [
         "анализ"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00547",
@@ -6523,7 +6800,8 @@ window.VGIK_DB = {
       "tags": [
         "анализ"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00548",
@@ -6538,7 +6816,8 @@ window.VGIK_DB = {
       "tags": [
         "анализ"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00549",
@@ -6553,7 +6832,8 @@ window.VGIK_DB = {
       "tags": [
         "анализ"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00550",
@@ -6568,7 +6848,8 @@ window.VGIK_DB = {
       "tags": [
         "анализ"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00551",
@@ -6583,7 +6864,8 @@ window.VGIK_DB = {
       "tags": [
         "анализ"
       ],
-      "source": "VGIK criteria + method"
+      "source": "VGIK criteria + method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00552",
@@ -6598,7 +6880,8 @@ window.VGIK_DB = {
       "tags": [
         "критерии"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00553",
@@ -6613,7 +6896,8 @@ window.VGIK_DB = {
       "tags": [
         "критерии"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00554",
@@ -6628,7 +6912,8 @@ window.VGIK_DB = {
       "tags": [
         "критерии"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00555",
@@ -6643,7 +6928,8 @@ window.VGIK_DB = {
       "tags": [
         "критерии"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00556",
@@ -6658,7 +6944,8 @@ window.VGIK_DB = {
       "tags": [
         "критерии"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00557",
@@ -6673,7 +6960,8 @@ window.VGIK_DB = {
       "tags": [
         "критерии"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00558",
@@ -6688,7 +6976,8 @@ window.VGIK_DB = {
       "tags": [
         "критерии"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00559",
@@ -6703,7 +6992,8 @@ window.VGIK_DB = {
       "tags": [
         "критерии"
       ],
-      "source": "VGIK DVI 2026"
+      "source": "VGIK DVI 2026",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00560",
@@ -6718,7 +7008,8 @@ window.VGIK_DB = {
       "tags": [
         "ловушка"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00561",
@@ -6733,7 +7024,8 @@ window.VGIK_DB = {
       "tags": [
         "ловушка"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00562",
@@ -6748,7 +7040,8 @@ window.VGIK_DB = {
       "tags": [
         "ловушка"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00563",
@@ -6763,7 +7056,8 @@ window.VGIK_DB = {
       "tags": [
         "ловушка"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00564",
@@ -6772,13 +7066,14 @@ window.VGIK_DB = {
       "type": "true_false_explain",
       "difficulty": 1,
       "question": "Можно ли не знать физику, если идёшь на звук?",
-      "answer": "Нет. Профессиональное испытание включает физические разделы.",
+      "answer": "Нет. Профессиональное испытание включает физические разделы.\n\nФормулы: v = λf; T = 1/f; ω = 2πf.",
       "choices": [],
-      "explanation": "Типичная ошибка на подготовке.",
+      "explanation": "Типичная ошибка на подготовке.\nФормулы: v = λf; T = 1/f; ω = 2πf.",
       "tags": [
         "ловушка"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00565",
@@ -6793,7 +7088,8 @@ window.VGIK_DB = {
       "tags": [
         "ловушка"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "scenes"
     },
     {
       "id": "VGIK-SOUND-00566",
@@ -6808,7 +7104,8 @@ window.VGIK_DB = {
       "tags": [
         "ловушка"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00567",
@@ -6823,7 +7120,8 @@ window.VGIK_DB = {
       "tags": [
         "ловушка"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00568",
@@ -6838,7 +7136,8 @@ window.VGIK_DB = {
       "tags": [
         "ловушка"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00569",
@@ -6853,7 +7152,8 @@ window.VGIK_DB = {
       "tags": [
         "ловушка"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00570",
@@ -6869,7 +7169,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00571",
@@ -6885,7 +7186,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00572",
@@ -6901,7 +7203,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00573",
@@ -6917,7 +7220,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00574",
@@ -6933,7 +7237,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00575",
@@ -6949,7 +7254,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00576",
@@ -6965,7 +7271,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00577",
@@ -6981,7 +7288,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00578",
@@ -6997,7 +7305,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00579",
@@ -7013,7 +7322,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00580",
@@ -7029,7 +7339,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00581",
@@ -7045,7 +7356,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00582",
@@ -7061,7 +7373,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00583",
@@ -7077,7 +7390,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00584",
@@ -7093,7 +7407,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00585",
@@ -7109,7 +7424,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00586",
@@ -7125,7 +7441,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00587",
@@ -7141,7 +7458,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00588",
@@ -7157,7 +7475,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00589",
@@ -7173,7 +7492,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00590",
@@ -7189,7 +7509,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00591",
@@ -7205,7 +7526,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00592",
@@ -7214,14 +7536,15 @@ window.VGIK_DB = {
       "type": "short",
       "difficulty": 1,
       "question": "Формула и единица для темы «скорость звука в воздухе».",
-      "answer": "примерно 340 м/с; единица: м/с.",
+      "answer": "примерно 340 м/с; единица: м/с.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; v = s/t; a = Δv/Δt; s = v0t + at²/2.",
       "choices": [],
-      "explanation": "Зачем звукорежиссёру: задержка, эхо, дистанция.",
+      "explanation": "Зачем звукорежиссёру: задержка, эхо, дистанция.\nФормулы: v = λf; T = 1/f; ω = 2πf; v = s/t; a = Δv/Δt; s = v0t + at²/2.",
       "tags": [
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00593",
@@ -7230,14 +7553,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Объясни простыми словами тему «скорость звука в воздухе» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу примерно 340 м/с, единицу м/с и связь со звукорежиссурой: задержка, эхо, дистанция.",
+      "answer": "Нужно назвать физический смысл, формулу примерно 340 м/с, единицу м/с и связь со звукорежиссурой: задержка, эхо, дистанция.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; v = s/t; a = Δv/Δt; s = v0t + at²/2.",
       "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
+      "explanation": "Ответ без тумана и шаманского бубна.\nФормулы: v = λf; T = 1/f; ω = 2πf; v = s/t; a = Δv/Δt; s = v0t + at²/2.",
       "tags": [
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00594",
@@ -7253,7 +7577,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00595",
@@ -7269,7 +7594,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "france"
     },
     {
       "id": "VGIK-SOUND-00596",
@@ -7285,7 +7611,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00597",
@@ -7301,7 +7628,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00598",
@@ -7317,7 +7645,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00599",
@@ -7333,7 +7662,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00600",
@@ -7349,7 +7679,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00601",
@@ -7365,7 +7696,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00602",
@@ -7381,7 +7713,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00603",
@@ -7397,7 +7730,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00604",
@@ -7413,7 +7747,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00605",
@@ -7429,7 +7764,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00606",
@@ -7445,7 +7781,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00607",
@@ -7461,7 +7798,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00608",
@@ -7477,7 +7815,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00609",
@@ -7493,7 +7832,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00610",
@@ -7509,7 +7849,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00611",
@@ -7525,7 +7866,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00612",
@@ -7541,7 +7883,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00613",
@@ -7557,7 +7900,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00614",
@@ -7573,7 +7917,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00615",
@@ -7589,7 +7934,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00616",
@@ -7605,7 +7951,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00617",
@@ -7621,7 +7968,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00618",
@@ -7637,7 +7985,8 @@ window.VGIK_DB = {
         "физика",
         "формула"
       ],
-      "source": "VGIK physics topics + method"
+      "source": "VGIK physics topics + method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00619",
@@ -7653,7 +8002,8 @@ window.VGIK_DB = {
         "физика",
         "устный ответ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00620",
@@ -7662,14 +8012,15 @@ window.VGIK_DB = {
       "type": "calculation",
       "difficulty": 2,
       "question": "Тело прошло 120 м за 10 с. Найди скорость.",
-      "answer": "12 м/с",
+      "answer": "12 м/с\n\nФормулы: v = s/t; a = Δv/Δt; s = v0t + at²/2.",
       "choices": [],
-      "explanation": "v = s/t = 120/10 = 12.",
+      "explanation": "v = s/t = 120/10 = 12.\nФормулы: v = s/t; a = Δv/Δt; s = v0t + at²/2.",
       "tags": [
         "физика",
         "задача"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00621",
@@ -7678,14 +8029,15 @@ window.VGIK_DB = {
       "type": "calculation",
       "difficulty": 2,
       "question": "Скорость выросла с 2 до 12 м/с за 5 с. Найди ускорение.",
-      "answer": "2 м/с²",
+      "answer": "2 м/с²\n\nФормулы: v = s/t; a = Δv/Δt; s = v0t + at²/2.",
       "choices": [],
-      "explanation": "a = (12-2)/5 = 2.",
+      "explanation": "a = (12-2)/5 = 2.\nФормулы: v = s/t; a = Δv/Δt; s = v0t + at²/2.",
       "tags": [
         "физика",
         "задача"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00622",
@@ -7694,14 +8046,15 @@ window.VGIK_DB = {
       "type": "calculation",
       "difficulty": 2,
       "question": "Период 0,02 с. Найди частоту.",
-      "answer": "50 Гц",
+      "answer": "50 Гц\n\nФормулы: v = λf; T = 1/f; ω = 2πf; x = A cos(ωt + φ); T = 2π√(l/g); T = 2π√(m/k).",
       "choices": [],
-      "explanation": "f = 1/0,02 = 50.",
+      "explanation": "f = 1/0,02 = 50.\nФормулы: v = λf; T = 1/f; ω = 2πf; x = A cos(ωt + φ); T = 2π√(l/g); T = 2π√(m/k).",
       "tags": [
         "физика",
         "задача"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00623",
@@ -7710,14 +8063,15 @@ window.VGIK_DB = {
       "type": "calculation",
       "difficulty": 2,
       "question": "Частота 440 Гц. Найди период.",
-      "answer": "≈0,00227 с",
+      "answer": "≈0,00227 с\n\nФормулы: v = λf; T = 1/f; ω = 2πf; x = A cos(ωt + φ); T = 2π√(l/g); T = 2π√(m/k).",
       "choices": [],
-      "explanation": "T = 1/440.",
+      "explanation": "T = 1/440.\nФормулы: v = λf; T = 1/f; ω = 2πf; x = A cos(ωt + φ); T = 2π√(l/g); T = 2π√(m/k).",
       "tags": [
         "физика",
         "задача"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00624",
@@ -7726,14 +8080,15 @@ window.VGIK_DB = {
       "type": "calculation",
       "difficulty": 2,
       "question": "v = 340 м/с, f = 170 Гц. Найди λ.",
-      "answer": "2 м",
+      "answer": "2 м\n\nФормулы: v = λf; T = 1/f; ω = 2πf.",
       "choices": [],
-      "explanation": "λ = v/f = 340/170.",
+      "explanation": "λ = v/f = 340/170.\nФормулы: v = λf; T = 1/f; ω = 2πf.",
       "tags": [
         "физика",
         "задача"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00625",
@@ -7742,14 +8097,15 @@ window.VGIK_DB = {
       "type": "calculation",
       "difficulty": 2,
       "question": "λ = 0,5 м, f = 680 Гц. Найди v.",
-      "answer": "340 м/с",
+      "answer": "340 м/с\n\nФормулы: v = λf; T = 1/f; ω = 2πf.",
       "choices": [],
-      "explanation": "v = λf = 0,5·680.",
+      "explanation": "v = λf = 0,5·680.\nФормулы: v = λf; T = 1/f; ω = 2πf.",
       "tags": [
         "физика",
         "задача"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00626",
@@ -7758,14 +8114,15 @@ window.VGIK_DB = {
       "type": "calculation",
       "difficulty": 2,
       "question": "q1 = q2 = 1 мкКл, r = 0,1 м. Оцени силу Кулона.",
-      "answer": "0,9 Н",
+      "answer": "0,9 Н\n\nФормулы: F = k|q1q2|/r²; E = F/q = k|q|/r².",
       "choices": [],
-      "explanation": "F = 9·10^9·10^-6·10^-6/0,01.",
+      "explanation": "F = 9·10^9·10^-6·10^-6/0,01.\nФормулы: F = k|q1q2|/r²; E = F/q = k|q|/r².",
       "tags": [
         "физика",
         "задача"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00627",
@@ -7774,14 +8131,15 @@ window.VGIK_DB = {
       "type": "calculation",
       "difficulty": 2,
       "question": "U = 12 В, R = 6 Ом. Найди I.",
-      "answer": "2 А",
+      "answer": "2 А\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [],
-      "explanation": "I = U/R = 12/6.",
+      "explanation": "I = U/R = 12/6.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "физика",
         "задача"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00628",
@@ -7790,14 +8148,15 @@ window.VGIK_DB = {
       "type": "calculation",
       "difficulty": 2,
       "question": "I = 0,5 А, R = 20 Ом. Найди U.",
-      "answer": "10 В",
+      "answer": "10 В\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [],
-      "explanation": "U = IR.",
+      "explanation": "U = IR.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "физика",
         "задача"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00629",
@@ -7806,14 +8165,15 @@ window.VGIK_DB = {
       "type": "calculation",
       "difficulty": 2,
       "question": "2 Ом и 3 Ом последовательно. Найди R.",
-      "answer": "5 Ом",
+      "answer": "5 Ом\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [],
-      "explanation": "R = 2 + 3.",
+      "explanation": "R = 2 + 3.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "физика",
         "задача"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00630",
@@ -7822,14 +8182,15 @@ window.VGIK_DB = {
       "type": "calculation",
       "difficulty": 2,
       "question": "6 Ом и 6 Ом параллельно. Найди R.",
-      "answer": "3 Ом",
+      "answer": "3 Ом\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [],
-      "explanation": "Для одинаковых параллельно R/2.",
+      "explanation": "Для одинаковых параллельно R/2.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "физика",
         "задача"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00631",
@@ -7838,14 +8199,15 @@ window.VGIK_DB = {
       "type": "calculation",
       "difficulty": 2,
       "question": "C = 10 мкФ, U = 100 В. Найди q.",
-      "answer": "0,001 Кл",
+      "answer": "0,001 Кл\n\nФормулы: C = q/U; W = CU²/2; Cпар = C1 + C2 + …; 1/Cпосл = 1/C1 + 1/C2 + ….",
       "choices": [],
-      "explanation": "q = CU = 10·10^-6·100.",
+      "explanation": "q = CU = 10·10^-6·100.\nФормулы: C = q/U; W = CU²/2; Cпар = C1 + C2 + …; 1/Cпосл = 1/C1 + 1/C2 + ….",
       "tags": [
         "физика",
         "задача"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00632",
@@ -7854,14 +8216,15 @@ window.VGIK_DB = {
       "type": "calculation",
       "difficulty": 2,
       "question": "U = 12 В, I = 2 А. Найди P.",
-      "answer": "24 Вт",
+      "answer": "24 Вт\n\nФормулы: C = q/U; W = CU²/2; Cпар = C1 + C2 + …; 1/Cпосл = 1/C1 + 1/C2 + ….",
       "choices": [],
-      "explanation": "P = UI.",
+      "explanation": "P = UI.\nФормулы: C = q/U; W = CU²/2; Cпар = C1 + C2 + …; 1/Cпосл = 1/C1 + 1/C2 + ….",
       "tags": [
         "физика",
         "задача"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00633",
@@ -7870,14 +8233,15 @@ window.VGIK_DB = {
       "type": "calculation",
       "difficulty": 2,
       "question": "N1=100, N2=200, U1=12 В. Найди U2.",
-      "answer": "24 В",
+      "answer": "24 В\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S; F_A = BIl sin α; F_Л = qvB sin α; Φ = BS cos α; ε = -ΔΦ/Δt.",
       "choices": [],
-      "explanation": "U2/U1 = N2/N1.",
+      "explanation": "U2/U1 = N2/N1.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S; F_A = BIl sin α; F_Л = qvB sin α; Φ = BS cos α; ε = -ΔΦ/Δt.",
       "tags": [
         "физика",
         "задача"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00634",
@@ -7886,14 +8250,15 @@ window.VGIK_DB = {
       "type": "calculation",
       "difficulty": 2,
       "question": "f = 1000 Гц. Найди T.",
-      "answer": "0,001 с",
+      "answer": "0,001 с\n\nФормулы: v = λf; T = 1/f; I = U/R; F = ma.",
       "choices": [],
-      "explanation": "T = 1/f.",
+      "explanation": "T = 1/f.\nФормулы: v = λf; T = 1/f; I = U/R; F = ma.",
       "tags": [
         "физика",
         "задача"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00635",
@@ -7902,13 +8267,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: скорость измеряется в ________.",
-      "answer": "м/с",
+      "answer": "м/с\n\nФормулы: v = s/t; a = Δv/Δt; s = v0t + at²/2.",
       "choices": [],
-      "explanation": "Формула: v = s/t.",
+      "explanation": "Формула: v = s/t.\nФормулы: v = s/t; a = Δv/Δt; s = v0t + at²/2.",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00636",
@@ -7917,14 +8283,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «скорость» связана со звукорежиссурой?",
-      "answer": "движение источника звука, шумы движения, ритм действий",
+      "answer": "движение источника звука, шумы движения, ритм действий\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; v = s/t.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; v = s/t.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00637",
@@ -7933,13 +8300,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: ускорение измеряется в ________.",
-      "answer": "м/с²",
+      "answer": "м/с²\n\nФормулы: v = s/t; a = Δv/Δt; s = v0t + at²/2.",
       "choices": [],
-      "explanation": "Формула: a = Δv/Δt.",
+      "explanation": "Формула: a = Δv/Δt.\nФормулы: v = s/t; a = Δv/Δt; s = v0t + at²/2.",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00638",
@@ -7948,14 +8316,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «ускорение» связана со звукорежиссурой?",
-      "answer": "изменение движения тел и механизмов",
+      "answer": "изменение движения тел и механизмов\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; v = s/t.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; v = s/t.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00639",
@@ -7964,13 +8333,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: сила измеряется в ________.",
-      "answer": "Н",
+      "answer": "Н\n\nФормулы: F = ma; p = mv; A = Fs cos α; E_k = mv²/2; E_p = mgh; P = A/t; η = Aпол/Aзат.",
       "choices": [],
-      "explanation": "Формула: F = ma.",
+      "explanation": "Формула: F = ma.\nФормулы: F = ma; p = mv; A = Fs cos α; E_k = mv²/2; E_p = mgh; P = A/t; η = Aпол/Aзат.",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00640",
@@ -7979,14 +8349,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «сила» связана со звукорежиссурой?",
-      "answer": "механика динамика, микрофона, колебаний",
+      "answer": "механика динамика, микрофона, колебаний\n\nФормулы: v = λf; T = 1/f; ω = 2πf; x = A cos(ωt + φ); T = 2π√(l/g); T = 2π√(m/k); I = U/R.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; x = A cos(ωt + φ); T = 2π√(l/g); T = 2π√(m/k); I = U/R.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00641",
@@ -7995,13 +8366,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: импульс измеряется в ________.",
-      "answer": "кг·м/с",
+      "answer": "кг·м/с\n\nФормулы: F = ma; p = mv; A = Fs cos α; E_k = mv²/2; E_p = mgh; P = A/t; η = Aпол/Aзат.",
       "choices": [],
-      "explanation": "Формула: p = mv.",
+      "explanation": "Формула: p = mv.\nФормулы: F = ma; p = mv; A = Fs cos α; E_k = mv²/2; E_p = mgh; P = A/t; η = Aпол/Aзат.",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00642",
@@ -8010,14 +8382,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «импульс» связана со звукорежиссурой?",
-      "answer": "удары, столкновения, механические эффекты",
+      "answer": "удары, столкновения, механические эффекты\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00643",
@@ -8026,13 +8399,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: работа измеряется в ________.",
-      "answer": "Дж",
+      "answer": "Дж\n\nФормулы: F = ma; p = mv; A = Fs cos α; E_k = mv²/2; E_p = mgh; P = A/t; η = Aпол/Aзат.",
       "choices": [],
-      "explanation": "Формула: A = Fs cos α.",
+      "explanation": "Формула: A = Fs cos α.\nФормулы: F = ma; p = mv; A = Fs cos α; E_k = mv²/2; E_p = mgh; P = A/t; η = Aпол/Aзат.",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00644",
@@ -8041,14 +8415,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «работа» связана со звукорежиссурой?",
-      "answer": "энергия механического действия",
+      "answer": "энергия механического действия\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; C = q/U.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; C = q/U.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00645",
@@ -8057,13 +8432,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: мощность измеряется в ________.",
-      "answer": "Вт",
+      "answer": "Вт\n\nФормулы: F = ma; p = mv; A = Fs cos α; E_k = mv²/2; E_p = mgh; P = A/t; η = Aпол/Aзат.",
       "choices": [],
-      "explanation": "Формула: P = A/t.",
+      "explanation": "Формула: P = A/t.\nФормулы: F = ma; p = mv; A = Fs cos α; E_k = mv²/2; E_p = mgh; P = A/t; η = Aпол/Aзат.",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00646",
@@ -8072,14 +8448,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «мощность» связана со звукорежиссурой?",
-      "answer": "скорость передачи энергии",
+      "answer": "скорость передачи энергии\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; v = s/t.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; v = s/t.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00647",
@@ -8088,13 +8465,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: частота измеряется в ________.",
-      "answer": "Гц",
+      "answer": "Гц\n\nФормулы: v = λf; T = 1/f; ω = 2πf.",
       "choices": [],
-      "explanation": "Формула: f = 1/T.",
+      "explanation": "Формула: f = 1/T.\nФормулы: v = λf; T = 1/f; ω = 2πf.",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00648",
@@ -8103,14 +8481,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «частота» связана со звукорежиссурой?",
-      "answer": "высота звука",
+      "answer": "высота звука\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00649",
@@ -8119,13 +8498,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: период измеряется в ________.",
-      "answer": "с",
+      "answer": "с\n\nФормулы: v = λf; T = 1/f; ω = 2πf.",
       "choices": [],
-      "explanation": "Формула: T = 1/f.",
+      "explanation": "Формула: T = 1/f.\nФормулы: v = λf; T = 1/f; ω = 2πf.",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00650",
@@ -8134,14 +8514,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «период» связана со звукорежиссурой?",
-      "answer": "время одного колебания",
+      "answer": "время одного колебания\n\nФормулы: v = λf; T = 1/f; ω = 2πf; x = A cos(ωt + φ); T = 2π√(l/g); T = 2π√(m/k); I = U/R.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; x = A cos(ωt + φ); T = 2π√(l/g); T = 2π√(m/k); I = U/R.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00651",
@@ -8150,13 +8531,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: период маятника измеряется в ________.",
-      "answer": "с",
+      "answer": "с\n\nФормулы: v = λf; T = 1/f; ω = 2πf; x = A cos(ωt + φ); T = 2π√(l/g); T = 2π√(m/k).",
       "choices": [],
-      "explanation": "Формула: T = 2π√(l/g).",
+      "explanation": "Формула: T = 2π√(l/g).\nФормулы: v = λf; T = 1/f; ω = 2πf; x = A cos(ωt + φ); T = 2π√(l/g); T = 2π√(m/k).",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00652",
@@ -8165,14 +8547,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «период маятника» связана со звукорежиссурой?",
-      "answer": "пример механических колебаний",
+      "answer": "пример механических колебаний\n\nФормулы: v = λf; T = 1/f; ω = 2πf; x = A cos(ωt + φ); T = 2π√(l/g); T = 2π√(m/k); I = U/R.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; x = A cos(ωt + φ); T = 2π√(l/g); T = 2π√(m/k); I = U/R.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00653",
@@ -8181,13 +8564,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: длина волны измеряется в ________.",
-      "answer": "м",
+      "answer": "м\n\nФормулы: v = λf; T = 1/f; ω = 2πf.",
       "choices": [],
-      "explanation": "Формула: λ = v/f.",
+      "explanation": "Формула: λ = v/f.\nФормулы: v = λf; T = 1/f; ω = 2πf.",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00654",
@@ -8196,14 +8580,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «длина волны» связана со звукорежиссурой?",
-      "answer": "связь частоты и распространения",
+      "answer": "связь частоты и распространения\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00655",
@@ -8212,13 +8597,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: скорость волны измеряется в ________.",
-      "answer": "м/с",
+      "answer": "м/с\n\nФормулы: v = s/t; a = Δv/Δt; s = v0t + at²/2.",
       "choices": [],
-      "explanation": "Формула: v = λf.",
+      "explanation": "Формула: v = λf.\nФормулы: v = s/t; a = Δv/Δt; s = v0t + at²/2.",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00656",
@@ -8227,14 +8613,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «скорость волны» связана со звукорежиссурой?",
-      "answer": "распространение звука",
+      "answer": "распространение звука\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; v = s/t.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; v = s/t.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00657",
@@ -8243,13 +8630,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: скорость звука в воздухе измеряется в ________.",
-      "answer": "м/с",
+      "answer": "м/с\n\nФормулы: v = λf; T = 1/f; ω = 2πf; v = s/t; a = Δv/Δt; s = v0t + at²/2.",
       "choices": [],
-      "explanation": "Формула: примерно 340 м/с.",
+      "explanation": "Формула: примерно 340 м/с.\nФормулы: v = λf; T = 1/f; ω = 2πf; v = s/t; a = Δv/Δt; s = v0t + at²/2.",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00658",
@@ -8258,14 +8646,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «скорость звука в воздухе» связана со звукорежиссурой?",
-      "answer": "задержка, эхо, дистанция",
+      "answer": "задержка, эхо, дистанция\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; v = s/t.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; v = s/t.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00659",
@@ -8274,13 +8663,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: закон Кулона измеряется в ________.",
-      "answer": "Н",
+      "answer": "Н\n\nФормулы: F = k|q1q2|/r²; E = F/q = k|q|/r².",
       "choices": [],
-      "explanation": "Формула: F = k|q1q2|/r².",
+      "explanation": "Формула: F = k|q1q2|/r².\nФормулы: F = k|q1q2|/r²; E = F/q = k|q|/r².",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00660",
@@ -8296,7 +8686,8 @@ window.VGIK_DB = {
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "france"
     },
     {
       "id": "VGIK-SOUND-00661",
@@ -8305,13 +8696,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: сила тока измеряется в ________.",
-      "answer": "А",
+      "answer": "А\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma; p = mv; A = Fs cos α; E_k = mv²/2.",
       "choices": [],
-      "explanation": "Формула: I = q/t.",
+      "explanation": "Формула: I = q/t.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma; p = mv; A = Fs cos α; E_k = mv²/2.",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00662",
@@ -8320,14 +8712,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «сила тока» связана со звукорежиссурой?",
-      "answer": "электрический сигнал",
+      "answer": "электрический сигнал\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00663",
@@ -8336,13 +8729,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: закон Ома измеряется в ________.",
-      "answer": "А",
+      "answer": "А\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [],
-      "explanation": "Формула: I = U/R.",
+      "explanation": "Формула: I = U/R.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00664",
@@ -8351,14 +8745,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «закон Ома» связана со звукорежиссурой?",
-      "answer": "цепи, кабели, аппаратура",
+      "answer": "цепи, кабели, аппаратура\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00665",
@@ -8367,13 +8762,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: последовательное сопротивление измеряется в ________.",
-      "answer": "Ом",
+      "answer": "Ом\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [],
-      "explanation": "Формула: R = R1 + R2 + ....",
+      "explanation": "Формула: R = R1 + R2 + ....\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00666",
@@ -8382,14 +8778,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «последовательное сопротивление» связана со звукорежиссурой?",
-      "answer": "цепи",
+      "answer": "цепи\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00667",
@@ -8398,13 +8795,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: параллельное сопротивление измеряется в ________.",
-      "answer": "Ом",
+      "answer": "Ом\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [],
-      "explanation": "Формула: 1/R = 1/R1 + 1/R2 + ....",
+      "explanation": "Формула: 1/R = 1/R1 + 1/R2 + ....\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00668",
@@ -8413,14 +8811,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «параллельное сопротивление» связана со звукорежиссурой?",
-      "answer": "цепи",
+      "answer": "цепи\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00669",
@@ -8429,13 +8828,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: магнитный поток измеряется в ________.",
-      "answer": "Вб",
+      "answer": "Вб\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S; F_A = BIl sin α; F_Л = qvB sin α; Φ = BS cos α; ε = -ΔΦ/Δt.",
       "choices": [],
-      "explanation": "Формула: Φ = BS cos α.",
+      "explanation": "Формула: Φ = BS cos α.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S; F_A = BIl sin α; F_Л = qvB sin α; Φ = BS cos α; ε = -ΔΦ/Δt.",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00670",
@@ -8444,14 +8844,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «магнитный поток» связана со звукорежиссурой?",
-      "answer": "индукция",
+      "answer": "индукция\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F_A = BIl sin α.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F_A = BIl sin α.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00671",
@@ -8460,13 +8861,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: закон Фарадея измеряется в ________.",
-      "answer": "В",
+      "answer": "В\n\nФормулы: v = λf; T = 1/f; I = U/R; F = ma.",
       "choices": [],
-      "explanation": "Формула: ε = -ΔΦ/Δt.",
+      "explanation": "Формула: ε = -ΔΦ/Δt.\nФормулы: v = λf; T = 1/f; I = U/R; F = ma.",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00672",
@@ -8475,14 +8877,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «закон Фарадея» связана со звукорежиссурой?",
-      "answer": "микрофон, динамик, трансформатор",
+      "answer": "микрофон, динамик, трансформатор\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F_A = BIl sin α.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F_A = BIl sin α.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00673",
@@ -8491,13 +8894,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: сила Ампера измеряется в ________.",
-      "answer": "Н",
+      "answer": "Н\n\nФормулы: F_A = BIl sin α; F_Л = qvB sin α; Φ = BS cos α; ε = -ΔΦ/Δt; Us/Up = Ns/Np; F = ma; p = mv.",
       "choices": [],
-      "explanation": "Формула: F = BIl sin α.",
+      "explanation": "Формула: F = BIl sin α.\nФормулы: F_A = BIl sin α; F_Л = qvB sin α; Φ = BS cos α; ε = -ΔΦ/Δt; Us/Up = Ns/Np; F = ma; p = mv.",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00674",
@@ -8506,14 +8910,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «сила Ампера» связана со звукорежиссурой?",
-      "answer": "динамический громкоговоритель",
+      "answer": "динамический громкоговоритель\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F_A = BIl sin α.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F_A = BIl sin α.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00675",
@@ -8522,13 +8927,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: ёмкость измеряется в ________.",
-      "answer": "Ф",
+      "answer": "Ф\n\nФормулы: C = q/U; W = CU²/2; Cпар = C1 + C2 + …; 1/Cпосл = 1/C1 + 1/C2 + ….",
       "choices": [],
-      "explanation": "Формула: C = q/U.",
+      "explanation": "Формула: C = q/U.\nФормулы: C = q/U; W = CU²/2; Cпар = C1 + C2 + …; 1/Cпосл = 1/C1 + 1/C2 + ….",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00676",
@@ -8537,14 +8943,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «ёмкость» связана со звукорежиссурой?",
-      "answer": "конденсаторы в аудиоаппаратуре",
+      "answer": "конденсаторы в аудиоаппаратуре\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; C = q/U.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; C = q/U.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00677",
@@ -8553,13 +8960,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: энергия конденсатора измеряется в ________.",
-      "answer": "Дж",
+      "answer": "Дж\n\nФормулы: C = q/U; W = CU²/2; Cпар = C1 + C2 + …; 1/Cпосл = 1/C1 + 1/C2 + ….",
       "choices": [],
-      "explanation": "Формула: W = CU²/2.",
+      "explanation": "Формула: W = CU²/2.\nФормулы: C = q/U; W = CU²/2; Cпар = C1 + C2 + …; 1/Cпосл = 1/C1 + 1/C2 + ….",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00678",
@@ -8568,14 +8976,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «энергия конденсатора» связана со звукорежиссурой?",
-      "answer": "электрическая энергия",
+      "answer": "электрическая энергия\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; C = q/U.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; C = q/U.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00679",
@@ -8584,13 +8993,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: мощность тока измеряется в ________.",
-      "answer": "Вт",
+      "answer": "Вт\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma; p = mv; A = Fs cos α; E_k = mv²/2.",
       "choices": [],
-      "explanation": "Формула: P = UI.",
+      "explanation": "Формула: P = UI.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma; p = mv; A = Fs cos α; E_k = mv²/2.",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00680",
@@ -8599,14 +9009,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «мощность тока» связана со звукорежиссурой?",
-      "answer": "нагрузка, усилитель",
+      "answer": "нагрузка, усилитель\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00681",
@@ -8615,13 +9026,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: трансформатор измеряется в ________.",
-      "answer": "безразмерно",
+      "answer": "безразмерно\n\nФормулы: F_A = BIl sin α; F_Л = qvB sin α; Φ = BS cos α; ε = -ΔΦ/Δt; Us/Up = Ns/Np.",
       "choices": [],
-      "explanation": "Формула: U2/U1 = N2/N1.",
+      "explanation": "Формула: U2/U1 = N2/N1.\nФормулы: F_A = BIl sin α; F_Л = qvB sin α; Φ = BS cos α; ε = -ΔΦ/Δt; Us/Up = Ns/Np.",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00682",
@@ -8630,14 +9042,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «трансформатор» связана со звукорежиссурой?",
-      "answer": "питание и согласование",
+      "answer": "питание и согласование\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F_A = BIl sin α.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F_A = BIl sin α.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00683",
@@ -8646,13 +9059,14 @@ window.VGIK_DB = {
       "type": "fill_blank",
       "difficulty": 1,
       "question": "Заполни: формула Томсона измеряется в ________.",
-      "answer": "с",
+      "answer": "с\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [],
-      "explanation": "Формула: T = 2π√(LC).",
+      "explanation": "Формула: T = 2π√(LC).\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "СИ"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00684",
@@ -8661,14 +9075,15 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 2,
       "question": "Как тема «формула Томсона» связана со звукорежиссурой?",
-      "answer": "радиосвязь, колебательный контур",
+      "answer": "радиосвязь, колебательный контур\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [],
-      "explanation": "Смысл подготовки: связать физику с профессией.",
+      "explanation": "Смысл подготовки: связать физику с профессией.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "физика",
         "звук"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00685",
@@ -8683,7 +9098,8 @@ window.VGIK_DB = {
       "tags": [
         "сравнение"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00686",
@@ -8698,7 +9114,8 @@ window.VGIK_DB = {
       "tags": [
         "сравнение"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "directors"
     },
     {
       "id": "VGIK-SOUND-00687",
@@ -8707,13 +9124,14 @@ window.VGIK_DB = {
       "type": "oral_answer",
       "difficulty": 3,
       "question": "Сравни музыку в «Александре Невском» и «Жестоком романсе».",
-      "answer": "У Эйзенштейна музыка организует эпос и битву, у Рязанова романс работает через личную драму.",
+      "answer": "У Эйзенштейна музыка организует эпос и битву, у Рязанова романс работает через личную драму.\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma; p = mv; A = Fs cos α; E_k = mv²/2.",
       "choices": [],
-      "explanation": "Сравнения показывают, что ты думаешь, а не просто носишь список фильмов как талисман.",
+      "explanation": "Сравнения показывают, что ты думаешь, а не просто носишь список фильмов как талисман.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma; p = mv; A = Fs cos α; E_k = mv²/2.",
       "tags": [
         "сравнение"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "physics"
     },
     {
       "id": "VGIK-SOUND-00688",
@@ -8728,7 +9146,8 @@ window.VGIK_DB = {
       "tags": [
         "сравнение"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00689",
@@ -8743,7 +9162,8 @@ window.VGIK_DB = {
       "tags": [
         "сравнение"
       ],
-      "source": "method"
+      "source": "method",
+      "category": "sound"
     },
     {
       "id": "VGIK-EXTRA-00001",
@@ -8763,7 +9183,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00002",
@@ -8783,7 +9204,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00003",
@@ -8803,7 +9225,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00004",
@@ -8823,7 +9246,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00005",
@@ -8843,7 +9267,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00006",
@@ -8863,7 +9288,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00007",
@@ -8883,7 +9309,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00008",
@@ -8903,7 +9330,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00009",
@@ -8923,7 +9351,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00010",
@@ -8943,7 +9372,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00011",
@@ -8963,7 +9393,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00012",
@@ -8983,7 +9414,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00013",
@@ -9003,7 +9435,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00014",
@@ -9023,7 +9456,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00015",
@@ -9043,7 +9477,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00016",
@@ -9063,7 +9498,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00017",
@@ -9083,7 +9519,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00018",
@@ -9103,7 +9540,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00019",
@@ -9123,7 +9561,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00020",
@@ -9143,7 +9582,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00021",
@@ -9163,7 +9603,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00022",
@@ -9183,7 +9624,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00023",
@@ -9203,7 +9645,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00024",
@@ -9223,7 +9666,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00025",
@@ -9243,7 +9687,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00026",
@@ -9263,7 +9708,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00027",
@@ -9283,7 +9729,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00028",
@@ -9303,7 +9750,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00029",
@@ -9323,7 +9771,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00030",
@@ -9343,7 +9792,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00031",
@@ -9363,7 +9813,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00032",
@@ -9383,7 +9834,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00033",
@@ -9403,7 +9855,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00034",
@@ -9423,7 +9876,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00035",
@@ -9443,7 +9897,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00036",
@@ -9463,7 +9918,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00037",
@@ -9483,7 +9939,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00038",
@@ -9503,7 +9960,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00039",
@@ -9523,7 +9981,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00040",
@@ -9543,7 +10002,8 @@ window.VGIK_DB = {
       "tags": [
         "режиссёры"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00041",
@@ -9563,7 +10023,8 @@ window.VGIK_DB = {
       "tags": [
         "философия кино"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "philosophy"
     },
     {
       "id": "VGIK-EXTRA-00042",
@@ -9583,7 +10044,8 @@ window.VGIK_DB = {
       "tags": [
         "философия кино"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "philosophy"
     },
     {
       "id": "VGIK-EXTRA-00043",
@@ -9603,7 +10065,8 @@ window.VGIK_DB = {
       "tags": [
         "философия кино"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "philosophy"
     },
     {
       "id": "VGIK-EXTRA-00044",
@@ -9623,7 +10086,8 @@ window.VGIK_DB = {
       "tags": [
         "философия кино"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "philosophy"
     },
     {
       "id": "VGIK-EXTRA-00045",
@@ -9643,7 +10107,8 @@ window.VGIK_DB = {
       "tags": [
         "философия кино"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "philosophy"
     },
     {
       "id": "VGIK-EXTRA-00046",
@@ -9663,7 +10128,8 @@ window.VGIK_DB = {
       "tags": [
         "философия кино"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "philosophy"
     },
     {
       "id": "VGIK-EXTRA-00047",
@@ -9683,7 +10149,8 @@ window.VGIK_DB = {
       "tags": [
         "философия кино"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "philosophy"
     },
     {
       "id": "VGIK-EXTRA-00048",
@@ -9703,7 +10170,8 @@ window.VGIK_DB = {
       "tags": [
         "философия кино"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "philosophy"
     },
     {
       "id": "VGIK-EXTRA-00049",
@@ -9723,7 +10191,8 @@ window.VGIK_DB = {
       "tags": [
         "философия кино"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "philosophy"
     },
     {
       "id": "VGIK-EXTRA-00050",
@@ -9743,7 +10212,8 @@ window.VGIK_DB = {
       "tags": [
         "философия кино"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "philosophy"
     },
     {
       "id": "VGIK-EXTRA-00051",
@@ -9763,7 +10233,8 @@ window.VGIK_DB = {
       "tags": [
         "философия кино"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "philosophy"
     },
     {
       "id": "VGIK-EXTRA-00052",
@@ -9783,7 +10254,8 @@ window.VGIK_DB = {
       "tags": [
         "философия кино"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "philosophy"
     },
     {
       "id": "VGIK-EXTRA-00053",
@@ -9803,7 +10275,8 @@ window.VGIK_DB = {
       "tags": [
         "философия кино"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "philosophy"
     },
     {
       "id": "VGIK-EXTRA-00054",
@@ -9823,7 +10296,8 @@ window.VGIK_DB = {
       "tags": [
         "философия кино"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "philosophy"
     },
     {
       "id": "VGIK-EXTRA-00055",
@@ -9843,7 +10317,8 @@ window.VGIK_DB = {
       "tags": [
         "философия кино"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-EXTRA-00056",
@@ -9864,7 +10339,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "звукозрительный анализ"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-EXTRA-00057",
@@ -9885,7 +10361,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "звукозрительный анализ"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-EXTRA-00058",
@@ -9906,7 +10383,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "звукозрительный анализ"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-EXTRA-00059",
@@ -9915,19 +10393,20 @@ window.VGIK_DB = {
       "type": "multiple_choice",
       "difficulty": 2,
       "question": "Что звук меняет в сцене?",
-      "answer": "Он может менять напряжение, пространство, ритм, отношение к герою или смысл изображения.",
+      "answer": "Он может менять напряжение, пространство, ритм, отношение к герою или смысл изображения.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [
-        "Он может менять напряжение, пространство, ритм, отношение к герою или смысл изображения.",
+        "Он может менять напряжение, пространство, ритм, отношение к герою или смысл изображения.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
         "Проверить, склеивает ли звук кадры, предупреждает событие, обрывается или держит ритм.",
         "Понять, слышат ли её герои, где она входит, что подчёркивает и меняет ли отношение к сцене.",
         "Смотреть, какой звук вводит пространство и ожидание: фон, речь, музыка, одиночный шум."
       ],
-      "explanation": "Дополнительный банк для тематического режима.",
+      "explanation": "Дополнительный банк для тематического режима.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "разбор сцен",
         "звукозрительный анализ"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "physics"
     },
     {
       "id": "VGIK-EXTRA-00060",
@@ -9948,7 +10427,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "звукозрительный анализ"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-EXTRA-00061",
@@ -9969,7 +10449,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "звукозрительный анализ"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-EXTRA-00062",
@@ -9990,7 +10471,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "звукозрительный анализ"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-EXTRA-00063",
@@ -10011,7 +10493,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "звукозрительный анализ"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-EXTRA-00064",
@@ -10032,7 +10515,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "звукозрительный анализ"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-EXTRA-00065",
@@ -10053,7 +10537,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "звукозрительный анализ"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-EXTRA-00066",
@@ -10074,7 +10559,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "звукозрительный анализ"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-EXTRA-00067",
@@ -10095,7 +10581,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "звукозрительный анализ"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-EXTRA-00068",
@@ -10116,7 +10603,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "звукозрительный анализ"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-EXTRA-00069",
@@ -10137,7 +10625,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "звукозрительный анализ"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-EXTRA-00070",
@@ -10158,7 +10647,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "звукозрительный анализ"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-EXTRA-00071",
@@ -10179,7 +10669,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "звукозрительный анализ"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-EXTRA-00072",
@@ -10200,7 +10691,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "звукозрительный анализ"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-EXTRA-00073",
@@ -10221,7 +10713,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "звукозрительный анализ"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-EXTRA-00074",
@@ -10242,7 +10735,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "звукозрительный анализ"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-EXTRA-00075",
@@ -10263,7 +10757,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "звукозрительный анализ"
       ],
-      "source": "extra_bank"
+      "source": "extra_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00001",
@@ -10285,7 +10780,8 @@ window.VGIK_DB = {
         "фильм",
         "Зеркало"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00002",
@@ -10307,7 +10803,8 @@ window.VGIK_DB = {
         "звук",
         "Зеркало"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00003",
@@ -10329,7 +10826,8 @@ window.VGIK_DB = {
         "звук",
         "Зеркало"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00004",
@@ -10351,7 +10849,8 @@ window.VGIK_DB = {
         "звук",
         "Зеркало"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00005",
@@ -10373,7 +10872,8 @@ window.VGIK_DB = {
         "фильм",
         "Солярис"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00006",
@@ -10395,7 +10895,8 @@ window.VGIK_DB = {
         "звук",
         "Солярис"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00007",
@@ -10417,7 +10918,8 @@ window.VGIK_DB = {
         "звук",
         "Солярис"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00008",
@@ -10439,7 +10941,8 @@ window.VGIK_DB = {
         "звук",
         "Солярис"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00009",
@@ -10461,7 +10964,8 @@ window.VGIK_DB = {
         "фильм",
         "Иди и смотри"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00010",
@@ -10483,7 +10987,8 @@ window.VGIK_DB = {
         "звук",
         "Иди и смотри"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00011",
@@ -10505,7 +11010,8 @@ window.VGIK_DB = {
         "звук",
         "Иди и смотри"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00012",
@@ -10527,7 +11033,8 @@ window.VGIK_DB = {
         "звук",
         "Иди и смотри"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00013",
@@ -10536,20 +11043,21 @@ window.VGIK_DB = {
       "type": "multiple_choice",
       "difficulty": 3,
       "question": "Выбери лучший мини-план звукозрительного анализа фильма «Жестокий романс» (реж. Эльдар Рязанов, 1984).",
-      "answer": "1) Сцены романсов: Романс звучит как часть драматургии: он выражает чувство, но одновременно показывает социальную игру вокруг Ларисы. 2) Сцены разговоров в купеческом кругу: Речь важнее громких эффектов: интонации, паузы и перебивания показывают власть, цену человека и давление общества. 3) Финальная сцена: Музыка, речевая сдержанность и паузы усиливают трагический итог. Звук не иллюстрирует смерть, а фиксирует слом человеческого достоинства.",
+      "answer": "1) Сцены романсов: Романс звучит как часть драматургии: он выражает чувство, но одновременно показывает социальную игру вокруг Ларисы. 2) Сцены разговоров в купеческом кругу: Речь важнее громких эффектов: интонации, паузы и перебивания показывают власть, цену человека и давление общества. 3) Финальная сцена: Музыка, речевая сдержанность и паузы усиливают трагический итог. Звук не иллюстрирует смерть, а фиксирует слом человеческого достоинства.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [
-        "1) Сцены романсов: Романс звучит как часть драматургии: он выражает чувство, но одновременно показывает социальную игру вокруг Ларисы. 2) Сцены разговоров в купеческом кругу: Речь важнее громких эффектов: интонации, паузы и перебивания показывают власть, цену человека и давление общества. 3) Финальная сцена: Музыка, речевая сдержанность и паузы усиливают трагический итог. Звук не иллюстрирует смерть, а фиксирует слом человеческого достоинства.",
+        "1) Сцены романсов: Романс звучит как часть драматургии: он выражает чувство, но одновременно показывает социальную игру вокруг Ларисы. 2) Сцены разговоров в купеческом кругу: Речь важнее громких эффектов: интонации, паузы и перебивания показывают власть, цену человека и давление общества. 3) Финальная сцена: Музыка, речевая сдержанность и паузы усиливают трагический итог. Звук не иллюстрирует смерть, а фиксирует слом человеческого достоинства.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
         "Финальные эпизоды: Сдержанная фонограмма усиливает одиночество героини без прямого объяснения.",
         "Сцена невесомости: Музыка и плавность движения создают не физический аттракцион, а состояние остановленного времени и хрупкой памяти.",
         "Сцены дороги: Поезда, шаги, фоны станций и короткие разговоры создают лирический ритм пути."
       ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.",
+      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "разбор сцен",
         "фильм",
         "Жестокий романс"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "physics"
     },
     {
       "id": "VGIK-V4-00014",
@@ -10558,20 +11066,21 @@ window.VGIK_DB = {
       "type": "multiple_choice",
       "difficulty": 3,
       "question": "Как звук работает в фильме «Жестокий романс» (реж. Эльдар Рязанов, 1984) в сцене: Сцены романсов?",
-      "answer": "Романс звучит как часть драматургии: он выражает чувство, но одновременно показывает социальную игру вокруг Ларисы.",
+      "answer": "Романс звучит как часть драматургии: он выражает чувство, но одновременно показывает социальную игру вокруг Ларисы.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
       "choices": [
-        "Романс звучит как часть драматургии: он выражает чувство, но одновременно показывает социальную игру вокруг Ларисы.",
+        "Романс звучит как часть драматургии: он выражает чувство, но одновременно показывает социальную игру вокруг Ларисы.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
         "Сцены с голосом за кадром и стихами: Голос не объясняет сюжет, а соединяет разные времена. Звук здесь становится монтажной связью между детством, матерью, сном и настоящим.",
         "Сцены хроники с авторским комментарием: Голос Ромма не пересказывает кадр, а вступает с ним в спор: интонация анализа разрушает пафос фашистской хроники.",
         "Ключевые сцены решения героини: Звук сдержан, поэтому внимание переходит на действие, паузу и бытовую деталь."
       ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
+      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
       "tags": [
         "разбор сцен",
         "звук",
         "Жестокий романс"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "physics"
     },
     {
       "id": "VGIK-V4-00015",
@@ -10580,20 +11089,21 @@ window.VGIK_DB = {
       "type": "multiple_choice",
       "difficulty": 3,
       "question": "Как звук работает в фильме «Жестокий романс» (реж. Эльдар Рязанов, 1984) в сцене: Сцены разговоров в купеческом кругу?",
-      "answer": "Речь важнее громких эффектов: интонации, паузы и перебивания показывают власть, цену человека и давление общества.",
+      "answer": "Речь важнее громких эффектов: интонации, паузы и перебивания показывают власть, цену человека и давление общества.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
       "choices": [
-        "Речь важнее громких эффектов: интонации, паузы и перебивания показывают власть, цену человека и давление общества.",
+        "Речь важнее громких эффектов: интонации, паузы и перебивания показывают власть, цену человека и давление общества.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
         "Сцены у моря и замка: Море, ветер, шаги по камню и музыка создают холодное трагическое пространство.",
         "Сцены деревни перед уничтожением: Бытовые голоса, шум толпы и нарастающая акустическая плотность превращают пространство в ловушку.",
         "Военные эпизоды: Фронтовые шумы не подавляют фильм, а контрастируют с тихой человеческой историей."
       ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
+      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
       "tags": [
         "разбор сцен",
         "звук",
         "Жестокий романс"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "physics"
     },
     {
       "id": "VGIK-V4-00016",
@@ -10602,20 +11112,21 @@ window.VGIK_DB = {
       "type": "multiple_choice",
       "difficulty": 3,
       "question": "Как звук работает в фильме «Жестокий романс» (реж. Эльдар Рязанов, 1984) в сцене: Финальная сцена?",
-      "answer": "Музыка, речевая сдержанность и паузы усиливают трагический итог. Звук не иллюстрирует смерть, а фиксирует слом человеческого достоинства.",
+      "answer": "Музыка, речевая сдержанность и паузы усиливают трагический итог. Звук не иллюстрирует смерть, а фиксирует слом человеческого достоинства.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
       "choices": [
-        "Музыка, речевая сдержанность и паузы усиливают трагический итог. Звук не иллюстрирует смерть, а фиксирует слом человеческого достоинства.",
+        "Музыка, речевая сдержанность и паузы усиливают трагический итог. Звук не иллюстрирует смерть, а фиксирует слом человеческого достоинства.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
         "Камерные разговоры: После массовых сцен тихая речь меняет масштаб фильма и возвращает внимание к человеку.",
         "Сцены городской среды: Музыка, шум улицы и бытовые фоны дают ощущение позднесоветской Москвы.",
         "Сцена песни: Песня не останавливает действие, а собирает лирическое настроение фильма."
       ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
+      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
       "tags": [
         "разбор сцен",
         "звук",
         "Жестокий романс"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "physics"
     },
     {
       "id": "VGIK-V4-00017",
@@ -10637,7 +11148,8 @@ window.VGIK_DB = {
         "фильм",
         "Александр Невский"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00018",
@@ -10659,7 +11171,8 @@ window.VGIK_DB = {
         "звук",
         "Александр Невский"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00019",
@@ -10681,7 +11194,8 @@ window.VGIK_DB = {
         "звук",
         "Александр Невский"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00020",
@@ -10703,7 +11217,8 @@ window.VGIK_DB = {
         "звук",
         "Александр Невский"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00021",
@@ -10725,7 +11240,8 @@ window.VGIK_DB = {
         "фильм",
         "Обыкновенный фашизм"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00022",
@@ -10747,7 +11263,8 @@ window.VGIK_DB = {
         "звук",
         "Обыкновенный фашизм"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00023",
@@ -10769,7 +11286,8 @@ window.VGIK_DB = {
         "звук",
         "Обыкновенный фашизм"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00024",
@@ -10791,7 +11309,8 @@ window.VGIK_DB = {
         "звук",
         "Обыкновенный фашизм"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00025",
@@ -10813,7 +11332,8 @@ window.VGIK_DB = {
         "фильм",
         "Андрей Рублев"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00026",
@@ -10835,7 +11355,8 @@ window.VGIK_DB = {
         "звук",
         "Андрей Рублев"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00027",
@@ -10857,7 +11378,8 @@ window.VGIK_DB = {
         "звук",
         "Андрей Рублев"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00028",
@@ -10879,7 +11401,8 @@ window.VGIK_DB = {
         "звук",
         "Андрей Рублев"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00029",
@@ -10888,20 +11411,21 @@ window.VGIK_DB = {
       "type": "multiple_choice",
       "difficulty": 3,
       "question": "Выбери лучший мини-план звукозрительного анализа фильма «Иваново детство» (реж. Андрей Тарковский, 1962).",
-      "answer": "1) Сцены сна: Звук воды, леса и мягких движений отделяет мир детства от войны. Фонограмма работает как память о невозможной нормальной жизни. 2) Военные сцены: Резкие шумы, тишина перед опасностью и короткие команды создают напряжение фронтового пространства. 3) Сцены переправы и разведки: Вода и ночная акустика делают пространство неопределённым: зритель слышит опасность раньше, чем видит её.",
+      "answer": "1) Сцены сна: Звук воды, леса и мягких движений отделяет мир детства от войны. Фонограмма работает как память о невозможной нормальной жизни. 2) Военные сцены: Резкие шумы, тишина перед опасностью и короткие команды создают напряжение фронтового пространства. 3) Сцены переправы и разведки: Вода и ночная акустика делают пространство неопределённым: зритель слышит опасность раньше, чем видит её.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
       "choices": [
-        "1) Сцены сна: Звук воды, леса и мягких движений отделяет мир детства от войны. Фонограмма работает как память о невозможной нормальной жизни. 2) Военные сцены: Резкие шумы, тишина перед опасностью и короткие команды создают напряжение фронтового пространства. 3) Сцены переправы и разведки: Вода и ночная акустика делают пространство неопределённым: зритель слышит опасность раньше, чем видит её.",
+        "1) Сцены сна: Звук воды, леса и мягких движений отделяет мир детства от войны. Фонограмма работает как память о невозможной нормальной жизни. 2) Военные сцены: Резкие шумы, тишина перед опасностью и короткие команды создают напряжение фронтового пространства. 3) Сцены переправы и разведки: Вода и ночная акустика делают пространство неопределённым: зритель слышит опасность раньше, чем видит её.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
         "Сцены городского шума и очередей: Речевая плотность, крики и бытовой шум создают ощущение усталого общества, где люди перестают слышать друг друга.",
         "Сцены народного сбора: Хоровое и массовое звучание подчёркивает коллективный характер действия.",
         "Сцены воспоминаний о полёте: Звук связан с внутренней свободой: воздушная тема и паузы отделяют память от настоящего."
       ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.",
+      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
       "tags": [
         "разбор сцен",
         "фильм",
         "Иваново детство"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "physics"
     },
     {
       "id": "VGIK-V4-00030",
@@ -10923,7 +11447,8 @@ window.VGIK_DB = {
         "звук",
         "Иваново детство"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00031",
@@ -10932,20 +11457,21 @@ window.VGIK_DB = {
       "type": "multiple_choice",
       "difficulty": 3,
       "question": "Как звук работает в фильме «Иваново детство» (реж. Андрей Тарковский, 1962) в сцене: Военные сцены?",
-      "answer": "Резкие шумы, тишина перед опасностью и короткие команды создают напряжение фронтового пространства.",
+      "answer": "Резкие шумы, тишина перед опасностью и короткие команды создают напряжение фронтового пространства.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
       "choices": [
-        "Резкие шумы, тишина перед опасностью и короткие команды создают напряжение фронтового пространства.",
+        "Резкие шумы, тишина перед опасностью и короткие команды создают напряжение фронтового пространства.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
         "Финальные сцены с фотографией Гитлера: Звук и монтаж работают как историческая память: не просто показывают эмоцию героя, а соединяют личную травму с масштабом войны.",
         "Военные эпизоды: Фронтовые шумы не подавляют фильм, а контрастируют с тихой человеческой историей.",
         "Сцены переправы и разведки: Вода и ночная акустика делают пространство неопределённым: зритель слышит опасность раньше, чем видит её."
       ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
+      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
       "tags": [
         "разбор сцен",
         "звук",
         "Иваново детство"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "physics"
     },
     {
       "id": "VGIK-V4-00032",
@@ -10967,7 +11493,8 @@ window.VGIK_DB = {
         "звук",
         "Иваново детство"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00033",
@@ -10989,7 +11516,8 @@ window.VGIK_DB = {
         "фильм",
         "Астенический синдром"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00034",
@@ -11011,7 +11539,8 @@ window.VGIK_DB = {
         "звук",
         "Астенический синдром"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00035",
@@ -11033,7 +11562,8 @@ window.VGIK_DB = {
         "звук",
         "Астенический синдром"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00036",
@@ -11055,7 +11585,8 @@ window.VGIK_DB = {
         "звук",
         "Астенический синдром"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00037",
@@ -11077,7 +11608,8 @@ window.VGIK_DB = {
         "фильм",
         "Асса"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00038",
@@ -11099,7 +11631,8 @@ window.VGIK_DB = {
         "звук",
         "Асса"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00039",
@@ -11121,7 +11654,8 @@ window.VGIK_DB = {
         "звук",
         "Асса"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00040",
@@ -11143,7 +11677,8 @@ window.VGIK_DB = {
         "звук",
         "Асса"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00041",
@@ -11165,7 +11700,8 @@ window.VGIK_DB = {
         "фильм",
         "Баллада о солдате"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00042",
@@ -11187,7 +11723,8 @@ window.VGIK_DB = {
         "звук",
         "Баллада о солдате"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00043",
@@ -11209,7 +11746,8 @@ window.VGIK_DB = {
         "звук",
         "Баллада о солдате"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00044",
@@ -11231,7 +11769,8 @@ window.VGIK_DB = {
         "звук",
         "Баллада о солдате"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00045",
@@ -11253,7 +11792,8 @@ window.VGIK_DB = {
         "фильм",
         "Летят журавли"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00046",
@@ -11275,7 +11815,8 @@ window.VGIK_DB = {
         "звук",
         "Летят журавли"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00047",
@@ -11297,7 +11838,8 @@ window.VGIK_DB = {
         "звук",
         "Летят журавли"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00048",
@@ -11319,7 +11861,8 @@ window.VGIK_DB = {
         "звук",
         "Летят журавли"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00049",
@@ -11341,7 +11884,8 @@ window.VGIK_DB = {
         "фильм",
         "Крылья"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00050",
@@ -11363,7 +11907,8 @@ window.VGIK_DB = {
         "звук",
         "Крылья"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00051",
@@ -11385,7 +11930,8 @@ window.VGIK_DB = {
         "звук",
         "Крылья"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00052",
@@ -11407,7 +11953,8 @@ window.VGIK_DB = {
         "звук",
         "Крылья"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00053",
@@ -11429,7 +11976,8 @@ window.VGIK_DB = {
         "фильм",
         "Курьер"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00054",
@@ -11451,7 +11999,8 @@ window.VGIK_DB = {
         "звук",
         "Курьер"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00055",
@@ -11473,7 +12022,8 @@ window.VGIK_DB = {
         "звук",
         "Курьер"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00056",
@@ -11495,7 +12045,8 @@ window.VGIK_DB = {
         "звук",
         "Курьер"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00057",
@@ -11517,7 +12068,8 @@ window.VGIK_DB = {
         "фильм",
         "Я шагаю по Москве"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00058",
@@ -11539,7 +12091,8 @@ window.VGIK_DB = {
         "звук",
         "Я шагаю по Москве"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00059",
@@ -11561,7 +12114,8 @@ window.VGIK_DB = {
         "звук",
         "Я шагаю по Москве"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00060",
@@ -11583,7 +12137,8 @@ window.VGIK_DB = {
         "звук",
         "Я шагаю по Москве"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "directors"
     },
     {
       "id": "VGIK-V4-00061",
@@ -11605,7 +12160,8 @@ window.VGIK_DB = {
         "фильм",
         "Гамлет"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00062",
@@ -11627,7 +12183,8 @@ window.VGIK_DB = {
         "звук",
         "Гамлет"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00063",
@@ -11649,7 +12206,8 @@ window.VGIK_DB = {
         "звук",
         "Гамлет"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00064",
@@ -11671,7 +12229,8 @@ window.VGIK_DB = {
         "звук",
         "Гамлет"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00065",
@@ -11693,7 +12252,8 @@ window.VGIK_DB = {
         "фильм",
         "Война и мир"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00066",
@@ -11715,7 +12275,8 @@ window.VGIK_DB = {
         "звук",
         "Война и мир"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00067",
@@ -11737,7 +12298,8 @@ window.VGIK_DB = {
         "звук",
         "Война и мир"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00068",
@@ -11759,7 +12321,8 @@ window.VGIK_DB = {
         "звук",
         "Война и мир"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00069",
@@ -11781,7 +12344,8 @@ window.VGIK_DB = {
         "фильм",
         "Остров"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00070",
@@ -11803,7 +12367,8 @@ window.VGIK_DB = {
         "звук",
         "Остров"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00071",
@@ -11825,7 +12390,8 @@ window.VGIK_DB = {
         "звук",
         "Остров"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00072",
@@ -11847,7 +12413,8 @@ window.VGIK_DB = {
         "звук",
         "Остров"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00073",
@@ -11869,7 +12436,8 @@ window.VGIK_DB = {
         "фильм",
         "Страна глухих"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00074",
@@ -11891,7 +12459,8 @@ window.VGIK_DB = {
         "звук",
         "Страна глухих"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00075",
@@ -11913,7 +12482,8 @@ window.VGIK_DB = {
         "звук",
         "Страна глухих"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00076",
@@ -11935,7 +12505,8 @@ window.VGIK_DB = {
         "звук",
         "Страна глухих"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00077",
@@ -11944,20 +12515,21 @@ window.VGIK_DB = {
       "type": "multiple_choice",
       "difficulty": 3,
       "question": "Выбери лучший мини-план звукозрительного анализа фильма «Возвращение» (реж. Андрей Звягинцев, 2003).",
-      "answer": "1) Сцены дороги: Паузы, шум машины, ветер и редкие реплики создают напряжение между отцом и детьми. 2) Сцены у воды: Вода звучит как пространство испытания и угрозы, а не как красивый пейзаж. 3) Финал: Сдержанная фонограмма не объясняет эмоцию, а оставляет зрителя в состоянии недоговорённости.",
+      "answer": "1) Сцены дороги: Паузы, шум машины, ветер и редкие реплики создают напряжение между отцом и детьми. 2) Сцены у воды: Вода звучит как пространство испытания и угрозы, а не как красивый пейзаж. 3) Финал: Сдержанная фонограмма не объясняет эмоцию, а оставляет зрителя в состоянии недоговорённости.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [
-        "1) Сцены дороги: Паузы, шум машины, ветер и редкие реплики создают напряжение между отцом и детьми. 2) Сцены у воды: Вода звучит как пространство испытания и угрозы, а не как красивый пейзаж. 3) Финал: Сдержанная фонограмма не объясняет эмоцию, а оставляет зрителя в состоянии недоговорённости.",
+        "1) Сцены дороги: Паузы, шум машины, ветер и редкие реплики создают напряжение между отцом и детьми. 2) Сцены у воды: Вода звучит как пространство испытания и угрозы, а не как красивый пейзаж. 3) Финал: Сдержанная фонограмма не объясняет эмоцию, а оставляет зрителя в состоянии недоговорённости.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
         "Сцены молитвы: Голос и паузы работают как действие, а не как украшение религиозной темы.",
         "Сцены у воды и монастыря: Вода, колокол, ветер и редкие голоса создают духовную среду без прямого объяснения.",
         "Сцены в квартире профессора: Закрытая акустика комнаты усиливает неловкость и социальную дистанцию."
       ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.",
+      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "разбор сцен",
         "фильм",
         "Возвращение"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "physics"
     },
     {
       "id": "VGIK-V4-00078",
@@ -11966,20 +12538,21 @@ window.VGIK_DB = {
       "type": "multiple_choice",
       "difficulty": 3,
       "question": "Как звук работает в фильме «Возвращение» (реж. Андрей Звягинцев, 2003) в сцене: Сцены дороги?",
-      "answer": "Паузы, шум машины, ветер и редкие реплики создают напряжение между отцом и детьми.",
+      "answer": "Паузы, шум машины, ветер и редкие реплики создают напряжение между отцом и детьми.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
       "choices": [
-        "Паузы, шум машины, ветер и редкие реплики создают напряжение между отцом и детьми.",
+        "Паузы, шум машины, ветер и редкие реплики создают напряжение между отцом и детьми.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
         "Сцены поездок: Городской шум и транспорт разделяют миры героев: обеспеченный и бедный.",
         "Монологи Гамлета: Речевая интонация и паузы работают как внутренняя борьба, а не просто декламация текста.",
         "Сцены деревни перед уничтожением: Бытовые голоса, шум толпы и нарастающая акустическая плотность превращают пространство в ловушку."
       ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
+      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
       "tags": [
         "разбор сцен",
         "звук",
         "Возвращение"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "physics"
     },
     {
       "id": "VGIK-V4-00079",
@@ -12001,7 +12574,8 @@ window.VGIK_DB = {
         "звук",
         "Возвращение"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00080",
@@ -12023,7 +12597,8 @@ window.VGIK_DB = {
         "звук",
         "Возвращение"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00081",
@@ -12045,7 +12620,8 @@ window.VGIK_DB = {
         "фильм",
         "Елена"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00082",
@@ -12067,7 +12643,8 @@ window.VGIK_DB = {
         "звук",
         "Елена"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00083",
@@ -12089,7 +12666,8 @@ window.VGIK_DB = {
         "звук",
         "Елена"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00084",
@@ -12111,7 +12689,8 @@ window.VGIK_DB = {
         "звук",
         "Елена"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00085",
@@ -12133,7 +12712,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "реалистический звук"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00086",
@@ -12155,7 +12735,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "субъективный звук"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00087",
@@ -12177,7 +12758,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "контрапунктный звук"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V4-00088",
@@ -12186,20 +12768,21 @@ window.VGIK_DB = {
       "type": "multiple_choice",
       "difficulty": 3,
       "question": "Как выглядит конкретное применение принципа «минималистичный звук» в сцене фильма?",
-      "answer": "«Возвращение»: паузы, ветер, вода и редкие реплики создают напряжение между отцом и детьми без прямого объяснения.",
+      "answer": "«Возвращение»: паузы, ветер, вода и редкие реплики создают напряжение между отцом и детьми без прямого объяснения.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "choices": [
-        "«Возвращение»: паузы, ветер, вода и редкие реплики создают напряжение между отцом и детьми без прямого объяснения.",
+        "«Возвращение»: паузы, ветер, вода и редкие реплики создают напряжение между отцом и детьми без прямого объяснения.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
         "«Иди и смотри»: после взрыва слух героя искажается, и зритель слышит травму изнутри. Это не звук события, а звук состояния.",
         "«Зеркало»: голос, природные фоны и переходы между временами работают как память, а не как обычная бытовая среда.",
         "«История Аси Клячиной»: натуральная речь и шумы деревенской среды создают ощущение документальной правды, но звук всё равно отобран так, чтобы поддерживать характер и среду."
       ],
-      "explanation": "Принцип: лишние элементы убраны, поэтому пауза, одиночный шум или короткая реплика становятся значимыми. В ответе обязательно есть пример сцены, а не пустая формула.",
+      "explanation": "Принцип: лишние элементы убраны, поэтому пауза, одиночный шум или короткая реплика становятся значимыми. В ответе обязательно есть пример сцены, а не пустая формула.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
       "tags": [
         "звукорежиссура",
         "разбор сцен",
         "минималистичный звук"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "physics"
     },
     {
       "id": "VGIK-V4-00089",
@@ -12221,7 +12804,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "ритмический звук"
       ],
-      "source": "v4_curated_scene_bank"
+      "source": "v4_curated_scene_bank",
+      "category": "scenes"
     },
     {
       "id": "VGIK-V5-00001",
@@ -12243,7 +12827,8 @@ window.VGIK_DB = {
         "авторское кино",
         "Жан-Люк Годар"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchAuteur"
     },
     {
       "id": "VGIK-V5-00002",
@@ -12265,7 +12850,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "На последнем дыхании"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchAuteur"
     },
     {
       "id": "VGIK-V5-00003",
@@ -12287,7 +12873,8 @@ window.VGIK_DB = {
         "авторское кино",
         "Франсуа Трюффо"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchAuteur"
     },
     {
       "id": "VGIK-V5-00004",
@@ -12309,7 +12896,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "400 ударов"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchAuteur"
     },
     {
       "id": "VGIK-V5-00005",
@@ -12331,7 +12919,8 @@ window.VGIK_DB = {
         "авторское кино",
         "Ален Рене"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchAuteur"
     },
     {
       "id": "VGIK-V5-00006",
@@ -12353,7 +12942,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "Хиросима, любовь моя"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchAuteur"
     },
     {
       "id": "VGIK-V5-00007",
@@ -12375,7 +12965,8 @@ window.VGIK_DB = {
         "авторское кино",
         "Ален Рене"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchAuteur"
     },
     {
       "id": "VGIK-V5-00008",
@@ -12397,7 +12988,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "В прошлом году в Мариенбаде"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchAuteur"
     },
     {
       "id": "VGIK-V5-00009",
@@ -12419,7 +13011,8 @@ window.VGIK_DB = {
         "авторское кино",
         "Аньес Варда"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchAuteur"
     },
     {
       "id": "VGIK-V5-00010",
@@ -12441,7 +13034,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "Клео от 5 до 7"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchAuteur"
     },
     {
       "id": "VGIK-V5-00011",
@@ -12463,7 +13057,8 @@ window.VGIK_DB = {
         "авторское кино",
         "Жак Деми"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchAuteur"
     },
     {
       "id": "VGIK-V5-00012",
@@ -12485,7 +13080,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "Шербурские зонтики"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchAuteur"
     },
     {
       "id": "VGIK-V5-00013",
@@ -12507,7 +13103,8 @@ window.VGIK_DB = {
         "авторское кино",
         "Жак Тати"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchAuteur"
     },
     {
       "id": "VGIK-V5-00014",
@@ -12529,7 +13126,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "Плейтайм"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchAuteur"
     },
     {
       "id": "VGIK-V5-00015",
@@ -12551,7 +13149,8 @@ window.VGIK_DB = {
         "авторское кино",
         "Робер Брессон"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchAuteur"
     },
     {
       "id": "VGIK-V5-00016",
@@ -12573,7 +13172,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "Пикпокет"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchAuteur"
     },
     {
       "id": "VGIK-V5-00017",
@@ -12595,7 +13195,8 @@ window.VGIK_DB = {
         "авторское кино",
         "Робер Брессон"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchAuteur"
     },
     {
       "id": "VGIK-V5-00018",
@@ -12617,7 +13218,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "Наугад, Бальтазар"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchAuteur"
     },
     {
       "id": "VGIK-V5-00019",
@@ -12639,7 +13241,8 @@ window.VGIK_DB = {
         "авторское кино",
         "Крис Маркер"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchAuteur"
     },
     {
       "id": "VGIK-V5-00020",
@@ -12661,7 +13264,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "Взлетная полоса"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchAuteur"
     },
     {
       "id": "VGIK-V5-00021",
@@ -12683,7 +13287,8 @@ window.VGIK_DB = {
         "авторское кино",
         "Жан-Пьер Мельвиль"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchAuteur"
     },
     {
       "id": "VGIK-V5-00022",
@@ -12705,7 +13310,8 @@ window.VGIK_DB = {
         "разбор сцен",
         "Самурай"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchAuteur"
     },
     {
       "id": "VGIK-V5-00023",
@@ -12726,7 +13332,8 @@ window.VGIK_DB = {
         "французское кино",
         "звукорежиссура"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchSound"
     },
     {
       "id": "VGIK-V5-00024",
@@ -12747,7 +13354,8 @@ window.VGIK_DB = {
         "французское кино",
         "звукорежиссура"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchSound"
     },
     {
       "id": "VGIK-V5-00025",
@@ -12768,7 +13376,8 @@ window.VGIK_DB = {
         "французское кино",
         "звукорежиссура"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchSound"
     },
     {
       "id": "VGIK-V5-00026",
@@ -12789,7 +13398,8 @@ window.VGIK_DB = {
         "французское кино",
         "звукорежиссура"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchSound"
     },
     {
       "id": "VGIK-V5-00027",
@@ -12810,7 +13420,8 @@ window.VGIK_DB = {
         "французское кино",
         "звукорежиссура"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchSound"
     },
     {
       "id": "VGIK-V5-00028",
@@ -12831,7 +13442,8 @@ window.VGIK_DB = {
         "французское кино",
         "звукорежиссура"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchSound"
     },
     {
       "id": "VGIK-V5-00029",
@@ -12852,7 +13464,8 @@ window.VGIK_DB = {
         "французское кино",
         "звукорежиссура"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchSound"
     },
     {
       "id": "VGIK-V5-00030",
@@ -12873,7 +13486,8 @@ window.VGIK_DB = {
         "французское кино",
         "звукорежиссура"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchSound"
     },
     {
       "id": "VGIK-V5-00031",
@@ -12894,7 +13508,8 @@ window.VGIK_DB = {
         "французское кино",
         "звукорежиссура"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchSound"
     },
     {
       "id": "VGIK-V5-00032",
@@ -12915,997 +13530,1222 @@ window.VGIK_DB = {
         "французское кино",
         "звукорежиссура"
       ],
-      "source": "v5_french_bank"
+      "source": "v5_french_bank",
+      "category": "frenchSound"
     },
     {
-      "id": "VGIK-V6-00001",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00001",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Чапаев» (реж. Георгий Васильев, Сергей Васильев, 1934) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) разговоры Чапаева с бойцами: героическая речь строится на простых интонациях, паузах и прямом обращении; звук делает героя не памятником, а командиром внутри живой военной среды 2) сцены штаба и обсуждения боя: команды, шаги, короткие реплики и деловая речевая манера создают ранний советский звуковой стиль, где слово организует действие 3) боевые эпизоды и финал у реки: выстрелы, крики, движение толпы и паузы после напряжения связывают личную судьбу героя с революционным мифом",
+      "difficulty": 2,
+      "question": "Что связывает скорость волны, длину волны и частоту?",
+      "answer": "Скорость волны равна произведению длины волны на частоту. Формулы: v = λf; T = 1/f. Обозначения: v — скорость, λ — длина волны, f — частота, T — период.",
       "choices": [
-        "1) разговоры Чапаева с бойцами: героическая речь строится на простых интонациях, паузах и прямом обращении; звук делает героя не памятником, а командиром внутри живой военной среды 2) сцены штаба и обсуждения боя: команды, шаги, короткие реплики и деловая речевая манера создают ранний советский звуковой стиль, где слово организует действие 3) боевые эпизоды и финал у реки: выстрелы, крики, движение толпы и паузы после напряжения связывают личную судьбу героя с революционным мифом",
-        "Неоконченная пьеса для механического пианино: усадебные разговоры: речь, паузы и фоновая музыка создают атмосферу неловкого светского быта сцены застолья: перебивания и общий шум показывают скрытое раздражение под внешней вежливостью финальные эмоциональные сцены: звук удерживает баланс между драмой и иронией",
-        "Космос как предчувствие: портовые и городские сцены: песни эпохи, радио и бытовые шумы создают предчувствие большого мира личные разговоры героев: паузы и музыка раскрывают мечту о выходе из тесной жизни эпизоды с мотивом космоса: звук связывает бытовую среду с ожиданием исторического рывка",
-        "Змеиный источник: сцены ожидания опасности: приглушённые фоны и паузы создают тревогу до прямого действия сцены в закрытых пространствах: шорохи, шаги и близкая речь усиливают ощущение ловушки развязка: звук ускоряет восприятие угрозы через резкие входы и обрывы"
+        "Ёмкостное сопротивление уменьшается с ростом частоты. Формула: X_C = 1/(ωC) = 1/(2πfC).",
+        "При последовательном соединении складываются обратные ёмкости. Формула: 1/Cобщ = 1/C1 + 1/C2 + 1/C3 + …",
+        "Скорость волны равна произведению длины волны на частоту. Формулы: v = λf; T = 1/f. Обозначения: v — скорость, λ — длина волны, f — частота, T — период.",
+        "Магнитный поток зависит от магнитной индукции, площади и угла. Формула: Φ = BS cos α."
       ],
-      "explanation": "Это историко-революционное кино. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Чапаев"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00002",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00002",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «А зори здесь тихие» (реж. Станислав Ростоцкий, 1972) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) лесные эпизоды до боя: птицы, шаги, вода и тишина леса создают мирную среду, которую война постепенно разрушает 2) сцены ожидания немцев: приглушённые голоса, осторожные движения и паузы делают опасность слышимой раньше, чем она проявляется в кадре 3) смерти девушек: звук не давит музыкой, а оставляет внимание на дыхании, движении и разрыве между природой и насилием",
+      "difficulty": 2,
+      "question": "Как найти частоту, если известен период колебаний?",
+      "answer": "Частота обратно пропорциональна периоду. Формулы: f = 1/T; ω = 2πf. Обозначения: f — частота, T — период, ω — циклическая частота.",
       "choices": [
-        "1) лесные эпизоды до боя: птицы, шаги, вода и тишина леса создают мирную среду, которую война постепенно разрушает 2) сцены ожидания немцев: приглушённые голоса, осторожные движения и паузы делают опасность слышимой раньше, чем она проявляется в кадре 3) смерти девушек: звук не давит музыкой, а оставляет внимание на дыхании, движении и разрыве между природой и насилием",
-        "История Аси Клячиной, которая любила, да не вышла замуж: деревенские разговоры: натуральная речь и неприглаженные голоса создают документальное ощущение среды трудовые сцены: шумы работы и пространства показывают уклад жизни без объясняющего комментария личные сцены Аси: паузы и простая речевая интонация раскрывают внутренний конфликт",
-        "Зеркало: пожар сарая: треск огня, ветер и голоса звучат как память, а не как простой бытовой фон голос за кадром и стихи: голос соединяет разные времена и работает как монтажная связь между матерью, детством и настоящим дождь, вода, ветер, трава: природные звуки передают внутреннее состояние и ожидание",
-        "Дворянское гнездо: усадебные сцены: приглушённая речь, музыка и тишина пространства создают атмосферу уходящего дворянского мира сцены признаний: паузы и мягкие бытовые фоны удерживают внутреннюю сдержанность героев музыкальные эпизоды: музыка выражает не действие, а эмоциональную память и невозможность прямого высказывания"
+        "Работа равна произведению силы, пути и косинуса угла между ними. Формула: A = Fs cos α.",
+        "Частота обратно пропорциональна периоду. Формулы: f = 1/T; ω = 2πf. Обозначения: f — частота, T — период, ω — циклическая частота.",
+        "Импеданс учитывает активное и реактивное сопротивления. Формула: Z = √(R² + (X_L - X_C)²).",
+        "Отношение напряжений равно отношению числа витков. Формула: Us/Up = Ns/Np."
       ],
-      "explanation": "Это военное кино. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "А зори здесь тихие"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00003",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00003",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Александр Невский» (реж. Сергей Эйзенштейн, 1938) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) появление немецких рыцарей: музыка, ритм движения и жёсткая звуковая характеристика превращают войско в механическую угрозу 2) Ледовое побоище: хор, оркестр, шум битвы и монтажный ритм создают не бытовую драку, а эпический исторический масштаб 3) народные сцены: массовое звучание и хоровая интонация подчёркивают коллективного героя",
+      "difficulty": 2,
+      "question": "Какая формула закона Ома для участка цепи?",
+      "answer": "Сила тока равна напряжению, делённому на сопротивление. Формула: I = U/R. Обозначения: I — ток, U — напряжение, R — сопротивление.",
       "choices": [
-        "1) появление немецких рыцарей: музыка, ритм движения и жёсткая звуковая характеристика превращают войско в механическую угрозу 2) Ледовое побоище: хор, оркестр, шум битвы и монтажный ритм создают не бытовую драку, а эпический исторический масштаб 3) народные сцены: массовое звучание и хоровая интонация подчёркивают коллективного героя",
-        "Несколько дней из жизни Обломова: комната Обломова: медленный темп, мягкие бытовые звуки и паузы создают состояние неподвижности сцены с Ольгой: музыка и речь меняют ритм, показывая возможность выхода из сонного мира усадебные эпизоды: тишина и природные фоны делают время растянутым",
-        "Чук и Гек. Большое приключение: зимняя дорога: снег, ветер и шаги создают сказочно-опасное пространство детские сцены восприятия мира: шумы и музыка подаются через ощущение приключения семейные эпизоды: теплая бытовая акустика контрастирует с внешней зимней средой",
-        "Живые и мертвые: отступление первых дней войны: шум колонн, команды и тревожная речь создают масштаб растерянности фронтовые разговоры: сухая речь и паузы показывают усталость и необходимость держаться боевые эпизоды: выстрелы и массовый шум работают не как аттракцион, а как среда выживания"
+        "Ёмкость равна отношению заряда к напряжению. Формула: C = q/U.",
+        "Ёмкостное сопротивление уменьшается с ростом частоты. Формула: X_C = 1/(ωC) = 1/(2πfC).",
+        "Сила тока равна напряжению, делённому на сопротивление. Формула: I = U/R. Обозначения: I — ток, U — напряжение, R — сопротивление.",
+        "Скорость волны равна произведению длины волны на частоту. Формулы: v = λf; T = 1/f. Обозначения: v — скорость, λ — длина волны, f — частота, T — период."
       ],
-      "explanation": "Это историко-эпическое кино. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Александр Невский"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00004",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00004",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Андрей Рублев» (реж. Андрей Тарковский, 1966) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) нашествие татар: крики, копыта, огонь и разрушение дробят пространство и показывают насилие как хаос 2) молчание Рублева: исчезновение голоса героя становится драматургическим решением: мир звучит, а человек отказывается говорить 3) отливка колокола: ожидание звука важнее самого удара; первый звон становится итогом труда, веры и риска",
+      "difficulty": 2,
+      "question": "Как найти мощность в электрической цепи?",
+      "answer": "Мощность можно найти через напряжение и ток или через сопротивление. Формулы: P = UI; P = I²R; P = U²/R.",
       "choices": [
-        "1) нашествие татар: крики, копыта, огонь и разрушение дробят пространство и показывают насилие как хаос 2) молчание Рублева: исчезновение голоса героя становится драматургическим решением: мир звучит, а человек отказывается говорить 3) отливка колокола: ожидание звука важнее самого удара; первый звон становится итогом труда, веры и риска",
-        "Бег: сцены бегства: шум толпы, шаги, крики и движение создают состояние исторического распада бальные и эмигрантские эпизоды: музыка и речевой этикет контрастируют с катастрофой за пределами салона сцены сновидческой условности: звук поддерживает гротеск и ощущение сломанной реальности",
-        "А зори здесь тихие: лесные эпизоды до боя: птицы, шаги, вода и тишина леса создают мирную среду, которую война постепенно разрушает сцены ожидания немцев: приглушённые голоса, осторожные движения и паузы делают опасность слышимой раньше, чем она проявляется в кадре смерти девушек: звук не давит музыкой, а оставляет внимание на дыхании, движении и разрыве между природой и насилием",
-        "Елена: квартира Владимира: тихие бытовые шумы, техника, шаги и паузы создают холодное обеспеченное пространство поездки между районами: городской шум и транспорт разделяют два социальных мира ключевое решение Елены: фонограмма сдержана, поэтому внимание переходит на действие и бытовую деталь"
+        "Мощность можно найти через напряжение и ток или через сопротивление. Формулы: P = UI; P = I²R; P = U²/R.",
+        "Ускорение равно изменению скорости за время. Формула: a = Δv/Δt.",
+        "Скорость волны равна произведению длины волны на частоту. Формулы: v = λf; T = 1/f. Обозначения: v — скорость, λ — длина волны, f — частота, T — период.",
+        "При последовательном соединении складываются обратные ёмкости. Формула: 1/Cобщ = 1/C1 + 1/C2 + 1/C3 + …"
       ],
-      "explanation": "Это авторское историческое кино. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Андрей Рублев"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00005",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00005",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Анкор! Еще анкор!» (реж. Пётр Тодоровский, 1993) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) гарнизонные застолья: музыка, тосты, перебивания и шум помещения показывают закрытую военную среду с её ритуалами 2) личные разговоры героев: паузы и бытовая акустика комнаты делают конфликт интимным, не парадным 3) сцены военного быта: команды, шаги, музыка и разговоры создают ощущение системы, где личная жизнь зажата формой",
+      "difficulty": 2,
+      "question": "Как найти сопротивление проводника через материал и размеры?",
+      "answer": "Сопротивление зависит от удельного сопротивления, длины и площади сечения. Формула: R = ρl/S.",
       "choices": [
-        "1) гарнизонные застолья: музыка, тосты, перебивания и шум помещения показывают закрытую военную среду с её ритуалами 2) личные разговоры героев: паузы и бытовая акустика комнаты делают конфликт интимным, не парадным 3) сцены военного быта: команды, шаги, музыка и разговоры создают ощущение системы, где личная жизнь зажата формой",
-        "Кавказский пленник: горные сцены: ветер, эхо и дальние фоны создают пространство, где опасность может прийти издалека диалоги пленников и местных: разные языки и интонации показывают культурную дистанцию сцены ожидания: тишина и редкие шумы усиливают напряжение сильнее музыки",
-        "Космос как предчувствие: портовые и городские сцены: песни эпохи, радио и бытовые шумы создают предчувствие большого мира личные разговоры героев: паузы и музыка раскрывают мечту о выходе из тесной жизни эпизоды с мотивом космоса: звук связывает бытовую среду с ожиданием исторического рывка",
-        "Жестокий романс: исполнение романсов: романс выражает чувство и одновременно показывает социальную игру вокруг Ларисы разговоры купцов и Карандышева: интонации, паузы и перебивания раскрывают власть, унижение и цену человека финал: музыка и паузы фиксируют трагический итог без грубой звуковой иллюстрации"
+        "Энергия конденсатора зависит от ёмкости и напряжения. Формулы: W = CU²/2; W = qU/2; W = q²/(2C).",
+        "Сопротивление зависит от удельного сопротивления, длины и площади сечения. Формула: R = ρl/S.",
+        "При последовательном соединении складываются обратные ёмкости. Формула: 1/Cобщ = 1/C1 + 1/C2 + 1/C3 + …",
+        "Потенциальная энергия зависит от массы, g и высоты. Формула: E_p = mgh."
       ],
-      "explanation": "Это драма. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Анкор! Еще анкор!"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00006",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00006",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Асса» (реж. Сергей Соловьёв, 1987) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) курортные сцены: бытовые разговоры, музыка и шум среды смешивают частную жизнь, криминальный воздух и ощущение времени 2) рок-эпизоды: музыка звучит как голос поколения, а не как фон к сюжету 3) финальное выступление: песня становится публичным высказыванием и знаком разрыва с официальной интонацией",
+      "difficulty": 2,
+      "question": "Как найти силу Кулона между двумя точечными зарядами?",
+      "answer": "Сила взаимодействия зарядов зависит от зарядов и расстояния между ними. Формула: F = k|q1q2|/r².",
       "choices": [
-        "1) курортные сцены: бытовые разговоры, музыка и шум среды смешивают частную жизнь, криминальный воздух и ощущение времени 2) рок-эпизоды: музыка звучит как голос поколения, а не как фон к сюжету 3) финальное выступление: песня становится публичным высказыванием и знаком разрыва с официальной интонацией",
-        "Начало: бытовые сцены Паши: обычная речь и бытовой шум показывают исходную среду героини съёмки Жанны д'Арк: звук меняет регистр: появляется условность, роль и историческая интонация переходы между жизнью и ролью: фонограмма помогает слышать разрыв между реальностью и экранным образом",
-        "Иван Грозный: церемониальные сцены власти: хор, ритуальная речь и музыка создают образ власти как обряда сцены боярского заговора: шёпоты, паузы и напряжённая музыка строят атмосферу подозрения крупные планы Ивана: голос и паузы делают речь оружием власти",
-        "Страна глухих: общение слышащих и глухих персонажей: звук становится границей между мирами; важны жест, ритм тела и неполное слышание танцевальные сцены: музыка воспринимается телесно, через движение, а не только слух городские эпизоды: шум города подчёркивает опасность и социальный разрыв"
+        "Индуктивное сопротивление растёт с частотой. Формула: X_L = ωL = 2πfL.",
+        "Сила взаимодействия зарядов зависит от зарядов и расстояния между ними. Формула: F = k|q1q2|/r².",
+        "Период зависит от массы и жёсткости пружины. Формула: T = 2π√(m/k).",
+        "Частота обратно пропорциональна периоду. Формулы: f = 1/T; ω = 2πf. Обозначения: f — частота, T — период, ω — циклическая частота."
       ],
-      "explanation": "Это перестроечное кино. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Асса"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00007",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00007",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Астенический синдром» (реж. Кира Муратова, 1990) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) сцены очередей и городского раздражения: голоса, крики и бытовой шум создают общество, где люди физически не слышат друг друга 2) сцены речевых перебиваний: диалог распадается на столкновение голосов; звук показывает агрессию общения 3) эпизоды с документальной фактурой: резкие шумы и обрывки речи ломают комфорт зрителя",
+      "difficulty": 2,
+      "question": "Как найти напряжённость электрического поля точечного заряда?",
+      "answer": "Напряжённость равна силе на единичный заряд. Формулы: E = F/q; E = k|q|/r².",
       "choices": [
-        "1) сцены очередей и городского раздражения: голоса, крики и бытовой шум создают общество, где люди физически не слышат друг друга 2) сцены речевых перебиваний: диалог распадается на столкновение голосов; звук показывает агрессию общения 3) эпизоды с документальной фактурой: резкие шумы и обрывки речи ломают комфорт зрителя",
-        "Я шагаю по Москве: прогулки по Москве: шум улицы, разговоры и лёгкая музыка создают открытое городское пространство сцена песни: песня не останавливает действие, а собирает настроение фильма метро и улицы: городские фоны звучат как образ молодой Москвы",
-        "Калина красная: сцены деревни: народная речь, бытовые фоны и песня создают среду, к которой герой хочет вернуться разговоры Егора: интонация и паузы показывают смесь бравады, боли и неуверенности криминальные сцены: речь и шумы меняют атмосферу: вместо домашности появляется угроза",
-        "Возвращение: дорога с отцом: шум машины, редкие реплики и длинные паузы создают напряжение между героями сцены у воды: вода звучит как пространство испытания и угрозы, а не как красивый пейзаж финал: сдержанная фонограмма оставляет недоговорённость, не объясняя эмоцию музыкой"
+        "Ускорение равно изменению скорости за время. Формула: a = Δv/Δt.",
+        "Энергия конденсатора зависит от ёмкости и напряжения. Формулы: W = CU²/2; W = qU/2; W = q²/(2C).",
+        "Частота обратно пропорциональна периоду. Формулы: f = 1/T; ω = 2πf. Обозначения: f — частота, T — период, ω — циклическая частота.",
+        "Напряжённость равна силе на единичный заряд. Формулы: E = F/q; E = k|q|/r²."
       ],
-      "explanation": "Это авторское кино. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Астенический синдром"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00008",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00008",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Баллада о солдате» (реж. Григорий Чухрай, 1959) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) сцены дороги: поезда, шаги, вокзальные фоны и короткие разговоры создают лирический ритм пути 2) встреча с матерью: паузы и сдержанная речь важнее музыкального нажима; звук держит простоту момента 3) фронтовое начало: военные шумы контрастируют с дальнейшей тихой человеческой историей",
+      "difficulty": 2,
+      "question": "Как найти ёмкость конденсатора?",
+      "answer": "Ёмкость равна отношению заряда к напряжению. Формула: C = q/U.",
       "choices": [
-        "1) сцены дороги: поезда, шаги, вокзальные фоны и короткие разговоры создают лирический ритм пути 2) встреча с матерью: паузы и сдержанная речь важнее музыкального нажима; звук держит простоту момента 3) фронтовое начало: военные шумы контрастируют с дальнейшей тихой человеческой историей",
-        "Обыкновенный фашизм: архивная хроника с комментарием: голос Ромма спорит с изображением и разрушает пафос фашистской хроники массовые шествия: шум толпы и музыка показывают механизм массового заражения сцены с детьми и бытом: контраст обычного звука и исторического ужаса усиливает критическое восприятие",
-        "Андрей Рублев: нашествие татар: крики, копыта, огонь и разрушение дробят пространство и показывают насилие как хаос молчание Рублева: исчезновение голоса героя становится драматургическим решением: мир звучит, а человек отказывается говорить отливка колокола: ожидание звука важнее самого удара; первый звон становится итогом труда, веры и риска",
-        "Возвращение: дорога с отцом: шум машины, редкие реплики и длинные паузы создают напряжение между героями сцены у воды: вода звучит как пространство испытания и угрозы, а не как красивый пейзаж финал: сдержанная фонограмма оставляет недоговорённость, не объясняя эмоцию музыкой"
+        "При последовательном соединении складываются обратные ёмкости. Формула: 1/Cобщ = 1/C1 + 1/C2 + 1/C3 + …",
+        "Отношение напряжений равно отношению числа витков. Формула: Us/Up = Ns/Np.",
+        "Ёмкость равна отношению заряда к напряжению. Формула: C = q/U.",
+        "Работа равна произведению силы, пути и косинуса угла между ними. Формула: A = Fs cos α."
       ],
-      "explanation": "Это военная лирика. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Баллада о солдате"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00009",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00009",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Бег» (реж. Александр Алов, Владимир Наумов, 1970) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) сцены бегства: шум толпы, шаги, крики и движение создают состояние исторического распада 2) бальные и эмигрантские эпизоды: музыка и речевой этикет контрастируют с катастрофой за пределами салона 3) сцены сновидческой условности: звук поддерживает гротеск и ощущение сломанной реальности",
+      "difficulty": 2,
+      "question": "Как найти энергию заряженного конденсатора?",
+      "answer": "Энергия конденсатора зависит от ёмкости и напряжения. Формулы: W = CU²/2; W = qU/2; W = q²/(2C).",
       "choices": [
-        "1) сцены бегства: шум толпы, шаги, крики и движение создают состояние исторического распада 2) бальные и эмигрантские эпизоды: музыка и речевой этикет контрастируют с катастрофой за пределами салона 3) сцены сновидческой условности: звук поддерживает гротеск и ощущение сломанной реальности",
-        "Девять дней одного года: лабораторные сцены: технические шумы, приборы и сухая речь создают рациональную среду науки споры учёных: интонации и паузы показывают не только идеи, но и личную цену выбора тихие личные сцены: контраст с лабораторной акустикой переносит конфликт в человеческую плоскость",
-        "Война и мир: бальные сцены: музыка, шаги и акустика зала показывают социальный порядок и ритуал батальные эпизоды: массовый шум, команды, копыта, выстрелы и музыка создают исторический масштаб камерные разговоры после больших сцен: тихая речь резко меняет масштаб и возвращает внимание к человеку",
-        "Несколько дней из жизни Обломова: комната Обломова: медленный темп, мягкие бытовые звуки и паузы создают состояние неподвижности сцены с Ольгой: музыка и речь меняют ритм, показывая возможность выхода из сонного мира усадебные эпизоды: тишина и природные фоны делают время растянутым"
+        "Скорость волны равна произведению длины волны на частоту. Формулы: v = λf; T = 1/f. Обозначения: v — скорость, λ — длина волны, f — частота, T — период.",
+        "Сопротивление зависит от удельного сопротивления, длины и площади сечения. Формула: R = ρl/S.",
+        "Сила взаимодействия зарядов зависит от зарядов и расстояния между ними. Формула: F = k|q1q2|/r².",
+        "Энергия конденсатора зависит от ёмкости и напряжения. Формулы: W = CU²/2; W = qU/2; W = q²/(2C)."
       ],
-      "explanation": "Это экранизация. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Бег"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00010",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00010",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Возвращение» (реж. Андрей Звягинцев, 2003) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) дорога с отцом: шум машины, редкие реплики и длинные паузы создают напряжение между героями 2) сцены у воды: вода звучит как пространство испытания и угрозы, а не как красивый пейзаж 3) финал: сдержанная фонограмма оставляет недоговорённость, не объясняя эмоцию музыкой",
+      "difficulty": 2,
+      "question": "Как складываются конденсаторы при параллельном соединении?",
+      "answer": "При параллельном соединении ёмкости складываются. Формула: Cобщ = C1 + C2 + C3 + …",
       "choices": [
-        "1) дорога с отцом: шум машины, редкие реплики и длинные паузы создают напряжение между героями 2) сцены у воды: вода звучит как пространство испытания и угрозы, а не как красивый пейзаж 3) финал: сдержанная фонограмма оставляет недоговорённость, не объясняя эмоцию музыкой",
-        "Обыкновенный фашизм: архивная хроника с комментарием: голос Ромма спорит с изображением и разрушает пафос фашистской хроники массовые шествия: шум толпы и музыка показывают механизм массового заражения сцены с детьми и бытом: контраст обычного звука и исторического ужаса усиливает критическое восприятие",
-        "Я шагаю по Москве: прогулки по Москве: шум улицы, разговоры и лёгкая музыка создают открытое городское пространство сцена песни: песня не останавливает действие, а собирает настроение фильма метро и улицы: городские фоны звучат как образ молодой Москвы",
-        "Добро пожаловать, или Посторонним вход воспрещён: пионерские линейки: массовая речь, команды и бодрые интонации высмеивают официальный порядок объявления и правила лагеря: звук превращает дисциплину в комический механизм детские эпизоды нарушения порядка: шум, бег, голоса и монтажный темп создают игровое сопротивление системе"
+        "Путь при равноускоренном движении: s = v0t + at²/2. Если v0 = 0, то s = at²/2.",
+        "Сила Ампера действует на проводник с током в магнитном поле. Формула: F_A = BIl sin α.",
+        "При параллельном соединении ёмкости складываются. Формула: Cобщ = C1 + C2 + C3 + …",
+        "При последовательном соединении складываются обратные ёмкости. Формула: 1/Cобщ = 1/C1 + 1/C2 + 1/C3 + …"
       ],
-      "explanation": "Это авторская драма. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Возвращение"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00011",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00011",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Война и мир» (реж. Сергей Бондарчук, 1965-1967) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) бальные сцены: музыка, шаги и акустика зала показывают социальный порядок и ритуал 2) батальные эпизоды: массовый шум, команды, копыта, выстрелы и музыка создают исторический масштаб 3) камерные разговоры после больших сцен: тихая речь резко меняет масштаб и возвращает внимание к человеку",
+      "difficulty": 2,
+      "question": "Как складываются конденсаторы при последовательном соединении?",
+      "answer": "При последовательном соединении складываются обратные ёмкости. Формула: 1/Cобщ = 1/C1 + 1/C2 + 1/C3 + …",
       "choices": [
-        "1) бальные сцены: музыка, шаги и акустика зала показывают социальный порядок и ритуал 2) батальные эпизоды: массовый шум, команды, копыта, выстрелы и музыка создают исторический масштаб 3) камерные разговоры после больших сцен: тихая речь резко меняет масштаб и возвращает внимание к человеку",
-        "Иваново детство: сцены сна: вода, лес и мягкие звуки отделяют мир детства от войны ночная разведка: вода, тишина и осторожные шумы делают пространство опасным военные эпизоды: резкие команды и шумы контрастируют с хрупкостью детского восприятия",
-        "Несколько дней из жизни Обломова: комната Обломова: медленный темп, мягкие бытовые звуки и паузы создают состояние неподвижности сцены с Ольгой: музыка и речь меняют ритм, показывая возможность выхода из сонного мира усадебные эпизоды: тишина и природные фоны делают время растянутым",
-        "Баллада о солдате: сцены дороги: поезда, шаги, вокзальные фоны и короткие разговоры создают лирический ритм пути встреча с матерью: паузы и сдержанная речь важнее музыкального нажима; звук держит простоту момента фронтовое начало: военные шумы контрастируют с дальнейшей тихой человеческой историей"
+        "Сила Лоренца действует на движущийся заряд в магнитном поле. Формула: F_Л = qvB sin α.",
+        "Период малых колебаний маятника зависит от длины и g. Формула: T = 2π√(l/g).",
+        "Напряжённость равна силе на единичный заряд. Формулы: E = F/q; E = k|q|/r².",
+        "При последовательном соединении складываются обратные ёмкости. Формула: 1/Cобщ = 1/C1 + 1/C2 + 1/C3 + …"
       ],
-      "explanation": "Это эпопея. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Война и мир"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00012",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00012",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Гамлет» (реж. Григорий Козинцев, 1964) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) пространство замка и моря: ветер, море, шаги по камню и музыка создают холодную трагическую среду 2) монологи Гамлета: интонация и паузы работают как внутренняя борьба, а не просто произнесение текста 3) сцены двора: музыка и акустика зала подчёркивают власть, ритуал и отчуждение",
+      "difficulty": 2,
+      "question": "Как найти силу Ампера?",
+      "answer": "Сила Ампера действует на проводник с током в магнитном поле. Формула: F_A = BIl sin α.",
       "choices": [
-        "1) пространство замка и моря: ветер, море, шаги по камню и музыка создают холодную трагическую среду 2) монологи Гамлета: интонация и паузы работают как внутренняя борьба, а не просто произнесение текста 3) сцены двора: музыка и акустика зала подчёркивают власть, ритуал и отчуждение",
-        "Страна глухих: общение слышащих и глухих персонажей: звук становится границей между мирами; важны жест, ритм тела и неполное слышание танцевальные сцены: музыка воспринимается телесно, через движение, а не только слух городские эпизоды: шум города подчёркивает опасность и социальный разрыв",
-        "Анкор! Еще анкор!: гарнизонные застолья: музыка, тосты, перебивания и шум помещения показывают закрытую военную среду с её ритуалами личные разговоры героев: паузы и бытовая акустика комнаты делают конфликт интимным, не парадным сцены военного быта: команды, шаги, музыка и разговоры создают ощущение системы, где личная жизнь зажата формой",
-        "Змеиный источник: сцены ожидания опасности: приглушённые фоны и паузы создают тревогу до прямого действия сцены в закрытых пространствах: шорохи, шаги и близкая речь усиливают ощущение ловушки развязка: звук ускоряет восприятие угрозы через резкие входы и обрывы"
+        "Сила взаимодействия зарядов зависит от зарядов и расстояния между ними. Формула: F = k|q1q2|/r².",
+        "Мощность можно найти через напряжение и ток или через сопротивление. Формулы: P = UI; P = I²R; P = U²/R.",
+        "Сила Лоренца действует на движущийся заряд в магнитном поле. Формула: F_Л = qvB sin α.",
+        "Сила Ампера действует на проводник с током в магнитном поле. Формула: F_A = BIl sin α."
       ],
-      "explanation": "Это экранизация. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Гамлет"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00013",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00013",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Дворянское гнездо» (реж. Андрей Кончаловский, 1969) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) усадебные сцены: приглушённая речь, музыка и тишина пространства создают атмосферу уходящего дворянского мира 2) сцены признаний: паузы и мягкие бытовые фоны удерживают внутреннюю сдержанность героев 3) музыкальные эпизоды: музыка выражает не действие, а эмоциональную память и невозможность прямого высказывания",
+      "difficulty": 2,
+      "question": "Как найти силу Лоренца?",
+      "answer": "Сила Лоренца действует на движущийся заряд в магнитном поле. Формула: F_Л = qvB sin α.",
       "choices": [
-        "1) усадебные сцены: приглушённая речь, музыка и тишина пространства создают атмосферу уходящего дворянского мира 2) сцены признаний: паузы и мягкие бытовые фоны удерживают внутреннюю сдержанность героев 3) музыкальные эпизоды: музыка выражает не действие, а эмоциональную память и невозможность прямого высказывания",
-        "Космос как предчувствие: портовые и городские сцены: песни эпохи, радио и бытовые шумы создают предчувствие большого мира личные разговоры героев: паузы и музыка раскрывают мечту о выходе из тесной жизни эпизоды с мотивом космоса: звук связывает бытовую среду с ожиданием исторического рывка",
-        "Асса: курортные сцены: бытовые разговоры, музыка и шум среды смешивают частную жизнь, криминальный воздух и ощущение времени рок-эпизоды: музыка звучит как голос поколения, а не как фон к сюжету финальное выступление: песня становится публичным высказыванием и знаком разрыва с официальной интонацией",
-        "Начало: бытовые сцены Паши: обычная речь и бытовой шум показывают исходную среду героини съёмки Жанны д'Арк: звук меняет регистр: появляется условность, роль и историческая интонация переходы между жизнью и ролью: фонограмма помогает слышать разрыв между реальностью и экранным образом"
+        "Ускорение равно изменению скорости за время. Формула: a = Δv/Δt.",
+        "Сила Лоренца действует на движущийся заряд в магнитном поле. Формула: F_Л = qvB sin α.",
+        "Индуктивное сопротивление растёт с частотой. Формула: X_L = ωL = 2πfL.",
+        "Координата при гармоническом колебании меняется по синусу или косинусу. Формула: x = A cos(ωt + φ)."
       ],
-      "explanation": "Это экранизация. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Дворянское гнездо"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00014",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00014",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Девять дней одного года» (реж. Михаил Ромм, 1961) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) лабораторные сцены: технические шумы, приборы и сухая речь создают рациональную среду науки 2) споры учёных: интонации и паузы показывают не только идеи, но и личную цену выбора 3) тихие личные сцены: контраст с лабораторной акустикой переносит конфликт в человеческую плоскость",
+      "difficulty": 2,
+      "question": "Как найти магнитный поток?",
+      "answer": "Магнитный поток зависит от магнитной индукции, площади и угла. Формула: Φ = BS cos α.",
       "choices": [
-        "1) лабораторные сцены: технические шумы, приборы и сухая речь создают рациональную среду науки 2) споры учёных: интонации и паузы показывают не только идеи, но и личную цену выбора 3) тихие личные сцены: контраст с лабораторной акустикой переносит конфликт в человеческую плоскость",
-        "Легенда №17: хоккейные матчи: удары шайбы, лёд, трибуны и свистки строят телесный ритм игры тренировки: дыхание, скрежет льда и команды тренера показывают цену результата ключевые голы: звук трибун и резкие акценты делают спортивное действие драматическим событием",
-        "Страна глухих: общение слышащих и глухих персонажей: звук становится границей между мирами; важны жест, ритм тела и неполное слышание танцевальные сцены: музыка воспринимается телесно, через движение, а не только слух городские эпизоды: шум города подчёркивает опасность и социальный разрыв",
-        "Романовы: венценосная семья: сцены заключения: шаги, двери, приглушённая речь и тишина создают ощущение сужающегося пространства семейные разговоры: камерная акустика показывает людей за историческим символом финальные эпизоды: звук становится сдержанным и холодным, усиливая неизбежность"
+        "При параллельном соединении ёмкости складываются. Формула: Cобщ = C1 + C2 + C3 + …",
+        "Магнитный поток зависит от магнитной индукции, площади и угла. Формула: Φ = BS cos α.",
+        "Ёмкость равна отношению заряда к напряжению. Формула: C = q/U.",
+        "Ускорение равно изменению скорости за время. Формула: a = Δv/Δt."
       ],
-      "explanation": "Это интеллектуальная драма. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Девять дней одного года"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00015",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00015",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Добро пожаловать, или Посторонним вход воспрещён» (реж. Элем Климов, 1964) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) пионерские линейки: массовая речь, команды и бодрые интонации высмеивают официальный порядок 2) объявления и правила лагеря: звук превращает дисциплину в комический механизм 3) детские эпизоды нарушения порядка: шум, бег, голоса и монтажный темп создают игровое сопротивление системе",
+      "difficulty": 2,
+      "question": "Какая формула закона электромагнитной индукции?",
+      "answer": "Индукционная ЭДС равна скорости изменения магнитного потока со знаком минус. Формула: ε = -ΔΦ/Δt.",
       "choices": [
-        "1) пионерские линейки: массовая речь, команды и бодрые интонации высмеивают официальный порядок 2) объявления и правила лагеря: звук превращает дисциплину в комический механизм 3) детские эпизоды нарушения порядка: шум, бег, голоса и монтажный темп создают игровое сопротивление системе",
-        "Возвращение: дорога с отцом: шум машины, редкие реплики и длинные паузы создают напряжение между героями сцены у воды: вода звучит как пространство испытания и угрозы, а не как красивый пейзаж финал: сдержанная фонограмма оставляет недоговорённость, не объясняя эмоцию музыкой",
-        "Я шагаю по Москве: прогулки по Москве: шум улицы, разговоры и лёгкая музыка создают открытое городское пространство сцена песни: песня не останавливает действие, а собирает настроение фильма метро и улицы: городские фоны звучат как образ молодой Москвы",
-        "Космос как предчувствие: портовые и городские сцены: песни эпохи, радио и бытовые шумы создают предчувствие большого мира личные разговоры героев: паузы и музыка раскрывают мечту о выходе из тесной жизни эпизоды с мотивом космоса: звук связывает бытовую среду с ожиданием исторического рывка"
+        "Кинетическая энергия зависит от массы и квадрата скорости. Формула: E_k = mv²/2.",
+        "Период малых колебаний маятника зависит от длины и g. Формула: T = 2π√(l/g).",
+        "Индукционная ЭДС равна скорости изменения магнитного потока со знаком минус. Формула: ε = -ΔΦ/Δt.",
+        "При последовательном соединении складываются обратные ёмкости. Формула: 1/Cобщ = 1/C1 + 1/C2 + 1/C3 + …"
       ],
-      "explanation": "Это сатира. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Добро пожаловать, или Посторонним вход воспрещён"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00016",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00016",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Доживем до понедельника» (реж. Станислав Ростоцкий, 1968) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) классные сцены: школьные шумы, реплики учеников и паузы учителя создают живую среду 2) разговоры учителей: интонация важнее действия: звук раскрывает усталость, сомнение и ответственность 3) сочинение о счастье: паузы и реакция класса переводят обычный урок в нравственный конфликт",
+      "difficulty": 2,
+      "question": "Как связаны напряжения и числа витков в идеальном трансформаторе?",
+      "answer": "Отношение напряжений равно отношению числа витков. Формула: Us/Up = Ns/Np.",
       "choices": [
-        "1) классные сцены: школьные шумы, реплики учеников и паузы учителя создают живую среду 2) разговоры учителей: интонация важнее действия: звук раскрывает усталость, сомнение и ответственность 3) сочинение о счастье: паузы и реакция класса переводят обычный урок в нравственный конфликт",
-        "Начало: бытовые сцены Паши: обычная речь и бытовой шум показывают исходную среду героини съёмки Жанны д'Арк: звук меняет регистр: появляется условность, роль и историческая интонация переходы между жизнью и ролью: фонограмма помогает слышать разрыв между реальностью и экранным образом",
-        "Иваново детство: сцены сна: вода, лес и мягкие звуки отделяют мир детства от войны ночная разведка: вода, тишина и осторожные шумы делают пространство опасным военные эпизоды: резкие команды и шумы контрастируют с хрупкостью детского восприятия",
-        "А зори здесь тихие: лесные эпизоды до боя: птицы, шаги, вода и тишина леса создают мирную среду, которую война постепенно разрушает сцены ожидания немцев: приглушённые голоса, осторожные движения и паузы делают опасность слышимой раньше, чем она проявляется в кадре смерти девушек: звук не давит музыкой, а оставляет внимание на дыхании, движении и разрыве между природой и насилием"
+        "Мощность можно найти через напряжение и ток или через сопротивление. Формулы: P = UI; P = I²R; P = U²/R.",
+        "Период зависит от массы и жёсткости пружины. Формула: T = 2π√(m/k).",
+        "Потенциальная энергия зависит от массы, g и высоты. Формула: E_p = mgh.",
+        "Отношение напряжений равно отношению числа витков. Формула: Us/Up = Ns/Np."
       ],
-      "explanation": "Это школьная драма. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Доживем до понедельника"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00017",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00017",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Елена» (реж. Андрей Звягинцев, 2011) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) квартира Владимира: тихие бытовые шумы, техника, шаги и паузы создают холодное обеспеченное пространство 2) поездки между районами: городской шум и транспорт разделяют два социальных мира 3) ключевое решение Елены: фонограмма сдержана, поэтому внимание переходит на действие и бытовую деталь",
+      "difficulty": 2,
+      "question": "Как найти индуктивное сопротивление катушки в переменном токе?",
+      "answer": "Индуктивное сопротивление растёт с частотой. Формула: X_L = ωL = 2πfL.",
       "choices": [
-        "1) квартира Владимира: тихие бытовые шумы, техника, шаги и паузы создают холодное обеспеченное пространство 2) поездки между районами: городской шум и транспорт разделяют два социальных мира 3) ключевое решение Елены: фонограмма сдержана, поэтому внимание переходит на действие и бытовую деталь",
-        "Край: сцены с паровозами: металл, пар, гудки и ритм машины создают трудовую и почти физическую мощь пространства послевоенный быт: голоса, шумы бараков и природы показывают грубую среду выживания конфликтные сцены: резкие звуки техники и речи усиливают столкновение характеров",
-        "История Аси Клячиной, которая любила, да не вышла замуж: деревенские разговоры: натуральная речь и неприглаженные голоса создают документальное ощущение среды трудовые сцены: шумы работы и пространства показывают уклад жизни без объясняющего комментария личные сцены Аси: паузы и простая речевая интонация раскрывают внутренний конфликт",
-        "Они сражались за Родину: боевые эпизоды: выстрелы, взрывы, команды и шум земли создают физическое ощущение войны разговоры солдат: простая речь и паузы показывают человеческую усталость и юмор сцены передышки: тишина и бытовые звуки контрастируют с боем"
+        "Индуктивное сопротивление растёт с частотой. Формула: X_L = ωL = 2πfL.",
+        "Отношение напряжений равно отношению числа витков. Формула: Us/Up = Ns/Np.",
+        "При параллельном соединении ёмкости складываются. Формула: Cобщ = C1 + C2 + C3 + …",
+        "Ёмкость равна отношению заряда к напряжению. Формула: C = q/U."
       ],
-      "explanation": "Это социальная драма. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Елена"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00018",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00018",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Жестокий романс» (реж. Эльдар Рязанов, 1984) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) исполнение романсов: романс выражает чувство и одновременно показывает социальную игру вокруг Ларисы 2) разговоры купцов и Карандышева: интонации, паузы и перебивания раскрывают власть, унижение и цену человека 3) финал: музыка и паузы фиксируют трагический итог без грубой звуковой иллюстрации",
+      "difficulty": 2,
+      "question": "Как найти ёмкостное сопротивление конденсатора в переменном токе?",
+      "answer": "Ёмкостное сопротивление уменьшается с ростом частоты. Формула: X_C = 1/(ωC) = 1/(2πfC).",
       "choices": [
-        "1) исполнение романсов: романс выражает чувство и одновременно показывает социальную игру вокруг Ларисы 2) разговоры купцов и Карандышева: интонации, паузы и перебивания раскрывают власть, унижение и цену человека 3) финал: музыка и паузы фиксируют трагический итог без грубой звуковой иллюстрации",
-        "Андрей Рублев: нашествие татар: крики, копыта, огонь и разрушение дробят пространство и показывают насилие как хаос молчание Рублева: исчезновение голоса героя становится драматургическим решением: мир звучит, а человек отказывается говорить отливка колокола: ожидание звука важнее самого удара; первый звон становится итогом труда, веры и риска",
-        "Иди и смотри: оглушение после взрыва: искажённый субъективный слух показывает травму героя изнутри деревня перед уничтожением: голоса, шум толпы и нарастающая плотность звука превращают пространство в ловушку финал с фотографией Гитлера: звук и монтаж связывают личную травму с историческим масштабом войны",
-        "Легенда №17: хоккейные матчи: удары шайбы, лёд, трибуны и свистки строят телесный ритм игры тренировки: дыхание, скрежет льда и команды тренера показывают цену результата ключевые голы: звук трибун и резкие акценты делают спортивное действие драматическим событием"
+        "Период зависит от массы и жёсткости пружины. Формула: T = 2π√(m/k).",
+        "Ёмкостное сопротивление уменьшается с ростом частоты. Формула: X_C = 1/(ωC) = 1/(2πfC).",
+        "Отношение напряжений равно отношению числа витков. Формула: Us/Up = Ns/Np.",
+        "Сила Ампера действует на проводник с током в магнитном поле. Формула: F_A = BIl sin α."
       ],
-      "explanation": "Это мелодрама. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Жестокий романс"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00019",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00019",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Живые и мертвые» (реж. Александр Столпер, 1963) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) отступление первых дней войны: шум колонн, команды и тревожная речь создают масштаб растерянности 2) фронтовые разговоры: сухая речь и паузы показывают усталость и необходимость держаться 3) боевые эпизоды: выстрелы и массовый шум работают не как аттракцион, а как среда выживания",
+      "difficulty": 2,
+      "question": "Как найти полное сопротивление RLC-цепи?",
+      "answer": "Импеданс учитывает активное и реактивное сопротивления. Формула: Z = √(R² + (X_L - X_C)²).",
       "choices": [
-        "1) отступление первых дней войны: шум колонн, команды и тревожная речь создают масштаб растерянности 2) фронтовые разговоры: сухая речь и паузы показывают усталость и необходимость держаться 3) боевые эпизоды: выстрелы и массовый шум работают не как аттракцион, а как среда выживания",
-        "История Аси Клячиной, которая любила, да не вышла замуж: деревенские разговоры: натуральная речь и неприглаженные голоса создают документальное ощущение среды трудовые сцены: шумы работы и пространства показывают уклад жизни без объясняющего комментария личные сцены Аси: паузы и простая речевая интонация раскрывают внутренний конфликт",
-        "Остров: монастырь и вода: колокол, ветер, вода и редкие голоса создают духовную среду молитвенные сцены: голос и паузы работают как действие, а не как украшение темы сцены покаяния: сдержанный звук удерживает внутренний конфликт героя",
-        "Чапаев: разговоры Чапаева с бойцами: героическая речь строится на простых интонациях, паузах и прямом обращении; звук делает героя не памятником, а командиром внутри живой военной среды сцены штаба и обсуждения боя: команды, шаги, короткие реплики и деловая речевая манера создают ранний советский звуковой стиль, где слово организует действие боевые эпизоды и финал у реки: выстрелы, крики, движение толпы и паузы после напряжения связывают личную судьбу героя с революционным мифом"
+        "Импеданс учитывает активное и реактивное сопротивления. Формула: Z = √(R² + (X_L - X_C)²).",
+        "Импульс равен произведению массы на скорость. Формула: p = mv.",
+        "Частота обратно пропорциональна периоду. Формулы: f = 1/T; ω = 2πf. Обозначения: f — частота, T — период, ω — циклическая частота.",
+        "Сила Ампера действует на проводник с током в магнитном поле. Формула: F_A = BIl sin α."
       ],
-      "explanation": "Это военное кино. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Живые и мертвые"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00020",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00020",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Зеркало» (реж. Андрей Тарковский, 1974) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) пожар сарая: треск огня, ветер и голоса звучат как память, а не как простой бытовой фон 2) голос за кадром и стихи: голос соединяет разные времена и работает как монтажная связь между матерью, детством и настоящим 3) дождь, вода, ветер, трава: природные звуки передают внутреннее состояние и ожидание",
+      "difficulty": 2,
+      "question": "Как записать гармоническое колебание?",
+      "answer": "Координата при гармоническом колебании меняется по синусу или косинусу. Формула: x = A cos(ωt + φ).",
       "choices": [
-        "1) пожар сарая: треск огня, ветер и голоса звучат как память, а не как простой бытовой фон 2) голос за кадром и стихи: голос соединяет разные времена и работает как монтажная связь между матерью, детством и настоящим 3) дождь, вода, ветер, трава: природные звуки передают внутреннее состояние и ожидание",
-        "Калина красная: сцены деревни: народная речь, бытовые фоны и песня создают среду, к которой герой хочет вернуться разговоры Егора: интонация и паузы показывают смесь бравады, боли и неуверенности криминальные сцены: речь и шумы меняют атмосферу: вместо домашности появляется угроза",
-        "Доживем до понедельника: классные сцены: школьные шумы, реплики учеников и паузы учителя создают живую среду разговоры учителей: интонация важнее действия: звук раскрывает усталость, сомнение и ответственность сочинение о счастье: паузы и реакция класса переводят обычный урок в нравственный конфликт",
-        "Баллада о солдате: сцены дороги: поезда, шаги, вокзальные фоны и короткие разговоры создают лирический ритм пути встреча с матерью: паузы и сдержанная речь важнее музыкального нажима; звук держит простоту момента фронтовое начало: военные шумы контрастируют с дальнейшей тихой человеческой историей"
+        "Координата при гармоническом колебании меняется по синусу или косинусу. Формула: x = A cos(ωt + φ).",
+        "При последовательном соединении складываются обратные ёмкости. Формула: 1/Cобщ = 1/C1 + 1/C2 + 1/C3 + …",
+        "Сила Лоренца действует на движущийся заряд в магнитном поле. Формула: F_Л = qvB sin α.",
+        "Потенциальная энергия зависит от массы, g и высоты. Формула: E_p = mgh."
       ],
-      "explanation": "Это авторское кино. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Зеркало"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00021",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00021",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Змеиный источник» (реж. Николай Лебедев, 1998) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) сцены ожидания опасности: приглушённые фоны и паузы создают тревогу до прямого действия 2) сцены в закрытых пространствах: шорохи, шаги и близкая речь усиливают ощущение ловушки 3) развязка: звук ускоряет восприятие угрозы через резкие входы и обрывы",
+      "difficulty": 2,
+      "question": "Как найти период математического маятника?",
+      "answer": "Период малых колебаний маятника зависит от длины и g. Формула: T = 2π√(l/g).",
       "choices": [
-        "1) сцены ожидания опасности: приглушённые фоны и паузы создают тревогу до прямого действия 2) сцены в закрытых пространствах: шорохи, шаги и близкая речь усиливают ощущение ловушки 3) развязка: звук ускоряет восприятие угрозы через резкие входы и обрывы",
-        "Обыкновенный фашизм: архивная хроника с комментарием: голос Ромма спорит с изображением и разрушает пафос фашистской хроники массовые шествия: шум толпы и музыка показывают механизм массового заражения сцены с детьми и бытом: контраст обычного звука и исторического ужаса усиливает критическое восприятие",
-        "Девять дней одного года: лабораторные сцены: технические шумы, приборы и сухая речь создают рациональную среду науки споры учёных: интонации и паузы показывают не только идеи, но и личную цену выбора тихие личные сцены: контраст с лабораторной акустикой переносит конфликт в человеческую плоскость",
-        "Доживем до понедельника: классные сцены: школьные шумы, реплики учеников и паузы учителя создают живую среду разговоры учителей: интонация важнее действия: звук раскрывает усталость, сомнение и ответственность сочинение о счастье: паузы и реакция класса переводят обычный урок в нравственный конфликт"
+        "Скорость волны равна произведению длины волны на частоту. Формулы: v = λf; T = 1/f. Обозначения: v — скорость, λ — длина волны, f — частота, T — период.",
+        "Координата при гармоническом колебании меняется по синусу или косинусу. Формула: x = A cos(ωt + φ).",
+        "Период малых колебаний маятника зависит от длины и g. Формула: T = 2π√(l/g).",
+        "Кинетическая энергия зависит от массы и квадрата скорости. Формула: E_k = mv²/2."
       ],
-      "explanation": "Это триллер. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Змеиный источник"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00022",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00022",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Иван Грозный» (реж. Сергей Эйзенштейн, 1944-1946) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) церемониальные сцены власти: хор, ритуальная речь и музыка создают образ власти как обряда 2) сцены боярского заговора: шёпоты, паузы и напряжённая музыка строят атмосферу подозрения 3) крупные планы Ивана: голос и паузы делают речь оружием власти",
+      "difficulty": 2,
+      "question": "Как найти период пружинного маятника?",
+      "answer": "Период зависит от массы и жёсткости пружины. Формула: T = 2π√(m/k).",
       "choices": [
-        "1) церемониальные сцены власти: хор, ритуальная речь и музыка создают образ власти как обряда 2) сцены боярского заговора: шёпоты, паузы и напряжённая музыка строят атмосферу подозрения 3) крупные планы Ивана: голос и паузы делают речь оружием власти",
-        "Неоконченная пьеса для механического пианино: усадебные разговоры: речь, паузы и фоновая музыка создают атмосферу неловкого светского быта сцены застолья: перебивания и общий шум показывают скрытое раздражение под внешней вежливостью финальные эмоциональные сцены: звук удерживает баланс между драмой и иронией",
-        "История Аси Клячиной, которая любила, да не вышла замуж: деревенские разговоры: натуральная речь и неприглаженные голоса создают документальное ощущение среды трудовые сцены: шумы работы и пространства показывают уклад жизни без объясняющего комментария личные сцены Аси: паузы и простая речевая интонация раскрывают внутренний конфликт",
-        "Андрей Рублев: нашествие татар: крики, копыта, огонь и разрушение дробят пространство и показывают насилие как хаос молчание Рублева: исчезновение голоса героя становится драматургическим решением: мир звучит, а человек отказывается говорить отливка колокола: ожидание звука важнее самого удара; первый звон становится итогом труда, веры и риска"
+        "Период зависит от массы и жёсткости пружины. Формула: T = 2π√(m/k).",
+        "Потенциальная энергия зависит от массы, g и высоты. Формула: E_p = mgh.",
+        "Индуктивное сопротивление растёт с частотой. Формула: X_L = ωL = 2πfL.",
+        "Координата при гармоническом колебании меняется по синусу или косинусу. Формула: x = A cos(ωt + φ)."
       ],
-      "explanation": "Это историческая трагедия. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Иван Грозный"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00023",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00023",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Иваново детство» (реж. Андрей Тарковский, 1962) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) сцены сна: вода, лес и мягкие звуки отделяют мир детства от войны 2) ночная разведка: вода, тишина и осторожные шумы делают пространство опасным 3) военные эпизоды: резкие команды и шумы контрастируют с хрупкостью детского восприятия",
+      "difficulty": 2,
+      "question": "Как найти работу силы?",
+      "answer": "Работа равна произведению силы, пути и косинуса угла между ними. Формула: A = Fs cos α.",
       "choices": [
-        "1) сцены сна: вода, лес и мягкие звуки отделяют мир детства от войны 2) ночная разведка: вода, тишина и осторожные шумы делают пространство опасным 3) военные эпизоды: резкие команды и шумы контрастируют с хрупкостью детского восприятия",
-        "Жестокий романс: исполнение романсов: романс выражает чувство и одновременно показывает социальную игру вокруг Ларисы разговоры купцов и Карандышева: интонации, паузы и перебивания раскрывают власть, унижение и цену человека финал: музыка и паузы фиксируют трагический итог без грубой звуковой иллюстрации",
-        "Анкор! Еще анкор!: гарнизонные застолья: музыка, тосты, перебивания и шум помещения показывают закрытую военную среду с её ритуалами личные разговоры героев: паузы и бытовая акустика комнаты делают конфликт интимным, не парадным сцены военного быта: команды, шаги, музыка и разговоры создают ощущение системы, где личная жизнь зажата формой",
-        "Дворянское гнездо: усадебные сцены: приглушённая речь, музыка и тишина пространства создают атмосферу уходящего дворянского мира сцены признаний: паузы и мягкие бытовые фоны удерживают внутреннюю сдержанность героев музыкальные эпизоды: музыка выражает не действие, а эмоциональную память и невозможность прямого высказывания"
+        "Кинетическая энергия зависит от массы и квадрата скорости. Формула: E_k = mv²/2.",
+        "Работа равна произведению силы, пути и косинуса угла между ними. Формула: A = Fs cos α.",
+        "При последовательном соединении складываются обратные ёмкости. Формула: 1/Cобщ = 1/C1 + 1/C2 + 1/C3 + …",
+        "Энергия конденсатора зависит от ёмкости и напряжения. Формулы: W = CU²/2; W = qU/2; W = q²/(2C)."
       ],
-      "explanation": "Это военная драма. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Иваново детство"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00024",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00024",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Иди и смотри» (реж. Элем Климов, 1985) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) оглушение после взрыва: искажённый субъективный слух показывает травму героя изнутри 2) деревня перед уничтожением: голоса, шум толпы и нарастающая плотность звука превращают пространство в ловушку 3) финал с фотографией Гитлера: звук и монтаж связывают личную травму с историческим масштабом войны",
+      "difficulty": 2,
+      "question": "Как найти кинетическую энергию тела?",
+      "answer": "Кинетическая энергия зависит от массы и квадрата скорости. Формула: E_k = mv²/2.",
       "choices": [
-        "1) оглушение после взрыва: искажённый субъективный слух показывает травму героя изнутри 2) деревня перед уничтожением: голоса, шум толпы и нарастающая плотность звука превращают пространство в ловушку 3) финал с фотографией Гитлера: звук и монтаж связывают личную травму с историческим масштабом войны",
-        "Романовы: венценосная семья: сцены заключения: шаги, двери, приглушённая речь и тишина создают ощущение сужающегося пространства семейные разговоры: камерная акустика показывает людей за историческим символом финальные эпизоды: звук становится сдержанным и холодным, усиливая неизбежность",
-        "Обыкновенный фашизм: архивная хроника с комментарием: голос Ромма спорит с изображением и разрушает пафос фашистской хроники массовые шествия: шум толпы и музыка показывают механизм массового заражения сцены с детьми и бытом: контраст обычного звука и исторического ужаса усиливает критическое восприятие",
-        "Несколько дней из жизни Обломова: комната Обломова: медленный темп, мягкие бытовые звуки и паузы создают состояние неподвижности сцены с Ольгой: музыка и речь меняют ритм, показывая возможность выхода из сонного мира усадебные эпизоды: тишина и природные фоны делают время растянутым"
+        "Индукционная ЭДС равна скорости изменения магнитного потока со знаком минус. Формула: ε = -ΔΦ/Δt.",
+        "Путь при равноускоренном движении: s = v0t + at²/2. Если v0 = 0, то s = at²/2.",
+        "Сила взаимодействия зарядов зависит от зарядов и расстояния между ними. Формула: F = k|q1q2|/r².",
+        "Кинетическая энергия зависит от массы и квадрата скорости. Формула: E_k = mv²/2."
       ],
-      "explanation": "Это военное кино. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Иди и смотри"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00025",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00025",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «История Аси Клячиной, которая любила, да не вышла замуж» (реж. Андрей Кончаловский, 1967) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) деревенские разговоры: натуральная речь и неприглаженные голоса создают документальное ощущение среды 2) трудовые сцены: шумы работы и пространства показывают уклад жизни без объясняющего комментария 3) личные сцены Аси: паузы и простая речевая интонация раскрывают внутренний конфликт",
+      "difficulty": 2,
+      "question": "Как найти потенциальную энергию у поверхности Земли?",
+      "answer": "Потенциальная энергия зависит от массы, g и высоты. Формула: E_p = mgh.",
       "choices": [
-        "1) деревенские разговоры: натуральная речь и неприглаженные голоса создают документальное ощущение среды 2) трудовые сцены: шумы работы и пространства показывают уклад жизни без объясняющего комментария 3) личные сцены Аси: паузы и простая речевая интонация раскрывают внутренний конфликт",
-        "Обыкновенный фашизм: архивная хроника с комментарием: голос Ромма спорит с изображением и разрушает пафос фашистской хроники массовые шествия: шум толпы и музыка показывают механизм массового заражения сцены с детьми и бытом: контраст обычного звука и исторического ужаса усиливает критическое восприятие",
-        "Бег: сцены бегства: шум толпы, шаги, крики и движение создают состояние исторического распада бальные и эмигрантские эпизоды: музыка и речевой этикет контрастируют с катастрофой за пределами салона сцены сновидческой условности: звук поддерживает гротеск и ощущение сломанной реальности",
-        "Елена: квартира Владимира: тихие бытовые шумы, техника, шаги и паузы создают холодное обеспеченное пространство поездки между районами: городской шум и транспорт разделяют два социальных мира ключевое решение Елены: фонограмма сдержана, поэтому внимание переходит на действие и бытовую деталь"
+        "Работа равна произведению силы, пути и косинуса угла между ними. Формула: A = Fs cos α.",
+        "Индукционная ЭДС равна скорости изменения магнитного потока со знаком минус. Формула: ε = -ΔΦ/Δt.",
+        "Индуктивное сопротивление растёт с частотой. Формула: X_L = ωL = 2πfL.",
+        "Потенциальная энергия зависит от массы, g и высоты. Формула: E_p = mgh."
       ],
-      "explanation": "Это деревенская драма. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "История Аси Клячиной, которая любила, да не вышла замуж"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00026",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00026",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Кавказский пленник» (реж. Сергей Бодров старший, 1996) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) горные сцены: ветер, эхо и дальние фоны создают пространство, где опасность может прийти издалека 2) диалоги пленников и местных: разные языки и интонации показывают культурную дистанцию 3) сцены ожидания: тишина и редкие шумы усиливают напряжение сильнее музыки",
+      "difficulty": 2,
+      "question": "Как найти импульс тела?",
+      "answer": "Импульс равен произведению массы на скорость. Формула: p = mv.",
       "choices": [
-        "1) горные сцены: ветер, эхо и дальние фоны создают пространство, где опасность может прийти издалека 2) диалоги пленников и местных: разные языки и интонации показывают культурную дистанцию 3) сцены ожидания: тишина и редкие шумы усиливают напряжение сильнее музыки",
-        "Чук и Гек. Большое приключение: зимняя дорога: снег, ветер и шаги создают сказочно-опасное пространство детские сцены восприятия мира: шумы и музыка подаются через ощущение приключения семейные эпизоды: теплая бытовая акустика контрастирует с внешней зимней средой",
-        "Зеркало: пожар сарая: треск огня, ветер и голоса звучат как память, а не как простой бытовой фон голос за кадром и стихи: голос соединяет разные времена и работает как монтажная связь между матерью, детством и настоящим дождь, вода, ветер, трава: природные звуки передают внутреннее состояние и ожидание",
-        "Иваново детство: сцены сна: вода, лес и мягкие звуки отделяют мир детства от войны ночная разведка: вода, тишина и осторожные шумы делают пространство опасным военные эпизоды: резкие команды и шумы контрастируют с хрупкостью детского восприятия"
+        "Импеданс учитывает активное и реактивное сопротивления. Формула: Z = √(R² + (X_L - X_C)²).",
+        "Скорость волны равна произведению длины волны на частоту. Формулы: v = λf; T = 1/f. Обозначения: v — скорость, λ — длина волны, f — частота, T — период.",
+        "Импульс равен произведению массы на скорость. Формула: p = mv.",
+        "При последовательном соединении складываются обратные ёмкости. Формула: 1/Cобщ = 1/C1 + 1/C2 + 1/C3 + …"
       ],
-      "explanation": "Это военная драма. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Кавказский пленник"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00027",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00027",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Калина красная» (реж. Василий Шукшин, 1973) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) сцены деревни: народная речь, бытовые фоны и песня создают среду, к которой герой хочет вернуться 2) разговоры Егора: интонация и паузы показывают смесь бравады, боли и неуверенности 3) криминальные сцены: речь и шумы меняют атмосферу: вместо домашности появляется угроза",
+      "difficulty": 2,
+      "question": "Как найти ускорение?",
+      "answer": "Ускорение равно изменению скорости за время. Формула: a = Δv/Δt.",
       "choices": [
-        "1) сцены деревни: народная речь, бытовые фоны и песня создают среду, к которой герой хочет вернуться 2) разговоры Егора: интонация и паузы показывают смесь бравады, боли и неуверенности 3) криминальные сцены: речь и шумы меняют атмосферу: вместо домашности появляется угроза",
-        "Змеиный источник: сцены ожидания опасности: приглушённые фоны и паузы создают тревогу до прямого действия сцены в закрытых пространствах: шорохи, шаги и близкая речь усиливают ощущение ловушки развязка: звук ускоряет восприятие угрозы через резкие входы и обрывы",
-        "Война и мир: бальные сцены: музыка, шаги и акустика зала показывают социальный порядок и ритуал батальные эпизоды: массовый шум, команды, копыта, выстрелы и музыка создают исторический масштаб камерные разговоры после больших сцен: тихая речь резко меняет масштаб и возвращает внимание к человеку",
-        "Иван Грозный: церемониальные сцены власти: хор, ритуальная речь и музыка создают образ власти как обряда сцены боярского заговора: шёпоты, паузы и напряжённая музыка строят атмосферу подозрения крупные планы Ивана: голос и паузы делают речь оружием власти"
+        "Индуктивное сопротивление растёт с частотой. Формула: X_L = ωL = 2πfL.",
+        "Индукционная ЭДС равна скорости изменения магнитного потока со знаком минус. Формула: ε = -ΔΦ/Δt.",
+        "Ускорение равно изменению скорости за время. Формула: a = Δv/Δt.",
+        "Сила тока равна напряжению, делённому на сопротивление. Формула: I = U/R. Обозначения: I — ток, U — напряжение, R — сопротивление."
       ],
-      "explanation": "Это социальная драма. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Калина красная"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00028",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00028",
+      "topic": "PHYS_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
       "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Почему фильм «Космос как предчувствие» (реж. Алексей Учитель, 2005) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) портовые и городские сцены: песни эпохи, радио и бытовые шумы создают предчувствие большого мира 2) личные разговоры героев: паузы и музыка раскрывают мечту о выходе из тесной жизни 3) эпизоды с мотивом космоса: звук связывает бытовую среду с ожиданием исторического рывка",
+      "difficulty": 2,
+      "question": "Как найти путь при равноускоренном движении?",
+      "answer": "Путь при равноускоренном движении: s = v0t + at²/2. Если v0 = 0, то s = at²/2.",
       "choices": [
-        "1) портовые и городские сцены: песни эпохи, радио и бытовые шумы создают предчувствие большого мира 2) личные разговоры героев: паузы и музыка раскрывают мечту о выходе из тесной жизни 3) эпизоды с мотивом космоса: звук связывает бытовую среду с ожиданием исторического рывка",
-        "Астенический синдром: сцены очередей и городского раздражения: голоса, крики и бытовой шум создают общество, где люди физически не слышат друг друга сцены речевых перебиваний: диалог распадается на столкновение голосов; звук показывает агрессию общения эпизоды с документальной фактурой: резкие шумы и обрывки речи ломают комфорт зрителя",
-        "Они сражались за Родину: боевые эпизоды: выстрелы, взрывы, команды и шум земли создают физическое ощущение войны разговоры солдат: простая речь и паузы показывают человеческую усталость и юмор сцены передышки: тишина и бытовые звуки контрастируют с боем",
-        "Остров: монастырь и вода: колокол, ветер, вода и редкие голоса создают духовную среду молитвенные сцены: голос и паузы работают как действие, а не как украшение темы сцены покаяния: сдержанный звук удерживает внутренний конфликт героя"
+        "Энергия конденсатора зависит от ёмкости и напряжения. Формулы: W = CU²/2; W = qU/2; W = q²/(2C).",
+        "Потенциальная энергия зависит от массы, g и высоты. Формула: E_p = mgh.",
+        "Путь при равноускоренном движении: s = v0t + at²/2. Если v0 = 0, то s = at²/2.",
+        "Напряжённость равна силе на единичный заряд. Формулы: E = F/q; E = k|q|/r²."
       ],
-      "explanation": "Это ретро-драма. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "В физике в ответе обязательно есть формула.",
       "tags": [
-        "фильм",
-        "разбор сцен",
-        "Космос как предчувствие"
+        "физика",
+        "формулы"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00029",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00029",
+      "topic": "KNOWN_FILMS_SOUND",
+      "topic_name": "Известные фильмы",
+      "category": "known",
       "type": "multiple_choice",
       "difficulty": 3,
-      "question": "Почему фильм «Край» (реж. Алексей Учитель, 2009) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) сцены с паровозами: металл, пар, гудки и ритм машины создают трудовую и почти физическую мощь пространства 2) послевоенный быт: голоса, шумы бараков и природы показывают грубую среду выживания 3) конфликтные сцены: резкие звуки техники и речи усиливают столкновение характеров",
+      "question": "Какой звукозрительный разбор лучше подходит к фильму «Брат» (реж. Алексей Балабанов, 1997)?",
+      "answer": "1) переезды Данилы по Петербургу: городские шумы, подъезды, транспорт и уличная акустика создают холодное пространство 1990-х 2) сцены с музыкой Наутилуса: песни работают как внутренняя интонация героя и поколения, а не просто фон 3) криминальные эпизоды: резкие звуки, короткие реплики и паузы делают насилие сухим и бытовым",
       "choices": [
-        "1) сцены с паровозами: металл, пар, гудки и ритм машины создают трудовую и почти физическую мощь пространства 2) послевоенный быт: голоса, шумы бараков и природы показывают грубую среду выживания 3) конфликтные сцены: резкие звуки техники и речи усиливают столкновение характеров",
-        "Жестокий романс: исполнение романсов: романс выражает чувство и одновременно показывает социальную игру вокруг Ларисы разговоры купцов и Карандышева: интонации, паузы и перебивания раскрывают власть, унижение и цену человека финал: музыка и паузы фиксируют трагический итог без грубой звуковой иллюстрации",
-        "Иван Грозный: церемониальные сцены власти: хор, ритуальная речь и музыка создают образ власти как обряда сцены боярского заговора: шёпоты, паузы и напряжённая музыка строят атмосферу подозрения крупные планы Ивана: голос и паузы делают речь оружием власти",
-        "Чапаев: разговоры Чапаева с бойцами: героическая речь строится на простых интонациях, паузах и прямом обращении; звук делает героя не памятником, а командиром внутри живой военной среды сцены штаба и обсуждения боя: команды, шаги, короткие реплики и деловая речевая манера создают ранний советский звуковой стиль, где слово организует действие боевые эпизоды и финал у реки: выстрелы, крики, движение толпы и паузы после напряжения связывают личную судьбу героя с революционным мифом"
+        "пустыня Плюка: ветер, паузы и странные речевые звуки создают чужой мир слова ку и кю: речь превращается в социальный код и сатирический звуковой знак эпизоды с пепелацем: технические шумы и минимальная музыка поддерживают абсурд фантастической среды",
+        "1) переезды Данилы по Петербургу: городские шумы, подъезды, транспорт и уличная акустика создают холодное пространство 1990-х 2) сцены с музыкой Наутилуса: песни работают как внутренняя интонация героя и поколения, а не просто фон 3) криминальные эпизоды: резкие звуки, короткие реплики и паузы делают насилие сухим и бытовым",
+        "дворы и ЖЭК: бытовые шумы, голоса жильцов и рабочая среда создают комедийный реализм разговоры Афони: интонация героя показывает браваду и внутреннюю пустоту лирические сцены: музыка и паузы меняют тон с комедии на человеческую тоску",
+        "сцены похищения: музыка, крики, движение и быстрые реплики делают действие комедийным аттракционом тосты и песни: звуковая среда праздника превращается в сатиру на обычаи и власть погони: ритм музыки и шум движения держат комедийный темп"
       ],
-      "explanation": "Это историческая драма. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
       "tags": [
-        "фильм",
+        "известные фильмы",
         "разбор сцен",
-        "Край"
+        "звук"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00030",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00030",
+      "topic": "KNOWN_FILMS_SOUND",
+      "topic_name": "Известные фильмы",
+      "category": "known",
       "type": "multiple_choice",
       "difficulty": 3,
-      "question": "Почему фильм «Крылья» (реж. Лариса Шепитько, 1966) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) школьные сцены: обычная акустика школы показывает героиню в мире, где её прошлое почти не слышно 2) воспоминания о полёте: воздушная тема и паузы отделяют внутреннюю свободу от настоящего 3) финальные эпизоды: сдержанный звук усиливает одиночество без прямого объяснения",
+      "question": "Какие сцены стоит назвать комиссии по фильму «Брат 2» (реж. Алексей Балабанов, 2000)?",
+      "answer": "1) сцены Москвы и Америки: разный городской шум показывает смену пространства и культурной среды 2) музыкальные эпизоды: рок-песни становятся комментарием к герою и времени 3) финальные силовые сцены: выстрелы и короткие реплики поданы жестко, без лишней психологической музыки",
       "choices": [
-        "1) школьные сцены: обычная акустика школы показывает героиню в мире, где её прошлое почти не слышно 2) воспоминания о полёте: воздушная тема и паузы отделяют внутреннюю свободу от настоящего 3) финальные эпизоды: сдержанный звук усиливает одиночество без прямого объяснения",
-        "Андрей Рублев: нашествие татар: крики, копыта, огонь и разрушение дробят пространство и показывают насилие как хаос молчание Рублева: исчезновение голоса героя становится драматургическим решением: мир звучит, а человек отказывается говорить отливка колокола: ожидание звука важнее самого удара; первый звон становится итогом труда, веры и риска",
-        "Иваново детство: сцены сна: вода, лес и мягкие звуки отделяют мир детства от войны ночная разведка: вода, тишина и осторожные шумы делают пространство опасным военные эпизоды: резкие команды и шумы контрастируют с хрупкостью детского восприятия",
-        "А зори здесь тихие: лесные эпизоды до боя: птицы, шаги, вода и тишина леса создают мирную среду, которую война постепенно разрушает сцены ожидания немцев: приглушённые голоса, осторожные движения и паузы делают опасность слышимой раньше, чем она проявляется в кадре смерти девушек: звук не давит музыкой, а оставляет внимание на дыхании, движении и разрыве между природой и насилием"
+        "сцены похищения: музыка, крики, движение и быстрые реплики делают действие комедийным аттракционом тосты и песни: звуковая среда праздника превращается в сатиру на обычаи и власть погони: ритм музыки и шум движения держат комедийный темп",
+        "экзаменационные сцены: шёпот, паузы и мелкие шумы создают комедию напряжения стройка: рабочие шумы и темп движения делают физическую комедию точной складская новелла: шаги, скрипы и музыка работают как почти немая комедия",
+        "1) сцены Москвы и Америки: разный городской шум показывает смену пространства и культурной среды 2) музыкальные эпизоды: рок-песни становятся комментарием к герою и времени 3) финальные силовые сцены: выстрелы и короткие реплики поданы жестко, без лишней психологической музыки",
+        "грузинские горные сцены: пространственные фоны, голоса и музыка создают родной мир героя московские сцены: городской шум и речь контрастируют с горной акустикой сцены телефонных разговоров: голос на расстоянии показывает тоску по дому"
       ],
-      "explanation": "Это психологическая драма. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
       "tags": [
-        "фильм",
+        "известные фильмы",
         "разбор сцен",
-        "Крылья"
+        "звук"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00031",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00031",
+      "topic": "KNOWN_FILMS_SOUND",
+      "topic_name": "Известные фильмы",
+      "category": "known",
       "type": "multiple_choice",
       "difficulty": 3,
-      "question": "Почему фильм «Курьер» (реж. Карен Шахназаров, 1986) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) разговоры Ивана со взрослыми: юмор, паузы и перебивания показывают конфликт поколений 2) городские сцены: шум улицы и музыка создают позднесоветскую Москву 3) квартира профессора: закрытая акустика комнаты усиливает социальную неловкость",
+      "question": "Как связать звук и драматургию в фильме «Игла» (реж. Рашид Нугманов, 1988)?",
+      "answer": "1) появление Моро: музыка Виктора Цоя задаёт холодную отстранённость героя 2) городские сцены Алма-Аты: ветер, улица, пустые пространства и музыка создают ощущение позднесоветской пустоты 3) конфликтные эпизоды: сдержанный звук и паузы делают угрозу сухой и почти ритуальной",
       "choices": [
-        "1) разговоры Ивана со взрослыми: юмор, паузы и перебивания показывают конфликт поколений 2) городские сцены: шум улицы и музыка создают позднесоветскую Москву 3) квартира профессора: закрытая акустика комнаты усиливает социальную неловкость",
-        "Крылья: школьные сцены: обычная акустика школы показывает героиню в мире, где её прошлое почти не слышно воспоминания о полёте: воздушная тема и паузы отделяют внутреннюю свободу от настоящего финальные эпизоды: сдержанный звук усиливает одиночество без прямого объяснения",
-        "Жестокий романс: исполнение романсов: романс выражает чувство и одновременно показывает социальную игру вокруг Ларисы разговоры купцов и Карандышева: интонации, паузы и перебивания раскрывают власть, унижение и цену человека финал: музыка и паузы фиксируют трагический итог без грубой звуковой иллюстрации",
-        "Легенда №17: хоккейные матчи: удары шайбы, лёд, трибуны и свистки строят телесный ритм игры тренировки: дыхание, скрежет льда и команды тренера показывают цену результата ключевые голы: звук трибун и резкие акценты делают спортивное действие драматическим событием"
+        "сцены Москвы и Америки: разный городской шум показывает смену пространства и культурной среды музыкальные эпизоды: рок-песни становятся комментарием к герою и времени финальные силовые сцены: выстрелы и короткие реплики поданы жестко, без лишней психологической музыки",
+        "1) появление Моро: музыка Виктора Цоя задаёт холодную отстранённость героя 2) городские сцены Алма-Аты: ветер, улица, пустые пространства и музыка создают ощущение позднесоветской пустоты 3) конфликтные эпизоды: сдержанный звук и паузы делают угрозу сухой и почти ритуальной",
+        "станция: гул, технические шумы и паузы создают замкнутое психологическое пространство сцены с Хари: сдержанная речь и тишина переводят фантастику в драму памяти невесомость: музыка и плавность движения создают ощущение остановленного времени",
+        "сцены с переодеванием заведующего: интонация речи становится главным комедийным инструментом тюремно-криминальная среда: жаргон, тембр голосов и паузы создают комедию социальных масок погони и бытовые эпизоды: музыка и шум движения поддерживают лёгкий приключенческий ритм"
       ],
-      "explanation": "Это городская драма. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
       "tags": [
-        "фильм",
+        "известные фильмы",
         "разбор сцен",
-        "Курьер"
+        "звук"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00032",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00032",
+      "topic": "KNOWN_FILMS_SOUND",
+      "topic_name": "Известные фильмы",
+      "category": "known",
       "type": "multiple_choice",
       "difficulty": 3,
-      "question": "Почему фильм «Легенда №17» (реж. Николай Лебедев, 2013) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) хоккейные матчи: удары шайбы, лёд, трибуны и свистки строят телесный ритм игры 2) тренировки: дыхание, скрежет льда и команды тренера показывают цену результата 3) ключевые голы: звук трибун и резкие акценты делают спортивное действие драматическим событием",
+      "question": "Что говорить о звуке в фильме «Москва слезам не верит» (реж. Владимир Меньшов, 1979)?",
+      "answer": "1) общежитие и молодая Москва: голоса, бытовые шумы и музыка создают социальную среду героинь 2) переход во взрослую жизнь: изменение звуковой среды показывает другую Москву и другой статус героини 3) личные разговоры Катерины и Гоши: паузы и интонации важнее эффекта, потому что конфликт строится на доверии",
       "choices": [
-        "1) хоккейные матчи: удары шайбы, лёд, трибуны и свистки строят телесный ритм игры 2) тренировки: дыхание, скрежет льда и команды тренера показывают цену результата 3) ключевые голы: звук трибун и резкие акценты делают спортивное действие драматическим событием",
-        "Страна глухих: общение слышащих и глухих персонажей: звук становится границей между мирами; важны жест, ритм тела и неполное слышание танцевальные сцены: музыка воспринимается телесно, через движение, а не только слух городские эпизоды: шум города подчёркивает опасность и социальный разрыв",
-        "Андрей Рублев: нашествие татар: крики, копыта, огонь и разрушение дробят пространство и показывают насилие как хаос молчание Рублева: исчезновение голоса героя становится драматургическим решением: мир звучит, а человек отказывается говорить отливка колокола: ожидание звука важнее самого удара; первый звон становится итогом труда, веры и риска",
-        "Дворянское гнездо: усадебные сцены: приглушённая речь, музыка и тишина пространства создают атмосферу уходящего дворянского мира сцены признаний: паузы и мягкие бытовые фоны удерживают внутреннюю сдержанность героев музыкальные эпизоды: музыка выражает не действие, а эмоциональную память и невозможность прямого высказывания"
+        "работа машины времени: технический шум и музыкальные акценты создают комедийную фантастику царские палаты: речевая манера и музыка пародируют исторический жанр квартирные сцены: бытовые шумы и быстрые реплики держат фарсовый темп",
+        "1) общежитие и молодая Москва: голоса, бытовые шумы и музыка создают социальную среду героинь 2) переход во взрослую жизнь: изменение звуковой среды показывает другую Москву и другой статус героини 3) личные разговоры Катерины и Гоши: паузы и интонации важнее эффекта, потому что конфликт строится на доверии",
+        "контрабандная сцена с гипсом: шум падения, крики и темп реплик строят комический механизм песенные номера: музыка работает как жанровая маска и сатирический комментарий финальные погони: ритм шумов, реплик и музыки собирает аттракцион",
+        "грузинские горные сцены: пространственные фоны, голоса и музыка создают родной мир героя московские сцены: городской шум и речь контрастируют с горной акустикой сцены телефонных разговоров: голос на расстоянии показывает тоску по дому"
       ],
-      "explanation": "Это спортивная драма. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
       "tags": [
-        "фильм",
+        "известные фильмы",
         "разбор сцен",
-        "Легенда №17"
+        "звук"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00033",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00033",
+      "topic": "KNOWN_FILMS_SOUND",
+      "topic_name": "Известные фильмы",
+      "category": "known",
       "type": "multiple_choice",
       "difficulty": 3,
-      "question": "Почему фильм «Летят журавли» (реж. Михаил Калатозов, 1957) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) проводы на фронт: голоса, толпа и музыка создают эмоциональный хаос расставания 2) бомбёжка и лестница: шум разрушения, движение и монтажный темп передают внутренний слом 3) лирические сцены Бориса и Вероники: мягкая музыка и городские фоны контрастируют с военным шумом",
+      "question": "Какой звукозрительный разбор лучше подходит к фильму «Служебный роман» (реж. Эльдар Рязанов, 1977)?",
+      "answer": "1) офисные сцены: телефоны, шаги, машинки и сухая речь создают бюрократическую акустику учреждения 2) разговоры Новосельцева и Калугиной: интонация постепенно меняется от служебной маски к личному голосу 3) музыкальные моменты: музыка смягчает быт и раскрывает лирическую линию",
       "choices": [
-        "1) проводы на фронт: голоса, толпа и музыка создают эмоциональный хаос расставания 2) бомбёжка и лестница: шум разрушения, движение и монтажный темп передают внутренний слом 3) лирические сцены Бориса и Вероники: мягкая музыка и городские фоны контрастируют с военным шумом",
-        "Зеркало: пожар сарая: треск огня, ветер и голоса звучат как память, а не как простой бытовой фон голос за кадром и стихи: голос соединяет разные времена и работает как монтажная связь между матерью, детством и настоящим дождь, вода, ветер, трава: природные звуки передают внутреннее состояние и ожидание",
-        "Елена: квартира Владимира: тихие бытовые шумы, техника, шаги и паузы создают холодное обеспеченное пространство поездки между районами: городской шум и транспорт разделяют два социальных мира ключевое решение Елены: фонограмма сдержана, поэтому внимание переходит на действие и бытовую деталь",
-        "Анкор! Еще анкор!: гарнизонные застолья: музыка, тосты, перебивания и шум помещения показывают закрытую военную среду с её ритуалами личные разговоры героев: паузы и бытовая акустика комнаты делают конфликт интимным, не парадным сцены военного быта: команды, шаги, музыка и разговоры создают ощущение системы, где личная жизнь зажата формой"
+        "1) офисные сцены: телефоны, шаги, машинки и сухая речь создают бюрократическую акустику учреждения 2) разговоры Новосельцева и Калугиной: интонация постепенно меняется от служебной маски к личному голосу 3) музыкальные моменты: музыка смягчает быт и раскрывает лирическую линию",
+        "баня и застолье: шум компании, песни и разговоры запускают комедийную ситуацию квартира Нади: тихая бытовая акустика и паузы меняют фарс на лирическую драму песни под гитару: музыка становится способом прямого эмоционального высказывания",
+        "путь в Зону: стук дрезины, металл и ритм движения вводят переход в другое состояние сцены в Зоне: вода, капли, ветер и дальние шумы создают пространство ожидания комната желаний: паузы и тихая акустика делают конфликт внутренним, а не внешним",
+        "сцены похищения: музыка, крики, движение и быстрые реплики делают действие комедийным аттракционом тосты и песни: звуковая среда праздника превращается в сатиру на обычаи и власть погони: ритм музыки и шум движения держат комедийный темп"
       ],
-      "explanation": "Это военная мелодрама. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
       "tags": [
-        "фильм",
+        "известные фильмы",
         "разбор сцен",
-        "Летят журавли"
+        "звук"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00034",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00034",
+      "topic": "KNOWN_FILMS_SOUND",
+      "topic_name": "Известные фильмы",
+      "category": "known",
       "type": "multiple_choice",
       "difficulty": 3,
-      "question": "Почему фильм «Начало» (реж. Глеб Панфилов, 1970) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) бытовые сцены Паши: обычная речь и бытовой шум показывают исходную среду героини 2) съёмки Жанны д'Арк: звук меняет регистр: появляется условность, роль и историческая интонация 3) переходы между жизнью и ролью: фонограмма помогает слышать разрыв между реальностью и экранным образом",
+      "question": "Какие сцены стоит назвать комиссии по фильму «Ирония судьбы, или С лёгким паром!» (реж. Эльдар Рязанов, 1975)?",
+      "answer": "1) баня и застолье: шум компании, песни и разговоры запускают комедийную ситуацию 2) квартира Нади: тихая бытовая акустика и паузы меняют фарс на лирическую драму 3) песни под гитару: музыка становится способом прямого эмоционального высказывания",
       "choices": [
-        "1) бытовые сцены Паши: обычная речь и бытовой шум показывают исходную среду героини 2) съёмки Жанны д'Арк: звук меняет регистр: появляется условность, роль и историческая интонация 3) переходы между жизнью и ролью: фонограмма помогает слышать разрыв между реальностью и экранным образом",
-        "Легенда №17: хоккейные матчи: удары шайбы, лёд, трибуны и свистки строят телесный ритм игры тренировки: дыхание, скрежет льда и команды тренера показывают цену результата ключевые голы: звук трибун и резкие акценты делают спортивное действие драматическим событием",
-        "А зори здесь тихие: лесные эпизоды до боя: птицы, шаги, вода и тишина леса создают мирную среду, которую война постепенно разрушает сцены ожидания немцев: приглушённые голоса, осторожные движения и паузы делают опасность слышимой раньше, чем она проявляется в кадре смерти девушек: звук не давит музыкой, а оставляет внимание на дыхании, движении и разрыве между природой и насилием",
-        "Сто дней после детства: летний лагерь: природные фоны, голоса подростков и музыка создают состояние переходного возраста сцены первой влюблённости: паузы и музыка важнее прямого объяснения чувства театральные эпизоды: звук связывает игру, взросление и личное переживание"
+        "северный пейзаж: ветер, море и пустые фоны создают холодное давление среды бытовые разговоры: жесткая речь и паузы показывают социальную безысходность сцены власти: акустика кабинетов и церковного пространства подчёркивает дистанцию и давление системы",
+        "баня и застолье: шум компании, песни и разговоры запускают комедийную ситуацию квартира Нади: тихая бытовая акустика и паузы меняют фарс на лирическую драму песни под гитару: музыка становится способом прямого эмоционального высказывания",
+        "1) баня и застолье: шум компании, песни и разговоры запускают комедийную ситуацию 2) квартира Нади: тихая бытовая акустика и паузы меняют фарс на лирическую драму 3) песни под гитару: музыка становится способом прямого эмоционального высказывания",
+        "пустыня Плюка: ветер, паузы и странные речевые звуки создают чужой мир слова ку и кю: речь превращается в социальный код и сатирический звуковой знак эпизоды с пепелацем: технические шумы и минимальная музыка поддерживают абсурд фантастической среды"
       ],
-      "explanation": "Это кино о кино. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
       "tags": [
-        "фильм",
+        "известные фильмы",
         "разбор сцен",
-        "Начало"
+        "звук"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00035",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00035",
+      "topic": "KNOWN_FILMS_SOUND",
+      "topic_name": "Известные фильмы",
+      "category": "known",
       "type": "multiple_choice",
       "difficulty": 3,
-      "question": "Почему фильм «Неоконченная пьеса для механического пианино» (реж. Никита Михалков, 1977) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) усадебные разговоры: речь, паузы и фоновая музыка создают атмосферу неловкого светского быта 2) сцены застолья: перебивания и общий шум показывают скрытое раздражение под внешней вежливостью 3) финальные эмоциональные сцены: звук удерживает баланс между драмой и иронией",
+      "question": "Как связать звук и драматургию в фильме «Кин-дза-дза!» (реж. Георгий Данелия, 1986)?",
+      "answer": "1) пустыня Плюка: ветер, паузы и странные речевые звуки создают чужой мир 2) слова ку и кю: речь превращается в социальный код и сатирический звуковой знак 3) эпизоды с пепелацем: технические шумы и минимальная музыка поддерживают абсурд фантастической среды",
       "choices": [
-        "1) усадебные разговоры: речь, паузы и фоновая музыка создают атмосферу неловкого светского быта 2) сцены застолья: перебивания и общий шум показывают скрытое раздражение под внешней вежливостью 3) финальные эмоциональные сцены: звук удерживает баланс между драмой и иронией",
-        "Они сражались за Родину: боевые эпизоды: выстрелы, взрывы, команды и шум земли создают физическое ощущение войны разговоры солдат: простая речь и паузы показывают человеческую усталость и юмор сцены передышки: тишина и бытовые звуки контрастируют с боем",
-        "Начало: бытовые сцены Паши: обычная речь и бытовой шум показывают исходную среду героини съёмки Жанны д'Арк: звук меняет регистр: появляется условность, роль и историческая интонация переходы между жизнью и ролью: фонограмма помогает слышать разрыв между реальностью и экранным образом",
-        "Я шагаю по Москве: прогулки по Москве: шум улицы, разговоры и лёгкая музыка создают открытое городское пространство сцена песни: песня не останавливает действие, а собирает настроение фильма метро и улицы: городские фоны звучат как образ молодой Москвы"
+        "1) пустыня Плюка: ветер, паузы и странные речевые звуки создают чужой мир 2) слова ку и кю: речь превращается в социальный код и сатирический звуковой знак 3) эпизоды с пепелацем: технические шумы и минимальная музыка поддерживают абсурд фантастической среды",
+        "путь в Зону: стук дрезины, металл и ритм движения вводят переход в другое состояние сцены в Зоне: вода, капли, ветер и дальние шумы создают пространство ожидания комната желаний: паузы и тихая акустика делают конфликт внутренним, а не внешним",
+        "грузинские горные сцены: пространственные фоны, голоса и музыка создают родной мир героя московские сцены: городской шум и речь контрастируют с горной акустикой сцены телефонных разговоров: голос на расстоянии показывает тоску по дому",
+        "офисные сцены: телефоны, шаги, машинки и сухая речь создают бюрократическую акустику учреждения разговоры Новосельцева и Калугиной: интонация постепенно меняется от служебной маски к личному голосу музыкальные моменты: музыка смягчает быт и раскрывает лирическую линию"
       ],
-      "explanation": "Это экранизация. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
       "tags": [
-        "фильм",
+        "известные фильмы",
         "разбор сцен",
-        "Неоконченная пьеса для механического пианино"
+        "звук"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00036",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00036",
+      "topic": "KNOWN_FILMS_SOUND",
+      "topic_name": "Известные фильмы",
+      "category": "known",
       "type": "multiple_choice",
       "difficulty": 3,
-      "question": "Почему фильм «Несколько дней из жизни Обломова» (реж. Никита Михалков, 1979) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) комната Обломова: медленный темп, мягкие бытовые звуки и паузы создают состояние неподвижности 2) сцены с Ольгой: музыка и речь меняют ритм, показывая возможность выхода из сонного мира 3) усадебные эпизоды: тишина и природные фоны делают время растянутым",
+      "question": "Что говорить о звуке в фильме «Афоня» (реж. Георгий Данелия, 1975)?",
+      "answer": "1) дворы и ЖЭК: бытовые шумы, голоса жильцов и рабочая среда создают комедийный реализм 2) разговоры Афони: интонация героя показывает браваду и внутреннюю пустоту 3) лирические сцены: музыка и паузы меняют тон с комедии на человеческую тоску",
       "choices": [
-        "1) комната Обломова: медленный темп, мягкие бытовые звуки и паузы создают состояние неподвижности 2) сцены с Ольгой: музыка и речь меняют ритм, показывая возможность выхода из сонного мира 3) усадебные эпизоды: тишина и природные фоны делают время растянутым",
-        "Бег: сцены бегства: шум толпы, шаги, крики и движение создают состояние исторического распада бальные и эмигрантские эпизоды: музыка и речевой этикет контрастируют с катастрофой за пределами салона сцены сновидческой условности: звук поддерживает гротеск и ощущение сломанной реальности",
-        "Кавказский пленник: горные сцены: ветер, эхо и дальние фоны создают пространство, где опасность может прийти издалека диалоги пленников и местных: разные языки и интонации показывают культурную дистанцию сцены ожидания: тишина и редкие шумы усиливают напряжение сильнее музыки",
-        "Легенда №17: хоккейные матчи: удары шайбы, лёд, трибуны и свистки строят телесный ритм игры тренировки: дыхание, скрежет льда и команды тренера показывают цену результата ключевые голы: звук трибун и резкие акценты делают спортивное действие драматическим событием"
+        "1) дворы и ЖЭК: бытовые шумы, голоса жильцов и рабочая среда создают комедийный реализм 2) разговоры Афони: интонация героя показывает браваду и внутреннюю пустоту 3) лирические сцены: музыка и паузы меняют тон с комедии на человеческую тоску",
+        "северный пейзаж: ветер, море и пустые фоны создают холодное давление среды бытовые разговоры: жесткая речь и паузы показывают социальную безысходность сцены власти: акустика кабинетов и церковного пространства подчёркивает дистанцию и давление системы",
+        "офисные сцены: телефоны, шаги, машинки и сухая речь создают бюрократическую акустику учреждения разговоры Новосельцева и Калугиной: интонация постепенно меняется от служебной маски к личному голосу музыкальные моменты: музыка смягчает быт и раскрывает лирическую линию",
+        "контрабандная сцена с гипсом: шум падения, крики и темп реплик строят комический механизм песенные номера: музыка работает как жанровая маска и сатирический комментарий финальные погони: ритм шумов, реплик и музыки собирает аттракцион"
       ],
-      "explanation": "Это экранизация. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
       "tags": [
-        "фильм",
+        "известные фильмы",
         "разбор сцен",
-        "Несколько дней из жизни Обломова"
+        "звук"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00037",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00037",
+      "topic": "KNOWN_FILMS_SOUND",
+      "topic_name": "Известные фильмы",
+      "category": "known",
       "type": "multiple_choice",
       "difficulty": 3,
-      "question": "Почему фильм «Обыкновенный фашизм» (реж. Михаил Ромм, 1966) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) архивная хроника с комментарием: голос Ромма спорит с изображением и разрушает пафос фашистской хроники 2) массовые шествия: шум толпы и музыка показывают механизм массового заражения 3) сцены с детьми и бытом: контраст обычного звука и исторического ужаса усиливает критическое восприятие",
+      "question": "Какой звукозрительный разбор лучше подходит к фильму «Мимино» (реж. Георгий Данелия, 1977)?",
+      "answer": "1) грузинские горные сцены: пространственные фоны, голоса и музыка создают родной мир героя 2) московские сцены: городской шум и речь контрастируют с горной акустикой 3) сцены телефонных разговоров: голос на расстоянии показывает тоску по дому",
       "choices": [
-        "1) архивная хроника с комментарием: голос Ромма спорит с изображением и разрушает пафос фашистской хроники 2) массовые шествия: шум толпы и музыка показывают механизм массового заражения 3) сцены с детьми и бытом: контраст обычного звука и исторического ужаса усиливает критическое восприятие",
-        "Остров: монастырь и вода: колокол, ветер, вода и редкие голоса создают духовную среду молитвенные сцены: голос и паузы работают как действие, а не как украшение темы сцены покаяния: сдержанный звук удерживает внутренний конфликт героя",
-        "Кавказский пленник: горные сцены: ветер, эхо и дальние фоны создают пространство, где опасность может прийти издалека диалоги пленников и местных: разные языки и интонации показывают культурную дистанцию сцены ожидания: тишина и редкие шумы усиливают напряжение сильнее музыки",
-        "Гамлет: пространство замка и моря: ветер, море, шаги по камню и музыка создают холодную трагическую среду монологи Гамлета: интонация и паузы работают как внутренняя борьба, а не просто произнесение текста сцены двора: музыка и акустика зала подчёркивают власть, ритуал и отчуждение"
+        "1) грузинские горные сцены: пространственные фоны, голоса и музыка создают родной мир героя 2) московские сцены: городской шум и речь контрастируют с горной акустикой 3) сцены телефонных разговоров: голос на расстоянии показывает тоску по дому",
+        "появление Моро: музыка Виктора Цоя задаёт холодную отстранённость героя городские сцены Алма-Аты: ветер, улица, пустые пространства и музыка создают ощущение позднесоветской пустоты конфликтные эпизоды: сдержанный звук и паузы делают угрозу сухой и почти ритуальной",
+        "сцены похищения: музыка, крики, движение и быстрые реплики делают действие комедийным аттракционом тосты и песни: звуковая среда праздника превращается в сатиру на обычаи и власть погони: ритм музыки и шум движения держат комедийный темп",
+        "офисные сцены: телефоны, шаги, машинки и сухая речь создают бюрократическую акустику учреждения разговоры Новосельцева и Калугиной: интонация постепенно меняется от служебной маски к личному голосу музыкальные моменты: музыка смягчает быт и раскрывает лирическую линию"
       ],
-      "explanation": "Это документальное кино. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
       "tags": [
-        "фильм",
+        "известные фильмы",
         "разбор сцен",
-        "Обыкновенный фашизм"
+        "звук"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00038",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00038",
+      "topic": "KNOWN_FILMS_SOUND",
+      "topic_name": "Известные фильмы",
+      "category": "known",
       "type": "multiple_choice",
       "difficulty": 3,
-      "question": "Почему фильм «Они сражались за Родину» (реж. Сергей Бондарчук, 1975) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) боевые эпизоды: выстрелы, взрывы, команды и шум земли создают физическое ощущение войны 2) разговоры солдат: простая речь и паузы показывают человеческую усталость и юмор 3) сцены передышки: тишина и бытовые звуки контрастируют с боем",
+      "question": "Какие сцены стоит назвать комиссии по фильму «Осенний марафон» (реж. Георгий Данелия, 1979)?",
+      "answer": "1) квартира Бузыкина: телефоны, шаги, бытовые шумы и паузы создают замкнутый круг его жизни 2) разговоры с женщинами: интонации и недоговорённости показывают слабость героя 3) городские пробежки: шаги и городская среда превращают движение в образ бегства от решений",
       "choices": [
-        "1) боевые эпизоды: выстрелы, взрывы, команды и шум земли создают физическое ощущение войны 2) разговоры солдат: простая речь и паузы показывают человеческую усталость и юмор 3) сцены передышки: тишина и бытовые звуки контрастируют с боем",
-        "Дворянское гнездо: усадебные сцены: приглушённая речь, музыка и тишина пространства создают атмосферу уходящего дворянского мира сцены признаний: паузы и мягкие бытовые фоны удерживают внутреннюю сдержанность героев музыкальные эпизоды: музыка выражает не действие, а эмоциональную память и невозможность прямого высказывания",
-        "Елена: квартира Владимира: тихие бытовые шумы, техника, шаги и паузы создают холодное обеспеченное пространство поездки между районами: городской шум и транспорт разделяют два социальных мира ключевое решение Елены: фонограмма сдержана, поэтому внимание переходит на действие и бытовую деталь",
-        "Возвращение: дорога с отцом: шум машины, редкие реплики и длинные паузы создают напряжение между героями сцены у воды: вода звучит как пространство испытания и угрозы, а не как красивый пейзаж финал: сдержанная фонограмма оставляет недоговорённость, не объясняя эмоцию музыкой"
+        "баня и застолье: шум компании, песни и разговоры запускают комедийную ситуацию квартира Нади: тихая бытовая акустика и паузы меняют фарс на лирическую драму песни под гитару: музыка становится способом прямого эмоционального высказывания",
+        "станция: гул, технические шумы и паузы создают замкнутое психологическое пространство сцены с Хари: сдержанная речь и тишина переводят фантастику в драму памяти невесомость: музыка и плавность движения создают ощущение остановленного времени",
+        "1) квартира Бузыкина: телефоны, шаги, бытовые шумы и паузы создают замкнутый круг его жизни 2) разговоры с женщинами: интонации и недоговорённости показывают слабость героя 3) городские пробежки: шаги и городская среда превращают движение в образ бегства от решений",
+        "работа машины времени: технический шум и музыкальные акценты создают комедийную фантастику царские палаты: речевая манера и музыка пародируют исторический жанр квартирные сцены: бытовые шумы и быстрые реплики держат фарсовый темп"
       ],
-      "explanation": "Это военное кино. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
       "tags": [
-        "фильм",
+        "известные фильмы",
         "разбор сцен",
-        "Они сражались за Родину"
+        "звук"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00039",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00039",
+      "topic": "KNOWN_FILMS_SOUND",
+      "topic_name": "Известные фильмы",
+      "category": "known",
       "type": "multiple_choice",
       "difficulty": 3,
-      "question": "Почему фильм «Остров» (реж. Павел Лунгин, 2006) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) монастырь и вода: колокол, ветер, вода и редкие голоса создают духовную среду 2) молитвенные сцены: голос и паузы работают как действие, а не как украшение темы 3) сцены покаяния: сдержанный звук удерживает внутренний конфликт героя",
+      "question": "Как связать звук и драматургию в фильме «Бриллиантовая рука» (реж. Леонид Гайдай, 1968)?",
+      "answer": "1) контрабандная сцена с гипсом: шум падения, крики и темп реплик строят комический механизм 2) песенные номера: музыка работает как жанровая маска и сатирический комментарий 3) финальные погони: ритм шумов, реплик и музыки собирает аттракцион",
       "choices": [
-        "1) монастырь и вода: колокол, ветер, вода и редкие голоса создают духовную среду 2) молитвенные сцены: голос и паузы работают как действие, а не как украшение темы 3) сцены покаяния: сдержанный звук удерживает внутренний конфликт героя",
-        "Я шагаю по Москве: прогулки по Москве: шум улицы, разговоры и лёгкая музыка создают открытое городское пространство сцена песни: песня не останавливает действие, а собирает настроение фильма метро и улицы: городские фоны звучат как образ молодой Москвы",
-        "Баллада о солдате: сцены дороги: поезда, шаги, вокзальные фоны и короткие разговоры создают лирический ритм пути встреча с матерью: паузы и сдержанная речь важнее музыкального нажима; звук держит простоту момента фронтовое начало: военные шумы контрастируют с дальнейшей тихой человеческой историей",
-        "Девять дней одного года: лабораторные сцены: технические шумы, приборы и сухая речь создают рациональную среду науки споры учёных: интонации и паузы показывают не только идеи, но и личную цену выбора тихие личные сцены: контраст с лабораторной акустикой переносит конфликт в человеческую плоскость"
+        "сцены Москвы и Америки: разный городской шум показывает смену пространства и культурной среды музыкальные эпизоды: рок-песни становятся комментарием к герою и времени финальные силовые сцены: выстрелы и короткие реплики поданы жестко, без лишней психологической музыки",
+        "1) контрабандная сцена с гипсом: шум падения, крики и темп реплик строят комический механизм 2) песенные номера: музыка работает как жанровая маска и сатирический комментарий 3) финальные погони: ритм шумов, реплик и музыки собирает аттракцион",
+        "офисные сцены: телефоны, шаги, машинки и сухая речь создают бюрократическую акустику учреждения разговоры Новосельцева и Калугиной: интонация постепенно меняется от служебной маски к личному голосу музыкальные моменты: музыка смягчает быт и раскрывает лирическую линию",
+        "работа машины времени: технический шум и музыкальные акценты создают комедийную фантастику царские палаты: речевая манера и музыка пародируют исторический жанр квартирные сцены: бытовые шумы и быстрые реплики держат фарсовый темп"
       ],
-      "explanation": "Это духовная драма. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
       "tags": [
-        "фильм",
+        "известные фильмы",
         "разбор сцен",
-        "Остров"
+        "звук"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00040",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00040",
+      "topic": "KNOWN_FILMS_SOUND",
+      "topic_name": "Известные фильмы",
+      "category": "known",
       "type": "multiple_choice",
       "difficulty": 3,
-      "question": "Почему фильм «Романовы: венценосная семья» (реж. Глеб Панфилов, 2000) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) сцены заключения: шаги, двери, приглушённая речь и тишина создают ощущение сужающегося пространства 2) семейные разговоры: камерная акустика показывает людей за историческим символом 3) финальные эпизоды: звук становится сдержанным и холодным, усиливая неизбежность",
+      "question": "Что говорить о звуке в фильме «Кавказская пленница» (реж. Леонид Гайдай, 1967)?",
+      "answer": "1) сцены похищения: музыка, крики, движение и быстрые реплики делают действие комедийным аттракционом 2) тосты и песни: звуковая среда праздника превращается в сатиру на обычаи и власть 3) погони: ритм музыки и шум движения держат комедийный темп",
       "choices": [
-        "1) сцены заключения: шаги, двери, приглушённая речь и тишина создают ощущение сужающегося пространства 2) семейные разговоры: камерная акустика показывает людей за историческим символом 3) финальные эпизоды: звук становится сдержанным и холодным, усиливая неизбежность",
-        "Андрей Рублев: нашествие татар: крики, копыта, огонь и разрушение дробят пространство и показывают насилие как хаос молчание Рублева: исчезновение голоса героя становится драматургическим решением: мир звучит, а человек отказывается говорить отливка колокола: ожидание звука важнее самого удара; первый звон становится итогом труда, веры и риска",
-        "Неоконченная пьеса для механического пианино: усадебные разговоры: речь, паузы и фоновая музыка создают атмосферу неловкого светского быта сцены застолья: перебивания и общий шум показывают скрытое раздражение под внешней вежливостью финальные эмоциональные сцены: звук удерживает баланс между драмой и иронией",
-        "Зеркало: пожар сарая: треск огня, ветер и голоса звучат как память, а не как простой бытовой фон голос за кадром и стихи: голос соединяет разные времена и работает как монтажная связь между матерью, детством и настоящим дождь, вода, ветер, трава: природные звуки передают внутреннее состояние и ожидание"
+        "1) сцены похищения: музыка, крики, движение и быстрые реплики делают действие комедийным аттракционом 2) тосты и песни: звуковая среда праздника превращается в сатиру на обычаи и власть 3) погони: ритм музыки и шум движения держат комедийный темп",
+        "пустыня Плюка: ветер, паузы и странные речевые звуки создают чужой мир слова ку и кю: речь превращается в социальный код и сатирический звуковой знак эпизоды с пепелацем: технические шумы и минимальная музыка поддерживают абсурд фантастической среды",
+        "станция: гул, технические шумы и паузы создают замкнутое психологическое пространство сцены с Хари: сдержанная речь и тишина переводят фантастику в драму памяти невесомость: музыка и плавность движения создают ощущение остановленного времени",
+        "квартира Бузыкина: телефоны, шаги, бытовые шумы и паузы создают замкнутый круг его жизни разговоры с женщинами: интонации и недоговорённости показывают слабость героя городские пробежки: шаги и городская среда превращают движение в образ бегства от решений"
       ],
-      "explanation": "Это историческая драма. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
       "tags": [
-        "фильм",
+        "известные фильмы",
         "разбор сцен",
-        "Романовы: венценосная семья"
+        "звук"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00041",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00041",
+      "topic": "KNOWN_FILMS_SOUND",
+      "topic_name": "Известные фильмы",
+      "category": "known",
       "type": "multiple_choice",
       "difficulty": 3,
-      "question": "Почему фильм «Сто дней после детства» (реж. Сергей Соловьёв, 1975) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) летний лагерь: природные фоны, голоса подростков и музыка создают состояние переходного возраста 2) сцены первой влюблённости: паузы и музыка важнее прямого объяснения чувства 3) театральные эпизоды: звук связывает игру, взросление и личное переживание",
+      "question": "Какой звукозрительный разбор лучше подходит к фильму «Операция Ы и другие приключения Шурика» (реж. Леонид Гайдай, 1965)?",
+      "answer": "1) экзаменационные сцены: шёпот, паузы и мелкие шумы создают комедию напряжения 2) стройка: рабочие шумы и темп движения делают физическую комедию точной 3) складская новелла: шаги, скрипы и музыка работают как почти немая комедия",
       "choices": [
-        "1) летний лагерь: природные фоны, голоса подростков и музыка создают состояние переходного возраста 2) сцены первой влюблённости: паузы и музыка важнее прямого объяснения чувства 3) театральные эпизоды: звук связывает игру, взросление и личное переживание",
-        "Змеиный источник: сцены ожидания опасности: приглушённые фоны и паузы создают тревогу до прямого действия сцены в закрытых пространствах: шорохи, шаги и близкая речь усиливают ощущение ловушки развязка: звук ускоряет восприятие угрозы через резкие входы и обрывы",
-        "Андрей Рублев: нашествие татар: крики, копыта, огонь и разрушение дробят пространство и показывают насилие как хаос молчание Рублева: исчезновение голоса героя становится драматургическим решением: мир звучит, а человек отказывается говорить отливка колокола: ожидание звука важнее самого удара; первый звон становится итогом труда, веры и риска",
-        "Война и мир: бальные сцены: музыка, шаги и акустика зала показывают социальный порядок и ритуал батальные эпизоды: массовый шум, команды, копыта, выстрелы и музыка создают исторический масштаб камерные разговоры после больших сцен: тихая речь резко меняет масштаб и возвращает внимание к человеку"
+        "работа машины времени: технический шум и музыкальные акценты создают комедийную фантастику царские палаты: речевая манера и музыка пародируют исторический жанр квартирные сцены: бытовые шумы и быстрые реплики держат фарсовый темп",
+        "квартира Бузыкина: телефоны, шаги, бытовые шумы и паузы создают замкнутый круг его жизни разговоры с женщинами: интонации и недоговорённости показывают слабость героя городские пробежки: шаги и городская среда превращают движение в образ бегства от решений",
+        "1) экзаменационные сцены: шёпот, паузы и мелкие шумы создают комедию напряжения 2) стройка: рабочие шумы и темп движения делают физическую комедию точной 3) складская новелла: шаги, скрипы и музыка работают как почти немая комедия",
+        "офисные сцены: телефоны, шаги, машинки и сухая речь создают бюрократическую акустику учреждения разговоры Новосельцева и Калугиной: интонация постепенно меняется от служебной маски к личному голосу музыкальные моменты: музыка смягчает быт и раскрывает лирическую линию"
       ],
-      "explanation": "Это лирическая драма. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
       "tags": [
-        "фильм",
+        "известные фильмы",
         "разбор сцен",
-        "Сто дней после детства"
+        "звук"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00042",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00042",
+      "topic": "KNOWN_FILMS_SOUND",
+      "topic_name": "Известные фильмы",
+      "category": "known",
       "type": "multiple_choice",
       "difficulty": 3,
-      "question": "Почему фильм «Страна глухих» (реж. Валерий Тодоровский, 1998) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) общение слышащих и глухих персонажей: звук становится границей между мирами; важны жест, ритм тела и неполное слышание 2) танцевальные сцены: музыка воспринимается телесно, через движение, а не только слух 3) городские эпизоды: шум города подчёркивает опасность и социальный разрыв",
+      "question": "Какие сцены стоит назвать комиссии по фильму «Иван Васильевич меняет профессию» (реж. Леонид Гайдай, 1973)?",
+      "answer": "1) работа машины времени: технический шум и музыкальные акценты создают комедийную фантастику 2) царские палаты: речевая манера и музыка пародируют исторический жанр 3) квартирные сцены: бытовые шумы и быстрые реплики держат фарсовый темп",
       "choices": [
-        "1) общение слышащих и глухих персонажей: звук становится границей между мирами; важны жест, ритм тела и неполное слышание 2) танцевальные сцены: музыка воспринимается телесно, через движение, а не только слух 3) городские эпизоды: шум города подчёркивает опасность и социальный разрыв",
-        "Калина красная: сцены деревни: народная речь, бытовые фоны и песня создают среду, к которой герой хочет вернуться разговоры Егора: интонация и паузы показывают смесь бравады, боли и неуверенности криминальные сцены: речь и шумы меняют атмосферу: вместо домашности появляется угроза",
-        "Асса: курортные сцены: бытовые разговоры, музыка и шум среды смешивают частную жизнь, криминальный воздух и ощущение времени рок-эпизоды: музыка звучит как голос поколения, а не как фон к сюжету финальное выступление: песня становится публичным высказыванием и знаком разрыва с официальной интонацией",
-        "Зеркало: пожар сарая: треск огня, ветер и голоса звучат как память, а не как простой бытовой фон голос за кадром и стихи: голос соединяет разные времена и работает как монтажная связь между матерью, детством и настоящим дождь, вода, ветер, трава: природные звуки передают внутреннее состояние и ожидание"
+        "работа машины времени: технический шум и музыкальные акценты создают комедийную фантастику царские палаты: речевая манера и музыка пародируют исторический жанр квартирные сцены: бытовые шумы и быстрые реплики держат фарсовый темп",
+        "станция: гул, технические шумы и паузы создают замкнутое психологическое пространство сцены с Хари: сдержанная речь и тишина переводят фантастику в драму памяти невесомость: музыка и плавность движения создают ощущение остановленного времени",
+        "дворы и ЖЭК: бытовые шумы, голоса жильцов и рабочая среда создают комедийный реализм разговоры Афони: интонация героя показывает браваду и внутреннюю пустоту лирические сцены: музыка и паузы меняют тон с комедии на человеческую тоску",
+        "1) работа машины времени: технический шум и музыкальные акценты создают комедийную фантастику 2) царские палаты: речевая манера и музыка пародируют исторический жанр 3) квартирные сцены: бытовые шумы и быстрые реплики держат фарсовый темп"
       ],
-      "explanation": "Это социальная драма. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
       "tags": [
-        "фильм",
+        "известные фильмы",
         "разбор сцен",
-        "Страна глухих"
+        "звук"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00043",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00043",
+      "topic": "KNOWN_FILMS_SOUND",
+      "topic_name": "Известные фильмы",
+      "category": "known",
       "type": "multiple_choice",
       "difficulty": 3,
-      "question": "Почему фильм «Судьба человека» (реж. Сергей Бондарчук, 1959) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) рассказ героя: голос и паузы строят память о войне сильнее прямого показа 2) лагерные и фронтовые эпизоды: жёсткие шумы и команды создают среду унижения и выживания 3) сцена с мальчиком: мягкая речь и тишина меняют интонацию фильма к надежде",
+      "question": "Как связать звук и драматургию в фильме «Белое солнце пустыни» (реж. Владимир Мотыль, 1970)?",
+      "answer": "1) пустынные сцены: ветер, тишина и редкие звуки делают пространство опасным и пустым 2) письма Сухова: голос за кадром создаёт личную интонацию внутри приключенческого сюжета 3) боевые эпизоды: выстрелы и паузы работают сухо, без лишнего героического нажима",
       "choices": [
-        "1) рассказ героя: голос и паузы строят память о войне сильнее прямого показа 2) лагерные и фронтовые эпизоды: жёсткие шумы и команды создают среду унижения и выживания 3) сцена с мальчиком: мягкая речь и тишина меняют интонацию фильма к надежде",
-        "Елена: квартира Владимира: тихие бытовые шумы, техника, шаги и паузы создают холодное обеспеченное пространство поездки между районами: городской шум и транспорт разделяют два социальных мира ключевое решение Елены: фонограмма сдержана, поэтому внимание переходит на действие и бытовую деталь",
-        "Чук и Гек. Большое приключение: зимняя дорога: снег, ветер и шаги создают сказочно-опасное пространство детские сцены восприятия мира: шумы и музыка подаются через ощущение приключения семейные эпизоды: теплая бытовая акустика контрастирует с внешней зимней средой",
-        "Кавказский пленник: горные сцены: ветер, эхо и дальние фоны создают пространство, где опасность может прийти издалека диалоги пленников и местных: разные языки и интонации показывают культурную дистанцию сцены ожидания: тишина и редкие шумы усиливают напряжение сильнее музыки"
+        "1) пустынные сцены: ветер, тишина и редкие звуки делают пространство опасным и пустым 2) письма Сухова: голос за кадром создаёт личную интонацию внутри приключенческого сюжета 3) боевые эпизоды: выстрелы и паузы работают сухо, без лишнего героического нажима",
+        "общежитие и молодая Москва: голоса, бытовые шумы и музыка создают социальную среду героинь переход во взрослую жизнь: изменение звуковой среды показывает другую Москву и другой статус героини личные разговоры Катерины и Гоши: паузы и интонации важнее эффекта, потому что конфликт строится на доверии",
+        "пустыня Плюка: ветер, паузы и странные речевые звуки создают чужой мир слова ку и кю: речь превращается в социальный код и сатирический звуковой знак эпизоды с пепелацем: технические шумы и минимальная музыка поддерживают абсурд фантастической среды",
+        "появление Моро: музыка Виктора Цоя задаёт холодную отстранённость героя городские сцены Алма-Аты: ветер, улица, пустые пространства и музыка создают ощущение позднесоветской пустоты конфликтные эпизоды: сдержанный звук и паузы делают угрозу сухой и почти ритуальной"
       ],
-      "explanation": "Это военная драма. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
       "tags": [
-        "фильм",
+        "известные фильмы",
         "разбор сцен",
-        "Судьба человека"
+        "звук"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00044",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00044",
+      "topic": "KNOWN_FILMS_SOUND",
+      "topic_name": "Известные фильмы",
+      "category": "known",
       "type": "multiple_choice",
       "difficulty": 3,
-      "question": "Почему фильм «Чук и Гек. Большое приключение» (реж. Александр Котт, 2022) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) зимняя дорога: снег, ветер и шаги создают сказочно-опасное пространство 2) детские сцены восприятия мира: шумы и музыка подаются через ощущение приключения 3) семейные эпизоды: теплая бытовая акустика контрастирует с внешней зимней средой",
+      "question": "Что говорить о звуке в фильме «Гараж» (реж. Эльдар Рязанов, 1979)?",
+      "answer": "1) общее собрание: многоголосие, перебивания и шум зала создают сатиру на коллективное решение 2) выступления персонажей: индивидуальные интонации раскрывают социальные маски 3) паузы после конфликтов: тишина и реакция зала работают как комедийный удар",
       "choices": [
-        "1) зимняя дорога: снег, ветер и шаги создают сказочно-опасное пространство 2) детские сцены восприятия мира: шумы и музыка подаются через ощущение приключения 3) семейные эпизоды: теплая бытовая акустика контрастирует с внешней зимней средой",
-        "Курьер: разговоры Ивана со взрослыми: юмор, паузы и перебивания показывают конфликт поколений городские сцены: шум улицы и музыка создают позднесоветскую Москву квартира профессора: закрытая акустика комнаты усиливает социальную неловкость",
-        "Анкор! Еще анкор!: гарнизонные застолья: музыка, тосты, перебивания и шум помещения показывают закрытую военную среду с её ритуалами личные разговоры героев: паузы и бытовая акустика комнаты делают конфликт интимным, не парадным сцены военного быта: команды, шаги, музыка и разговоры создают ощущение системы, где личная жизнь зажата формой",
-        "Неоконченная пьеса для механического пианино: усадебные разговоры: речь, паузы и фоновая музыка создают атмосферу неловкого светского быта сцены застолья: перебивания и общий шум показывают скрытое раздражение под внешней вежливостью финальные эмоциональные сцены: звук удерживает баланс между драмой и иронией"
+        "общее собрание: многоголосие, перебивания и шум зала создают сатиру на коллективное решение выступления персонажей: индивидуальные интонации раскрывают социальные маски паузы после конфликтов: тишина и реакция зала работают как комедийный удар",
+        "контрабандная сцена с гипсом: шум падения, крики и темп реплик строят комический механизм песенные номера: музыка работает как жанровая маска и сатирический комментарий финальные погони: ритм шумов, реплик и музыки собирает аттракцион",
+        "северный пейзаж: ветер, море и пустые фоны создают холодное давление среды бытовые разговоры: жесткая речь и паузы показывают социальную безысходность сцены власти: акустика кабинетов и церковного пространства подчёркивает дистанцию и давление системы",
+        "1) общее собрание: многоголосие, перебивания и шум зала создают сатиру на коллективное решение 2) выступления персонажей: индивидуальные интонации раскрывают социальные маски 3) паузы после конфликтов: тишина и реакция зала работают как комедийный удар"
       ],
-      "explanation": "Это семейное кино. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
       "tags": [
-        "фильм",
+        "известные фильмы",
         "разбор сцен",
-        "Чук и Гек. Большое приключение"
+        "звук"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V6-00045",
-      "topic": "FILM_ORAL_SCENES",
-      "topic_name": "Разбор сцен",
+      "id": "VGIK-V8-00045",
+      "topic": "KNOWN_FILMS_SOUND",
+      "topic_name": "Известные фильмы",
+      "category": "known",
       "type": "multiple_choice",
       "difficulty": 3,
-      "question": "Почему фильм «Я шагаю по Москве» (реж. Георгий Данелия, 1963) важно смотреть абитуриенту звукорежиссуры?",
-      "answer": "1) прогулки по Москве: шум улицы, разговоры и лёгкая музыка создают открытое городское пространство 2) сцена песни: песня не останавливает действие, а собирает настроение фильма 3) метро и улицы: городские фоны звучат как образ молодой Москвы",
+      "question": "Какой звукозрительный разбор лучше подходит к фильму «Сталкер» (реж. Андрей Тарковский, 1979)?",
+      "answer": "1) путь в Зону: стук дрезины, металл и ритм движения вводят переход в другое состояние 2) сцены в Зоне: вода, капли, ветер и дальние шумы создают пространство ожидания 3) комната желаний: паузы и тихая акустика делают конфликт внутренним, а не внешним",
       "choices": [
-        "1) прогулки по Москве: шум улицы, разговоры и лёгкая музыка создают открытое городское пространство 2) сцена песни: песня не останавливает действие, а собирает настроение фильма 3) метро и улицы: городские фоны звучат как образ молодой Москвы",
-        "Асса: курортные сцены: бытовые разговоры, музыка и шум среды смешивают частную жизнь, криминальный воздух и ощущение времени рок-эпизоды: музыка звучит как голос поколения, а не как фон к сюжету финальное выступление: песня становится публичным высказыванием и знаком разрыва с официальной интонацией",
-        "Неоконченная пьеса для механического пианино: усадебные разговоры: речь, паузы и фоновая музыка создают атмосферу неловкого светского быта сцены застолья: перебивания и общий шум показывают скрытое раздражение под внешней вежливостью финальные эмоциональные сцены: звук удерживает баланс между драмой и иронией",
-        "Сто дней после детства: летний лагерь: природные фоны, голоса подростков и музыка создают состояние переходного возраста сцены первой влюблённости: паузы и музыка важнее прямого объяснения чувства театральные эпизоды: звук связывает игру, взросление и личное переживание"
+        "баня и застолье: шум компании, песни и разговоры запускают комедийную ситуацию квартира Нади: тихая бытовая акустика и паузы меняют фарс на лирическую драму песни под гитару: музыка становится способом прямого эмоционального высказывания",
+        "работа машины времени: технический шум и музыкальные акценты создают комедийную фантастику царские палаты: речевая манера и музыка пародируют исторический жанр квартирные сцены: бытовые шумы и быстрые реплики держат фарсовый темп",
+        "грузинские горные сцены: пространственные фоны, голоса и музыка создают родной мир героя московские сцены: городской шум и речь контрастируют с горной акустикой сцены телефонных разговоров: голос на расстоянии показывает тоску по дому",
+        "1) путь в Зону: стук дрезины, металл и ритм движения вводят переход в другое состояние 2) сцены в Зоне: вода, капли, ветер и дальние шумы создают пространство ожидания 3) комната желаний: паузы и тихая акустика делают конфликт внутренним, а не внешним"
       ],
-      "explanation": "Это городская лирика. Ответ даёт конкретные сцены и показывает, как звук связан с драматургией.",
+      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
       "tags": [
-        "фильм",
+        "известные фильмы",
         "разбор сцен",
-        "Я шагаю по Москве"
+        "звук"
       ],
-      "source": "v6_specific_scene_answers"
+      "source": "v8_curated_bank"
+    },
+    {
+      "id": "VGIK-V8-00046",
+      "topic": "KNOWN_FILMS_SOUND",
+      "topic_name": "Известные фильмы",
+      "category": "known",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Какие сцены стоит назвать комиссии по фильму «Солярис» (реж. Андрей Тарковский, 1972)?",
+      "answer": "1) станция: гул, технические шумы и паузы создают замкнутое психологическое пространство 2) сцены с Хари: сдержанная речь и тишина переводят фантастику в драму памяти 3) невесомость: музыка и плавность движения создают ощущение остановленного времени",
+      "choices": [
+        "1) станция: гул, технические шумы и паузы создают замкнутое психологическое пространство 2) сцены с Хари: сдержанная речь и тишина переводят фантастику в драму памяти 3) невесомость: музыка и плавность движения создают ощущение остановленного времени",
+        "сцены Москвы и Америки: разный городской шум показывает смену пространства и культурной среды музыкальные эпизоды: рок-песни становятся комментарием к герою и времени финальные силовые сцены: выстрелы и короткие реплики поданы жестко, без лишней психологической музыки",
+        "общее собрание: многоголосие, перебивания и шум зала создают сатиру на коллективное решение выступления персонажей: индивидуальные интонации раскрывают социальные маски паузы после конфликтов: тишина и реакция зала работают как комедийный удар",
+        "сцены с переодеванием заведующего: интонация речи становится главным комедийным инструментом тюремно-криминальная среда: жаргон, тембр голосов и паузы создают комедию социальных масок погони и бытовые эпизоды: музыка и шум движения поддерживают лёгкий приключенческий ритм"
+      ],
+      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
+      "tags": [
+        "известные фильмы",
+        "разбор сцен",
+        "звук"
+      ],
+      "source": "v8_curated_bank"
+    },
+    {
+      "id": "VGIK-V8-00047",
+      "topic": "KNOWN_FILMS_SOUND",
+      "topic_name": "Известные фильмы",
+      "category": "known",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Как связать звук и драматургию в фильме «Левиафан» (реж. Андрей Звягинцев, 2014)?",
+      "answer": "1) северный пейзаж: ветер, море и пустые фоны создают холодное давление среды 2) бытовые разговоры: жесткая речь и паузы показывают социальную безысходность 3) сцены власти: акустика кабинетов и церковного пространства подчёркивает дистанцию и давление системы",
+      "choices": [
+        "путь в Зону: стук дрезины, металл и ритм движения вводят переход в другое состояние сцены в Зоне: вода, капли, ветер и дальние шумы создают пространство ожидания комната желаний: паузы и тихая акустика делают конфликт внутренним, а не внешним",
+        "1) северный пейзаж: ветер, море и пустые фоны создают холодное давление среды 2) бытовые разговоры: жесткая речь и паузы показывают социальную безысходность 3) сцены власти: акустика кабинетов и церковного пространства подчёркивает дистанцию и давление системы",
+        "квартира Бузыкина: телефоны, шаги, бытовые шумы и паузы создают замкнутый круг его жизни разговоры с женщинами: интонации и недоговорённости показывают слабость героя городские пробежки: шаги и городская среда превращают движение в образ бегства от решений",
+        "сцены с переодеванием заведующего: интонация речи становится главным комедийным инструментом тюремно-криминальная среда: жаргон, тембр голосов и паузы создают комедию социальных масок погони и бытовые эпизоды: музыка и шум движения поддерживают лёгкий приключенческий ритм"
+      ],
+      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
+      "tags": [
+        "известные фильмы",
+        "разбор сцен",
+        "звук"
+      ],
+      "source": "v8_curated_bank"
+    },
+    {
+      "id": "VGIK-V8-00048",
+      "topic": "KNOWN_FILMS_SOUND",
+      "topic_name": "Известные фильмы",
+      "category": "known",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что говорить о звуке в фильме «Джентльмены удачи» (реж. Александр Серый, 1971)?",
+      "answer": "1) сцены с переодеванием заведующего: интонация речи становится главным комедийным инструментом 2) тюремно-криминальная среда: жаргон, тембр голосов и паузы создают комедию социальных масок 3) погони и бытовые эпизоды: музыка и шум движения поддерживают лёгкий приключенческий ритм",
+      "choices": [
+        "северный пейзаж: ветер, море и пустые фоны создают холодное давление среды бытовые разговоры: жесткая речь и паузы показывают социальную безысходность сцены власти: акустика кабинетов и церковного пространства подчёркивает дистанцию и давление системы",
+        "1) сцены с переодеванием заведующего: интонация речи становится главным комедийным инструментом 2) тюремно-криминальная среда: жаргон, тембр голосов и паузы создают комедию социальных масок 3) погони и бытовые эпизоды: музыка и шум движения поддерживают лёгкий приключенческий ритм",
+        "станция: гул, технические шумы и паузы создают замкнутое психологическое пространство сцены с Хари: сдержанная речь и тишина переводят фантастику в драму памяти невесомость: музыка и плавность движения создают ощущение остановленного времени",
+        "экзаменационные сцены: шёпот, паузы и мелкие шумы создают комедию напряжения стройка: рабочие шумы и темп движения делают физическую комедию точной складская новелла: шаги, скрипы и музыка работают как почти немая комедия"
+      ],
+      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
+      "tags": [
+        "известные фильмы",
+        "разбор сцен",
+        "звук"
+      ],
+      "source": "v8_curated_bank"
+    },
+    {
+      "id": "VGIK-V8-00049",
+      "topic": "FRANCE_GENERAL",
+      "topic_name": "Франция",
+      "category": "france",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что важно в фильме «На последнем дыхании» (реж. Жан-Люк Годар, 1960) для французской новой волны?",
+      "answer": "Jump cut, уличная речь, живой шум Парижа и свободная камера. Звук поддерживает ощущение неприглаженной реальности, а не студийной гладкости.",
+      "choices": [
+        "дворы и ЖЭК: бытовые шумы, голоса жильцов и рабочая среда создают комедийный реализм разговоры Афони: интонация героя показывает браваду и внутреннюю пустоту лирические сцены: музыка и паузы меняют тон с комедии на человеческую тоску",
+        "общежитие и молодая Москва: голоса, бытовые шумы и музыка создают социальную среду героинь переход во взрослую жизнь: изменение звуковой среды показывает другую Москву и другой статус героини личные разговоры Катерины и Гоши: паузы и интонации важнее эффекта, потому что конфликт строится на доверии",
+        "Jump cut, уличная речь, живой шум Парижа и свободная камера. Звук поддерживает ощущение неприглаженной реальности, а не студийной гладкости.",
+        "баня и застолье: шум компании, песни и разговоры запускают комедийную ситуацию квартира Нади: тихая бытовая акустика и паузы меняют фарс на лирическую драму песни под гитару: музыка становится способом прямого эмоционального высказывания"
+      ],
+      "explanation": "Франция вынесена отдельной кнопкой в меню.",
+      "tags": [
+        "франция",
+        "французское кино",
+        "звук"
+      ],
+      "source": "v8_curated_bank"
+    },
+    {
+      "id": "VGIK-V8-00050",
+      "topic": "FRANCE_GENERAL",
+      "topic_name": "Франция",
+      "category": "france",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Как работает звук в «Плейтайм» (реж. Жак Тати, 1967)?",
+      "answer": "Щелчки, шаги, гул техники, скрипы и обрывки речи строят комедию пространства. У Тати предметы звучат как персонажи.",
+      "choices": [
+        "офисные сцены: телефоны, шаги, машинки и сухая речь создают бюрократическую акустику учреждения разговоры Новосельцева и Калугиной: интонация постепенно меняется от служебной маски к личному голосу музыкальные моменты: музыка смягчает быт и раскрывает лирическую линию",
+        "переезды Данилы по Петербургу: городские шумы, подъезды, транспорт и уличная акустика создают холодное пространство 1990-х сцены с музыкой Наутилуса: песни работают как внутренняя интонация героя и поколения, а не просто фон криминальные эпизоды: резкие звуки, короткие реплики и паузы делают насилие сухим и бытовым",
+        "пустыня Плюка: ветер, паузы и странные речевые звуки создают чужой мир слова ку и кю: речь превращается в социальный код и сатирический звуковой знак эпизоды с пепелацем: технические шумы и минимальная музыка поддерживают абсурд фантастической среды",
+        "Щелчки, шаги, гул техники, скрипы и обрывки речи строят комедию пространства. У Тати предметы звучат как персонажи."
+      ],
+      "explanation": "Франция вынесена отдельной кнопкой в меню.",
+      "tags": [
+        "франция",
+        "французское кино",
+        "звук"
+      ],
+      "source": "v8_curated_bank"
+    },
+    {
+      "id": "VGIK-V8-00051",
+      "topic": "FRANCE_GENERAL",
+      "topic_name": "Франция",
+      "category": "france",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Как работает голос в «Хиросима, любовь моя» (реж. Ален Рене, 1959)?",
+      "answer": "Голос связывает личную память и историческую травму. Он не обслуживает изображение, а спорит с ним и собирает структуру фильма.",
+      "choices": [
+        "появление Моро: музыка Виктора Цоя задаёт холодную отстранённость героя городские сцены Алма-Аты: ветер, улица, пустые пространства и музыка создают ощущение позднесоветской пустоты конфликтные эпизоды: сдержанный звук и паузы делают угрозу сухой и почти ритуальной",
+        "дворы и ЖЭК: бытовые шумы, голоса жильцов и рабочая среда создают комедийный реализм разговоры Афони: интонация героя показывает браваду и внутреннюю пустоту лирические сцены: музыка и паузы меняют тон с комедии на человеческую тоску",
+        "общежитие и молодая Москва: голоса, бытовые шумы и музыка создают социальную среду героинь переход во взрослую жизнь: изменение звуковой среды показывает другую Москву и другой статус героини личные разговоры Катерины и Гоши: паузы и интонации важнее эффекта, потому что конфликт строится на доверии",
+        "Голос связывает личную память и историческую травму. Он не обслуживает изображение, а спорит с ним и собирает структуру фильма."
+      ],
+      "explanation": "Франция вынесена отдельной кнопкой в меню.",
+      "tags": [
+        "франция",
+        "французское кино",
+        "звук"
+      ],
+      "source": "v8_curated_bank"
+    },
+    {
+      "id": "VGIK-V8-00052",
+      "topic": "FRANCE_GENERAL",
+      "topic_name": "Франция",
+      "category": "france",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Почему «400 ударов» (реж. Франсуа Трюффо, 1959) важен для авторского кино?",
+      "answer": "Фильм строит детскую точку зрения: городские шумы, школьная среда, шаги и финальный бег к морю показывают одиночество героя без прямого объяснения.",
+      "choices": [
+        "сцены Москвы и Америки: разный городской шум показывает смену пространства и культурной среды музыкальные эпизоды: рок-песни становятся комментарием к герою и времени финальные силовые сцены: выстрелы и короткие реплики поданы жестко, без лишней психологической музыки",
+        "баня и застолье: шум компании, песни и разговоры запускают комедийную ситуацию квартира Нади: тихая бытовая акустика и паузы меняют фарс на лирическую драму песни под гитару: музыка становится способом прямого эмоционального высказывания",
+        "Шорох одежды, шаги, движение рук и толпа создают напряжение без лишней музыки. Звук концентрирует внимание на жесте.",
+        "Фильм строит детскую точку зрения: городские шумы, школьная среда, шаги и финальный бег к морю показывают одиночество героя без прямого объяснения."
+      ],
+      "explanation": "Франция вынесена отдельной кнопкой в меню.",
+      "tags": [
+        "франция",
+        "французское кино",
+        "звук"
+      ],
+      "source": "v8_curated_bank"
+    },
+    {
+      "id": "VGIK-V8-00053",
+      "topic": "FRANCE_GENERAL",
+      "topic_name": "Франция",
+      "category": "france",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что полезно разобрать в «Клео от 5 до 7» (реж. Аньес Варда, 1962)?",
+      "answer": "Городские шумы, музыка и фрагменты разговоров показывают тревогу героини в почти реальном времени. Звук фиксирует изменение её взгляда на себя.",
+      "choices": [
+        "баня и застолье: шум компании, песни и разговоры запускают комедийную ситуацию квартира Нади: тихая бытовая акустика и паузы меняют фарс на лирическую драму песни под гитару: музыка становится способом прямого эмоционального высказывания",
+        "грузинские горные сцены: пространственные фоны, голоса и музыка создают родной мир героя московские сцены: городской шум и речь контрастируют с горной акустикой сцены телефонных разговоров: голос на расстоянии показывает тоску по дому",
+        "пустыня Плюка: ветер, паузы и странные речевые звуки создают чужой мир слова ку и кю: речь превращается в социальный код и сатирический звуковой знак эпизоды с пепелацем: технические шумы и минимальная музыка поддерживают абсурд фантастической среды",
+        "Городские шумы, музыка и фрагменты разговоров показывают тревогу героини в почти реальном времени. Звук фиксирует изменение её взгляда на себя."
+      ],
+      "explanation": "Франция вынесена отдельной кнопкой в меню.",
+      "tags": [
+        "франция",
+        "французское кино",
+        "звук"
+      ],
+      "source": "v8_curated_bank"
+    },
+    {
+      "id": "VGIK-V8-00054",
+      "topic": "FRANCE_GENERAL",
+      "topic_name": "Франция",
+      "category": "france",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Чем интересен звук в «Пикпокет» (реж. Робер Брессон, 1959)?",
+      "answer": "Шорох одежды, шаги, движение рук и толпа создают напряжение без лишней музыки. Звук концентрирует внимание на жесте.",
+      "choices": [
+        "Шорох одежды, шаги, движение рук и толпа создают напряжение без лишней музыки. Звук концентрирует внимание на жесте.",
+        "квартира Бузыкина: телефоны, шаги, бытовые шумы и паузы создают замкнутый круг его жизни разговоры с женщинами: интонации и недоговорённости показывают слабость героя городские пробежки: шаги и городская среда превращают движение в образ бегства от решений",
+        "Голос связывает личную память и историческую травму. Он не обслуживает изображение, а спорит с ним и собирает структуру фильма.",
+        "Фильм строит детскую точку зрения: городские шумы, школьная среда, шаги и финальный бег к морю показывают одиночество героя без прямого объяснения."
+      ],
+      "explanation": "Франция вынесена отдельной кнопкой в меню.",
+      "tags": [
+        "франция",
+        "французское кино",
+        "звук"
+      ],
+      "source": "v8_curated_bank"
     }
   ]
 };

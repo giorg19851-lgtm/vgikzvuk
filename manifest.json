@@ -1,7 +1,7 @@
 {
-  "name": "ВГИК тест: звукорежиссура",
+  "name": "ВГИК тест v8",
   "short_name": "ВГИК тест",
-  "start_url": "./index.html",
+  "start_url": "./index.html?v=8",
   "display": "standalone",
   "background_color": "#efede6",
   "theme_color": "#efede6",

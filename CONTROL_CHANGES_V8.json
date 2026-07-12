@@ -1,0 +1,15 @@
+{
+  "version": "8.0",
+  "total_items": 702,
+  "removed": {
+    "bad": 45,
+    "dupq": 0,
+    "dupa": 2
+  },
+  "physics_answers_updated_with_formulas": 93,
+  "physics_cards_added": 28,
+  "known_films_added": 20,
+  "france_cards_added": 6,
+  "final_duplicate_questions_removed": 0,
+  "final_duplicate_answers_removed": 0
+}
