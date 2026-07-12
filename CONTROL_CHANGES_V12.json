@@ -1,0 +1,9 @@
+{
+  "version": "12.0",
+  "source": "vgik_test_app_v11_physics_cinema_integrated.zip",
+  "total_items": 366,
+  "removed_formula_only_cards": 34,
+  "numeric_physics_tasks_added": 32,
+  "physics_choices_rebuilt": 115,
+  "note": "Physics now includes numeric tasks with values, formula, substitution, answer and sound-engineering link."
+}
