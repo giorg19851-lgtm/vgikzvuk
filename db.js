@@ -1,10 +1,10 @@
 window.VGIK_DB = {
   "meta": {
     "title": "ВГИК 55.05.02 Звукорежиссура аудиовизуальных искусств: база самотестирования для вступительных",
-    "version": "8.0",
+    "version": "10.0",
     "created": "2026-07-11",
     "language": "ru",
-    "total_items": 702,
+    "total_items": 550,
     "based_on": [
       "Официальная страница ВГИК по 55.05.02 на 2026/27",
       "Программа ДВИ 2026 по звукорежиссуре"
@@ -22,7 +22,7 @@ window.VGIK_DB = {
       "tags": "метки",
       "source": "источник/логика"
     },
-    "app_note": "v8: анти-повтор, общая история между темами, формулы в физике, Франция и известные фильмы."
+    "app_note": "exam-focused: useful questions only, physics explanations, curated USSR/Russian film canon."
   },
   "topics": [
     {
@@ -1084,27 +1084,6 @@ window.VGIK_DB = {
       "category": "sound"
     },
     {
-      "id": "VGIK-SOUND-00026",
-      "topic": "STORIES",
-      "topic_name": "Рассказы для киноверсии",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "Кто автор рассказа «Материнское сердце»?",
-      "answer": "Абрамов Ф.",
-      "choices": [
-        "Платонов А.",
-        "Горький М.",
-        "Романов П.",
-        "Абрамов Ф."
-      ],
-      "explanation": "Абрамов Ф. — «Материнское сердце».",
-      "tags": [
-        "официальный список"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
       "id": "VGIK-SOUND-00027",
       "topic": "STORIES",
       "topic_name": "Рассказы для киноверсии",
@@ -1119,27 +1098,6 @@ window.VGIK_DB = {
         "Ворон"
       ],
       "explanation": "Абрамов Ф. — «Материнское сердце».",
-      "tags": [
-        "официальный список"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00033",
-      "topic": "STORIES",
-      "topic_name": "Рассказы для киноверсии",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "Кто автор рассказа «Завтраки 43-го года»?",
-      "answer": "Аксёнов В.",
-      "choices": [
-        "Шукшин В.",
-        "Булгаков М.",
-        "Аксёнов В.",
-        "Рощин М."
-      ],
-      "explanation": "Аксёнов В. — «Завтраки 43-го года».",
       "tags": [
         "официальный список"
       ],
@@ -1168,27 +1126,6 @@ window.VGIK_DB = {
       "category": "sound"
     },
     {
-      "id": "VGIK-SOUND-00040",
-      "topic": "STORIES",
-      "topic_name": "Рассказы для киноверсии",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "Кто автор рассказа «Ворота Расемон»?",
-      "answer": "Акутагава Р.",
-      "choices": [
-        "Акутагава Р.",
-        "Носов Е.",
-        "Шукшин В.",
-        "Аксёнов В."
-      ],
-      "explanation": "Акутагава Р. — «Ворота Расемон».",
-      "tags": [
-        "официальный список"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
       "id": "VGIK-SOUND-00041",
       "topic": "STORIES",
       "topic_name": "Рассказы для киноверсии",
@@ -1203,27 +1140,6 @@ window.VGIK_DB = {
         "Амок"
       ],
       "explanation": "Акутагава Р. — «Ворота Расемон».",
-      "tags": [
-        "официальный список"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00047",
-      "topic": "STORIES",
-      "topic_name": "Рассказы для киноверсии",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "Кто автор рассказа «Полотенце с петухом»?",
-      "answer": "Булгаков М.",
-      "choices": [
-        "Вампилов А.",
-        "По Э. А.",
-        "Куприн А.",
-        "Булгаков М."
-      ],
-      "explanation": "Булгаков М. — «Полотенце с петухом».",
       "tags": [
         "официальный список"
       ],
@@ -1252,27 +1168,6 @@ window.VGIK_DB = {
       "category": "sound"
     },
     {
-      "id": "VGIK-SOUND-00054",
-      "topic": "STORIES",
-      "topic_name": "Рассказы для киноверсии",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "Кто автор рассказа «Вечер»?",
-      "answer": "Вампилов А.",
-      "choices": [
-        "Цвейг С.",
-        "Вампилов А.",
-        "Платонов А.",
-        "Сароян У."
-      ],
-      "explanation": "Вампилов А. — «Вечер».",
-      "tags": [
-        "официальный список"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
       "id": "VGIK-SOUND-00055",
       "topic": "STORIES",
       "topic_name": "Рассказы для киноверсии",
@@ -1287,27 +1182,6 @@ window.VGIK_DB = {
         "Объездчик"
       ],
       "explanation": "Вампилов А. — «Вечер».",
-      "tags": [
-        "официальный список"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00061",
-      "topic": "STORIES",
-      "topic_name": "Рассказы для киноверсии",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "Кто автор рассказа «Мальва»?",
-      "answer": "Горький М.",
-      "choices": [
-        "Сароян У.",
-        "Платонов А.",
-        "Петрушевская Л.",
-        "Горький М."
-      ],
-      "explanation": "Горький М. — «Мальва».",
       "tags": [
         "официальный список"
       ],
@@ -1336,27 +1210,6 @@ window.VGIK_DB = {
       "category": "sound"
     },
     {
-      "id": "VGIK-SOUND-00068",
-      "topic": "STORIES",
-      "topic_name": "Рассказы для киноверсии",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "Кто автор рассказа «У парадного подъезда»?",
-      "answer": "Зощенко М.",
-      "choices": [
-        "Зощенко М.",
-        "Акутагава Р.",
-        "Платонов А.",
-        "Цвейг С."
-      ],
-      "explanation": "Зощенко М. — «У парадного подъезда».",
-      "tags": [
-        "официальный список"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
       "id": "VGIK-SOUND-00069",
       "topic": "STORIES",
       "topic_name": "Рассказы для киноверсии",
@@ -1371,27 +1224,6 @@ window.VGIK_DB = {
         "У парадного подъезда"
       ],
       "explanation": "Зощенко М. — «У парадного подъезда».",
-      "tags": [
-        "официальный список"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00075",
-      "topic": "STORIES",
-      "topic_name": "Рассказы для киноверсии",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "Кто автор рассказа «Куст сирени»?",
-      "answer": "Куприн А.",
-      "choices": [
-        "Куприн А.",
-        "Аксёнов В.",
-        "Акутагава Р.",
-        "Петрушевская Л."
-      ],
-      "explanation": "Куприн А. — «Куст сирени».",
       "tags": [
         "официальный список"
       ],
@@ -1420,27 +1252,6 @@ window.VGIK_DB = {
       "category": "sound"
     },
     {
-      "id": "VGIK-SOUND-00082",
-      "topic": "STORIES",
-      "topic_name": "Рассказы для киноверсии",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "Кто автор рассказа «Объездчик»?",
-      "answer": "Носов Е.",
-      "choices": [
-        "Твен М.",
-        "Зощенко М.",
-        "Носов Е.",
-        "Аксёнов В."
-      ],
-      "explanation": "Носов Е. — «Объездчик».",
-      "tags": [
-        "официальный список"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
       "id": "VGIK-SOUND-00083",
       "topic": "STORIES",
       "topic_name": "Рассказы для киноверсии",
@@ -1455,27 +1266,6 @@ window.VGIK_DB = {
         "Объездчик"
       ],
       "explanation": "Носов Е. — «Объездчик».",
-      "tags": [
-        "официальный список"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00089",
-      "topic": "STORIES",
-      "topic_name": "Рассказы для киноверсии",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "Кто автор рассказа «Снег»?",
-      "answer": "Паустовский К.",
-      "choices": [
-        "Паустовский К.",
-        "Цвейг С.",
-        "Носов Е.",
-        "Романов П."
-      ],
-      "explanation": "Паустовский К. — «Снег».",
       "tags": [
         "официальный список"
       ],
@@ -1504,27 +1294,6 @@ window.VGIK_DB = {
       "category": "sound"
     },
     {
-      "id": "VGIK-SOUND-00096",
-      "topic": "STORIES",
-      "topic_name": "Рассказы для киноверсии",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "Кто автор рассказа «Свидание»?",
-      "answer": "Петрушевская Л.",
-      "choices": [
-        "Вампилов А.",
-        "Куприн А.",
-        "Петрушевская Л.",
-        "Горький М."
-      ],
-      "explanation": "Петрушевская Л. — «Свидание».",
-      "tags": [
-        "официальный список"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
       "id": "VGIK-SOUND-00097",
       "topic": "STORIES",
       "topic_name": "Рассказы для киноверсии",
@@ -1539,27 +1308,6 @@ window.VGIK_DB = {
         "Мальва"
       ],
       "explanation": "Петрушевская Л. — «Свидание».",
-      "tags": [
-        "официальный список"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00103",
-      "topic": "STORIES",
-      "topic_name": "Рассказы для киноверсии",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "Кто автор рассказа «Третий сын»?",
-      "answer": "Платонов А.",
-      "choices": [
-        "Рощин М.",
-        "По Э. А.",
-        "Платонов А.",
-        "Цвейг С."
-      ],
-      "explanation": "Платонов А. — «Третий сын».",
       "tags": [
         "официальный список"
       ],
@@ -1588,27 +1336,6 @@ window.VGIK_DB = {
       "category": "sound"
     },
     {
-      "id": "VGIK-SOUND-00110",
-      "topic": "STORIES",
-      "topic_name": "Рассказы для киноверсии",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "Кто автор рассказа «Ворон»?",
-      "answer": "По Э. А.",
-      "choices": [
-        "Булгаков М.",
-        "Твен М.",
-        "Романов П.",
-        "По Э. А."
-      ],
-      "explanation": "По Э. А. — «Ворон».",
-      "tags": [
-        "официальный список"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
       "id": "VGIK-SOUND-00111",
       "topic": "STORIES",
       "topic_name": "Рассказы для киноверсии",
@@ -1623,27 +1350,6 @@ window.VGIK_DB = {
         "Ворон"
       ],
       "explanation": "По Э. А. — «Ворон».",
-      "tags": [
-        "официальный список"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00117",
-      "topic": "STORIES",
-      "topic_name": "Рассказы для киноверсии",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "Кто автор рассказа «Нахлебники»?",
-      "answer": "Романов П.",
-      "choices": [
-        "Абрамов Ф.",
-        "Вампилов А.",
-        "Булгаков М.",
-        "Романов П."
-      ],
-      "explanation": "Романов П. — «Нахлебники».",
       "tags": [
         "официальный список"
       ],
@@ -1672,27 +1378,6 @@ window.VGIK_DB = {
       "category": "sound"
     },
     {
-      "id": "VGIK-SOUND-00124",
-      "topic": "STORIES",
-      "topic_name": "Рассказы для киноверсии",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "Кто автор рассказа «Алина»?",
-      "answer": "Рощин М.",
-      "choices": [
-        "Шукшин В.",
-        "Платонов А.",
-        "Твен М.",
-        "Рощин М."
-      ],
-      "explanation": "Рощин М. — «Алина».",
-      "tags": [
-        "официальный список"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
       "id": "VGIK-SOUND-00125",
       "topic": "STORIES",
       "topic_name": "Рассказы для киноверсии",
@@ -1707,27 +1392,6 @@ window.VGIK_DB = {
         "Укрощение велосипеда"
       ],
       "explanation": "Рощин М. — «Алина».",
-      "tags": [
-        "официальный список"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00131",
-      "topic": "STORIES",
-      "topic_name": "Рассказы для киноверсии",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "Кто автор рассказа «Филиппинец и пьяный»?",
-      "answer": "Сароян У.",
-      "choices": [
-        "Булгаков М.",
-        "Сароян У.",
-        "Петрушевская Л.",
-        "Носов Е."
-      ],
-      "explanation": "Сароян У. — «Филиппинец и пьяный».",
       "tags": [
         "официальный список"
       ],
@@ -1756,27 +1420,6 @@ window.VGIK_DB = {
       "category": "sound"
     },
     {
-      "id": "VGIK-SOUND-00138",
-      "topic": "STORIES",
-      "topic_name": "Рассказы для киноверсии",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "Кто автор рассказа «Укрощение велосипеда»?",
-      "answer": "Твен М.",
-      "choices": [
-        "Твен М.",
-        "Толстой Т.",
-        "Акутагава Р.",
-        "Паустовский К."
-      ],
-      "explanation": "Твен М. — «Укрощение велосипеда».",
-      "tags": [
-        "официальный список"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
       "id": "VGIK-SOUND-00139",
       "topic": "STORIES",
       "topic_name": "Рассказы для киноверсии",
@@ -1791,27 +1434,6 @@ window.VGIK_DB = {
         "Третий сын"
       ],
       "explanation": "Твен М. — «Укрощение велосипеда».",
-      "tags": [
-        "официальный список"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00145",
-      "topic": "STORIES",
-      "topic_name": "Рассказы для киноверсии",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "Кто автор рассказа «Про отца»?",
-      "answer": "Толстой Т.",
-      "choices": [
-        "Куприн А.",
-        "По Э. А.",
-        "Толстой Т.",
-        "Зощенко М."
-      ],
-      "explanation": "Толстой Т. — «Про отца».",
       "tags": [
         "официальный список"
       ],
@@ -1840,27 +1462,6 @@ window.VGIK_DB = {
       "category": "sound"
     },
     {
-      "id": "VGIK-SOUND-00152",
-      "topic": "STORIES",
-      "topic_name": "Рассказы для киноверсии",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "Кто автор рассказа «Амок»?",
-      "answer": "Цвейг С.",
-      "choices": [
-        "Рощин М.",
-        "Цвейг С.",
-        "Зощенко М.",
-        "Платонов А."
-      ],
-      "explanation": "Цвейг С. — «Амок».",
-      "tags": [
-        "официальный список"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
       "id": "VGIK-SOUND-00153",
       "topic": "STORIES",
       "topic_name": "Рассказы для киноверсии",
@@ -1882,27 +1483,6 @@ window.VGIK_DB = {
       "category": "sound"
     },
     {
-      "id": "VGIK-SOUND-00159",
-      "topic": "STORIES",
-      "topic_name": "Рассказы для киноверсии",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "Кто автор рассказа «Волки»?",
-      "answer": "Шукшин В.",
-      "choices": [
-        "Шукшин В.",
-        "Зощенко М.",
-        "Сароян У.",
-        "Абрамов Ф."
-      ],
-      "explanation": "Шукшин В. — «Волки».",
-      "tags": [
-        "официальный список"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "directors"
-    },
-    {
       "id": "VGIK-SOUND-00160",
       "topic": "STORIES",
       "topic_name": "Рассказы для киноверсии",
@@ -1922,1128 +1502,6 @@ window.VGIK_DB = {
       ],
       "source": "VGIK DVI 2026",
       "category": "directors"
-    },
-    {
-      "id": "VGIK-SOUND-00166",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "К какой зоне подготовки ближе «Сюжеты и образы Древнерусской живописи»?",
-      "answer": "изобразительное искусство",
-      "choices": [
-        "русская культура",
-        "теория звукового кино",
-        "изобразительное искусство",
-        "справочник"
-      ],
-      "explanation": "Зона: изобразительное искусство.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00167",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "short",
-      "difficulty": 2,
-      "question": "Кто автор/составитель «Сюжеты и образы Древнерусской живописи»?",
-      "answer": "Барская Н.А.",
-      "choices": [],
-      "explanation": "Факт из списка литературы.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00168",
-      "topic": "LITERATURE_USE",
-      "topic_name": "Как использовать литературу",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Как использовать «Сюжеты и образы Древнерусской живописи» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «изобразительное искусство», привести пример из кино или искусства и связать это со звукорежиссурой.",
-      "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.",
-      "tags": [
-        "литература",
-        "собеседование"
-      ],
-      "source": "method",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00169",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "К какой зоне подготовки ближе «История русской культуры»?",
-      "answer": "русская культура",
-      "choices": [
-        "теория кинозвука",
-        "слух и психоакустика",
-        "кино и память",
-        "русская культура"
-      ],
-      "explanation": "Зона: русская культура.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00170",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "short",
-      "difficulty": 2,
-      "question": "Кто автор/составитель «История русской культуры»?",
-      "answer": "Березовская Л.Г., Берлякова Н.П.",
-      "choices": [],
-      "explanation": "Факт из списка литературы.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00171",
-      "topic": "LITERATURE_USE",
-      "topic_name": "Как использовать литературу",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Как использовать «История русской культуры» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «русская культура», привести пример из кино или искусства и связать это со звукорежиссурой.",
-      "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.",
-      "tags": [
-        "литература",
-        "собеседование"
-      ],
-      "source": "method",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00172",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "К какой зоне подготовки ближе «Все, что было не со мной, помню»?",
-      "answer": "кино и память",
-      "choices": [
-        "кино и память",
-        "драматургия",
-        "звукорежиссура",
-        "история кино"
-      ],
-      "explanation": "Зона: кино и память.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00173",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "short",
-      "difficulty": 2,
-      "question": "Кто автор/составитель «Все, что было не со мной, помню»?",
-      "answer": "Венгеровский Б.В.",
-      "choices": [],
-      "explanation": "Факт из списка литературы.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00174",
-      "topic": "LITERATURE_USE",
-      "topic_name": "Как использовать литературу",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Как использовать «Все, что было не со мной, помню» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «кино и память», привести пример из кино или искусства и связать это со звукорежиссурой.",
-      "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.",
-      "tags": [
-        "литература",
-        "собеседование"
-      ],
-      "source": "method",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00175",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "К какой зоне подготовки ближе «История советского кино»?",
-      "answer": "история кино",
-      "choices": [
-        "история кино",
-        "иконография",
-        "режиссура",
-        "теория звукового кино"
-      ],
-      "explanation": "Зона: история кино.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00176",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "short",
-      "difficulty": 2,
-      "question": "Кто автор/составитель «История советского кино»?",
-      "answer": "Зоркая Н.",
-      "choices": [],
-      "explanation": "Факт из списка литературы.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00177",
-      "topic": "LITERATURE_USE",
-      "topic_name": "Как использовать литературу",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Как использовать «История советского кино» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «история кино», привести пример из кино или искусства и связать это со звукорежиссурой.",
-      "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.",
-      "tags": [
-        "литература",
-        "собеседование"
-      ],
-      "source": "method",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00178",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "К какой зоне подготовки ближе «Кино. Энциклопедический словарь»?",
-      "answer": "справочник",
-      "choices": [
-        "теория кинозвука",
-        "мировая культура",
-        "справочник",
-        "иконография"
-      ],
-      "explanation": "Зона: справочник.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00179",
-      "topic": "LITERATURE_USE",
-      "topic_name": "Как использовать литературу",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Как использовать «Кино. Энциклопедический словарь» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «справочник», привести пример из кино или искусства и связать это со звукорежиссурой.",
-      "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.",
-      "tags": [
-        "литература",
-        "собеседование"
-      ],
-      "source": "method",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00180",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "К какой зоне подготовки ближе «Основы кинорежиссуры»?",
-      "answer": "режиссура",
-      "choices": [
-        "мировая культура",
-        "режиссура",
-        "слух и психоакустика",
-        "изобразительное искусство"
-      ],
-      "explanation": "Зона: режиссура.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00181",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "short",
-      "difficulty": 2,
-      "question": "Кто автор/составитель «Основы кинорежиссуры»?",
-      "answer": "Кулешов Л.В.",
-      "choices": [],
-      "explanation": "Факт из списка литературы.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00182",
-      "topic": "LITERATURE_USE",
-      "topic_name": "Как использовать литературу",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Как использовать «Основы кинорежиссуры» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «режиссура», привести пример из кино или искусства и связать это со звукорежиссурой.",
-      "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.",
-      "tags": [
-        "литература",
-        "собеседование"
-      ],
-      "source": "method",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00183",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "К какой зоне подготовки ближе «Кино между адом и раем»?",
-      "answer": "драматургия",
-      "choices": [
-        "древнерусская культура",
-        "драматургия",
-        "история кино",
-        "кинозвук"
-      ],
-      "explanation": "Зона: драматургия.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00184",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "short",
-      "difficulty": 2,
-      "question": "Кто автор/составитель «Кино между адом и раем»?",
-      "answer": "Митта А.",
-      "choices": [],
-      "explanation": "Факт из списка литературы.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00185",
-      "topic": "LITERATURE_USE",
-      "topic_name": "Как использовать литературу",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Как использовать «Кино между адом и раем» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «драматургия», привести пример из кино или искусства и связать это со звукорежиссурой.",
-      "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.",
-      "tags": [
-        "литература",
-        "собеседование"
-      ],
-      "source": "method",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00186",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "К какой зоне подготовки ближе «Драматургия фильма»?",
-      "answer": "драматургия",
-      "choices": [
-        "русская культура",
-        "история кино",
-        "драматургия",
-        "мировое кино"
-      ],
-      "explanation": "Зона: драматургия.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00187",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "short",
-      "difficulty": 2,
-      "question": "Кто автор/составитель «Драматургия фильма»?",
-      "answer": "Нехорошев Л.Н.",
-      "choices": [],
-      "explanation": "Факт из списка литературы.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00189",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "К какой зоне подготовки ближе «Курс лекций по звукорежиссуре в кино»?",
-      "answer": "звукорежиссура",
-      "choices": [
-        "слух и психоакустика",
-        "звукорежиссура",
-        "теория кинозвука",
-        "мировая культура"
-      ],
-      "explanation": "Зона: звукорежиссура.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00190",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "short",
-      "difficulty": 2,
-      "question": "Кто автор/составитель «Курс лекций по звукорежиссуре в кино»?",
-      "answer": "Попова-Эванс Е.Д.",
-      "choices": [],
-      "explanation": "Факт из списка литературы.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00191",
-      "topic": "LITERATURE_USE",
-      "topic_name": "Как использовать литературу",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Как использовать «Курс лекций по звукорежиссуре в кино» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «звукорежиссура», привести пример из кино или искусства и связать это со звукорежиссурой.",
-      "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.",
-      "tags": [
-        "литература",
-        "собеседование"
-      ],
-      "source": "method",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00192",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "К какой зоне подготовки ближе «Мировое кино. История искусства экрана»?",
-      "answer": "мировое кино",
-      "choices": [
-        "мировая культура",
-        "теория кинозвука",
-        "иконография",
-        "мировое кино"
-      ],
-      "explanation": "Зона: мировое кино.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00193",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "short",
-      "difficulty": 2,
-      "question": "Кто автор/составитель «Мировое кино. История искусства экрана»?",
-      "answer": "Разлогов К.",
-      "choices": [],
-      "explanation": "Факт из списка литературы.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00194",
-      "topic": "LITERATURE_USE",
-      "topic_name": "Как использовать литературу",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Как использовать «Мировое кино. История искусства экрана» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «мировое кино», привести пример из кино или искусства и связать это со звукорежиссурой.",
-      "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.",
-      "tags": [
-        "литература",
-        "собеседование"
-      ],
-      "source": "method",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00195",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "К какой зоне подготовки ближе «Рождение звукового образа»?",
-      "answer": "кинозвук",
-      "choices": [
-        "теория кинозвука",
-        "справочник",
-        "кинозвук",
-        "драматургия"
-      ],
-      "explanation": "Зона: кинозвук.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00196",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "short",
-      "difficulty": 2,
-      "question": "Кто автор/составитель «Рождение звукового образа»?",
-      "answer": "сост. Авербах Е.",
-      "choices": [],
-      "explanation": "Факт из списка литературы.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00197",
-      "topic": "LITERATURE_USE",
-      "topic_name": "Как использовать литературу",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Как использовать «Рождение звукового образа» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «кинозвук», привести пример из кино или искусства и связать это со звукорежиссурой.",
-      "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.",
-      "tags": [
-        "литература",
-        "собеседование"
-      ],
-      "source": "method",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00198",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "К какой зоне подготовки ближе «Звук в пространстве кинематографа»?",
-      "answer": "теория кинозвука",
-      "choices": [
-        "физика",
-        "русская культура",
-        "мировое кино",
-        "теория кинозвука"
-      ],
-      "explanation": "Зона: теория кинозвука.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00199",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "short",
-      "difficulty": 2,
-      "question": "Кто автор/составитель «Звук в пространстве кинематографа»?",
-      "answer": "Русинова Е.А.",
-      "choices": [],
-      "explanation": "Факт из списка литературы.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00200",
-      "topic": "LITERATURE_USE",
-      "topic_name": "Как использовать литературу",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Как использовать «Звук в пространстве кинематографа» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «теория кинозвука», привести пример из кино или искусства и связать это со звукорежиссурой.",
-      "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.",
-      "tags": [
-        "литература",
-        "собеседование"
-      ],
-      "source": "method",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00201",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "К какой зоне подготовки ближе «Из истории культуры Древней Руси X-XVII вв.»?",
-      "answer": "древнерусская культура",
-      "choices": [
-        "русская культура",
-        "физика",
-        "древнерусская культура",
-        "мировое кино"
-      ],
-      "explanation": "Зона: древнерусская культура.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00202",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "short",
-      "difficulty": 2,
-      "question": "Кто автор/составитель «Из истории культуры Древней Руси X-XVII вв.»?",
-      "answer": "Рыбаков Ю.А.",
-      "choices": [],
-      "explanation": "Факт из списка литературы.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00203",
-      "topic": "LITERATURE_USE",
-      "topic_name": "Как использовать литературу",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Как использовать «Из истории культуры Древней Руси X-XVII вв.» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «древнерусская культура», привести пример из кино или искусства и связать это со звукорежиссурой.",
-      "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.",
-      "tags": [
-        "литература",
-        "собеседование"
-      ],
-      "source": "method",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00204",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "К какой зоне подготовки ближе «История мировой культуры. Культура Древнего Мира»?",
-      "answer": "мировая культура",
-      "choices": [
-        "изобразительное искусство",
-        "кинозвук",
-        "иконография",
-        "мировая культура"
-      ],
-      "explanation": "Зона: мировая культура.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00205",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "short",
-      "difficulty": 2,
-      "question": "Кто автор/составитель «История мировой культуры. Культура Древнего Мира»?",
-      "answer": "Серегин Н.Н.",
-      "choices": [],
-      "explanation": "Факт из списка литературы.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00206",
-      "topic": "LITERATURE_USE",
-      "topic_name": "Как использовать литературу",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Как использовать «История мировой культуры. Культура Древнего Мира» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «мировая культура», привести пример из кино или искусства и связать это со звукорежиссурой.",
-      "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.",
-      "tags": [
-        "литература",
-        "собеседование"
-      ],
-      "source": "method",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00207",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "К какой зоне подготовки ближе «История мировой культуры. Культура Западной Европы в средние века»?",
-      "answer": "мировая культура",
-      "choices": [
-        "справочник",
-        "мировая культура",
-        "драматургия",
-        "древнерусская культура"
-      ],
-      "explanation": "Зона: мировая культура.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00208",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "short",
-      "difficulty": 2,
-      "question": "Кто автор/составитель «История мировой культуры. Культура Западной Европы в средние века»?",
-      "answer": "Серегин Н.Н.",
-      "choices": [],
-      "explanation": "Факт из списка литературы.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00210",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "К какой зоне подготовки ближе «Справочник по физике. 7-9 классы. ФГОС»?",
-      "answer": "физика\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-      "choices": [
-        "мировая культура",
-        "физика\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-        "кинозвук",
-        "теория кинозвука"
-      ],
-      "explanation": "Зона: физика.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00211",
-      "topic": "LITERATURE_USE",
-      "topic_name": "Как использовать литературу",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Как использовать «Справочник по физике. 7-9 классы. ФГОС» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «физика», привести пример из кино или искусства и связать это со звукорежиссурой.\n\nФормулы: v = λf; T = 1/f; ω = 2πf.",
-      "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.\nФормулы: v = λf; T = 1/f; ω = 2πf.",
-      "tags": [
-        "литература",
-        "собеседование"
-      ],
-      "source": "method",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00212",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "К какой зоне подготовки ближе «Богословие иконы Православной церкви»?",
-      "answer": "иконография",
-      "choices": [
-        "теория кинозвука",
-        "иконография",
-        "физика",
-        "мировое кино"
-      ],
-      "explanation": "Зона: иконография.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00213",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "short",
-      "difficulty": 2,
-      "question": "Кто автор/составитель «Богословие иконы Православной церкви»?",
-      "answer": "Успенский Л.",
-      "choices": [],
-      "explanation": "Факт из списка литературы.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00214",
-      "topic": "LITERATURE_USE",
-      "topic_name": "Как использовать литературу",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Как использовать «Богословие иконы Православной церкви» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «иконография», привести пример из кино или искусства и связать это со звукорежиссурой.",
-      "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.",
-      "tags": [
-        "литература",
-        "собеседование"
-      ],
-      "source": "method",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00215",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "К какой зоне подготовки ближе «Ухо как приемник информации»?",
-      "answer": "слух и психоакустика",
-      "choices": [
-        "древнерусская культура",
-        "слух и психоакустика",
-        "теория звукового кино",
-        "кино и память"
-      ],
-      "explanation": "Зона: слух и психоакустика.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00216",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "short",
-      "difficulty": 2,
-      "question": "Кто автор/составитель «Ухо как приемник информации»?",
-      "answer": "Фельдкеллер Р., Цвикер Э.",
-      "choices": [],
-      "explanation": "Факт из списка литературы.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00217",
-      "topic": "LITERATURE_USE",
-      "topic_name": "Как использовать литературу",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Как использовать «Ухо как приемник информации» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «слух и психоакустика», привести пример из кино или искусства и связать это со звукорежиссурой.",
-      "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.",
-      "tags": [
-        "литература",
-        "собеседование"
-      ],
-      "source": "method",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00218",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "К какой зоне подготовки ближе «Физика. 7-9 классы. Сборник задач к учебникам»?",
-      "answer": "физика\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-      "choices": [
-        "физика\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-        "древнерусская культура",
-        "кино и память",
-        "кинозвук"
-      ],
-      "explanation": "Зона: физика.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00219",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "short",
-      "difficulty": 2,
-      "question": "Кто автор/составитель «Физика. 7-9 классы. Сборник задач к учебникам»?",
-      "answer": "Перышкин А.В.\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-      "choices": [],
-      "explanation": "Факт из списка литературы.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00220",
-      "topic": "LITERATURE_USE",
-      "topic_name": "Как использовать литературу",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Как использовать «Физика. 7-9 классы. Сборник задач к учебникам» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «физика», привести пример из кино или искусства и связать это со звукорежиссурой.\n\nФормулы: v = λf; T = 1/f; ω = 2πf.",
-      "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.\nФормулы: v = λf; T = 1/f; ω = 2πf.",
-      "tags": [
-        "литература",
-        "собеседование"
-      ],
-      "source": "method",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00221",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "К какой зоне подготовки ближе «Физика. Толковый словарь школьника и студента»?",
-      "answer": "физика\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-      "choices": [
-        "физика\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-        "слух и психоакустика",
-        "теория звукового кино",
-        "изобразительное искусство"
-      ],
-      "explanation": "Зона: физика.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00222",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "short",
-      "difficulty": 2,
-      "question": "Кто автор/составитель «Физика. Толковый словарь школьника и студента»?",
-      "answer": "под ред. Гомоюнова К.К., Козлова В.Н., Сурыгина А.И.\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-      "choices": [],
-      "explanation": "Факт из списка литературы.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00223",
-      "topic": "LITERATURE_USE",
-      "topic_name": "Как использовать литературу",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Как использовать «Физика. Толковый словарь школьника и студента» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «физика», привести пример из кино или искусства и связать это со звукорежиссурой.\n\nФормулы: v = λf; T = 1/f; ω = 2πf.",
-      "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.\nФормулы: v = λf; T = 1/f; ω = 2πf.",
-      "tags": [
-        "литература",
-        "собеседование"
-      ],
-      "source": "method",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00224",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "К какой зоне подготовки ближе «Экспресс-курс физики для школьников, абитуриентов, студентов»?",
-      "answer": "физика\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-      "choices": [
-        "иконография",
-        "теория кинозвука",
-        "физика\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-        "звукорежиссура"
-      ],
-      "explanation": "Зона: физика.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00225",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "short",
-      "difficulty": 2,
-      "question": "Кто автор/составитель «Экспресс-курс физики для школьников, абитуриентов, студентов»?",
-      "answer": "Хорошавина С.Г.\n\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-      "choices": [],
-      "explanation": "Факт из списка литературы.\nФормулы: I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00226",
-      "topic": "LITERATURE_USE",
-      "topic_name": "Как использовать литературу",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Как использовать «Экспресс-курс физики для школьников, абитуриентов, студентов» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «физика», привести пример из кино или искусства и связать это со звукорежиссурой.\n\nФормулы: v = λf; T = 1/f; ω = 2πf.",
-      "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.\nФормулы: v = λf; T = 1/f; ω = 2πf.",
-      "tags": [
-        "литература",
-        "собеседование"
-      ],
-      "source": "method",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00227",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "multiple_choice",
-      "difficulty": 1,
-      "question": "К какой зоне подготовки ближе «Заявка. Будущее звуковой фильмы»?",
-      "answer": "теория звукового кино",
-      "choices": [
-        "кинозвук",
-        "теория звукового кино",
-        "теория кинозвука",
-        "слух и психоакустика"
-      ],
-      "explanation": "Зона: теория звукового кино.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "sound"
-    },
-    {
-      "id": "VGIK-SOUND-00228",
-      "topic": "LITERATURE",
-      "topic_name": "Рекомендованная литература",
-      "type": "short",
-      "difficulty": 2,
-      "question": "Кто автор/составитель «Заявка. Будущее звуковой фильмы»?",
-      "answer": "Эйзенштейн С., Пудовкин В., Александров Г.",
-      "choices": [],
-      "explanation": "Факт из списка литературы.",
-      "tags": [
-        "литература"
-      ],
-      "source": "VGIK DVI 2026",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-SOUND-00229",
-      "topic": "LITERATURE_USE",
-      "topic_name": "Как использовать литературу",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Как использовать «Заявка. Будущее звуковой фильмы» на собеседовании?",
-      "answer": "Вытащить 3 тезиса по теме «теория звукового кино», привести пример из кино или искусства и связать это со звукорежиссурой.",
-      "choices": [],
-      "explanation": "Книга нужна не как амулет от комиссии, а как материал для ответа.",
-      "tags": [
-        "литература",
-        "собеседование"
-      ],
-      "source": "method",
-      "category": "sound"
     },
     {
       "id": "VGIK-SOUND-00230",
@@ -7173,23 +5631,6 @@ window.VGIK_DB = {
       "category": "physics"
     },
     {
-      "id": "VGIK-SOUND-00571",
-      "topic": "PHYS_MECH",
-      "topic_name": "Механическое движение",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «скорость» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу v = s/t, единицу м/с и связь со звукорежиссурой: движение источника звука, шумы движения, ритм действий.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
-      "category": "physics"
-    },
-    {
       "id": "VGIK-SOUND-00572",
       "topic": "PHYS_MECH",
       "topic_name": "Механическое движение",
@@ -7204,23 +5645,6 @@ window.VGIK_DB = {
         "формула"
       ],
       "source": "VGIK physics topics + method",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00573",
-      "topic": "PHYS_MECH",
-      "topic_name": "Механическое движение",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «ускорение» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу a = Δv/Δt, единицу м/с² и связь со звукорежиссурой: изменение движения тел и механизмов.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
       "category": "physics"
     },
     {
@@ -7241,23 +5665,6 @@ window.VGIK_DB = {
       "category": "physics"
     },
     {
-      "id": "VGIK-SOUND-00575",
-      "topic": "PHYS_MECH",
-      "topic_name": "Механическое движение",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «сила» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу F = ma, единицу Н и связь со звукорежиссурой: механика динамика, микрофона, колебаний.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
-      "category": "physics"
-    },
-    {
       "id": "VGIK-SOUND-00576",
       "topic": "PHYS_MECH",
       "topic_name": "Механическое движение",
@@ -7272,23 +5679,6 @@ window.VGIK_DB = {
         "формула"
       ],
       "source": "VGIK physics topics + method",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00577",
-      "topic": "PHYS_MECH",
-      "topic_name": "Механическое движение",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «импульс» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу p = mv, единицу кг·м/с и связь со звукорежиссурой: удары, столкновения, механические эффекты.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
       "category": "physics"
     },
     {
@@ -7309,23 +5699,6 @@ window.VGIK_DB = {
       "category": "physics"
     },
     {
-      "id": "VGIK-SOUND-00579",
-      "topic": "PHYS_MECH",
-      "topic_name": "Механическое движение",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «работа» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу A = Fs cos α, единицу Дж и связь со звукорежиссурой: энергия механического действия.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
-      "category": "physics"
-    },
-    {
       "id": "VGIK-SOUND-00580",
       "topic": "PHYS_MECH",
       "topic_name": "Механическое движение",
@@ -7340,23 +5713,6 @@ window.VGIK_DB = {
         "формула"
       ],
       "source": "VGIK physics topics + method",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00581",
-      "topic": "PHYS_MECH",
-      "topic_name": "Механическое движение",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «мощность» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу P = A/t, единицу Вт и связь со звукорежиссурой: скорость передачи энергии.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
       "category": "physics"
     },
     {
@@ -7377,23 +5733,6 @@ window.VGIK_DB = {
       "category": "physics"
     },
     {
-      "id": "VGIK-SOUND-00583",
-      "topic": "PHYS_OSC",
-      "topic_name": "Механические колебания и звук",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «частота» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу f = 1/T, единицу Гц и связь со звукорежиссурой: высота звука.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
-      "category": "physics"
-    },
-    {
       "id": "VGIK-SOUND-00584",
       "topic": "PHYS_OSC",
       "topic_name": "Механические колебания и звук",
@@ -7408,23 +5747,6 @@ window.VGIK_DB = {
         "формула"
       ],
       "source": "VGIK physics topics + method",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00585",
-      "topic": "PHYS_OSC",
-      "topic_name": "Механические колебания и звук",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «период» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу T = 1/f, единицу с и связь со звукорежиссурой: время одного колебания.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
       "category": "physics"
     },
     {
@@ -7445,23 +5767,6 @@ window.VGIK_DB = {
       "category": "physics"
     },
     {
-      "id": "VGIK-SOUND-00587",
-      "topic": "PHYS_OSC",
-      "topic_name": "Механические колебания и звук",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «период маятника» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу T = 2π√(l/g), единицу с и связь со звукорежиссурой: пример механических колебаний.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
-      "category": "physics"
-    },
-    {
       "id": "VGIK-SOUND-00588",
       "topic": "PHYS_WAVES",
       "topic_name": "Волны и звук",
@@ -7476,23 +5781,6 @@ window.VGIK_DB = {
         "формула"
       ],
       "source": "VGIK physics topics + method",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00589",
-      "topic": "PHYS_WAVES",
-      "topic_name": "Волны и звук",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «длина волны» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу λ = v/f, единицу м и связь со звукорежиссурой: связь частоты и распространения.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
       "category": "physics"
     },
     {
@@ -7513,23 +5801,6 @@ window.VGIK_DB = {
       "category": "physics"
     },
     {
-      "id": "VGIK-SOUND-00591",
-      "topic": "PHYS_WAVES",
-      "topic_name": "Волны и звук",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «скорость волны» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу v = λf, единицу м/с и связь со звукорежиссурой: распространение звука.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
-      "category": "physics"
-    },
-    {
       "id": "VGIK-SOUND-00592",
       "topic": "PHYS_WAVES",
       "topic_name": "Волны и звук",
@@ -7544,23 +5815,6 @@ window.VGIK_DB = {
         "формула"
       ],
       "source": "VGIK physics topics + method",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00593",
-      "topic": "PHYS_WAVES",
-      "topic_name": "Волны и звук",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «скорость звука в воздухе» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу примерно 340 м/с, единицу м/с и связь со звукорежиссурой: задержка, эхо, дистанция.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; v = s/t; a = Δv/Δt; s = v0t + at²/2.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.\nФормулы: v = λf; T = 1/f; ω = 2πf; v = s/t; a = Δv/Δt; s = v0t + at²/2.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
       "category": "physics"
     },
     {
@@ -7581,23 +5835,6 @@ window.VGIK_DB = {
       "category": "physics"
     },
     {
-      "id": "VGIK-SOUND-00595",
-      "topic": "PHYS_ELEC",
-      "topic_name": "Электричество",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «закон Кулона» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу F = k|q1q2|/r², единицу Н и связь со звукорежиссурой: электростатика.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
-      "category": "france"
-    },
-    {
       "id": "VGIK-SOUND-00596",
       "topic": "PHYS_ELEC",
       "topic_name": "Электричество",
@@ -7612,23 +5849,6 @@ window.VGIK_DB = {
         "формула"
       ],
       "source": "VGIK physics topics + method",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00597",
-      "topic": "PHYS_ELEC",
-      "topic_name": "Электричество",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «сила тока» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу I = q/t, единицу А и связь со звукорежиссурой: электрический сигнал.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
       "category": "physics"
     },
     {
@@ -7649,23 +5869,6 @@ window.VGIK_DB = {
       "category": "physics"
     },
     {
-      "id": "VGIK-SOUND-00599",
-      "topic": "PHYS_CIRCUITS",
-      "topic_name": "Электрические цепи",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «закон Ома» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу I = U/R, единицу А и связь со звукорежиссурой: цепи, кабели, аппаратура.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
-      "category": "physics"
-    },
-    {
       "id": "VGIK-SOUND-00600",
       "topic": "PHYS_CIRCUITS",
       "topic_name": "Электрические цепи",
@@ -7680,23 +5883,6 @@ window.VGIK_DB = {
         "формула"
       ],
       "source": "VGIK physics topics + method",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00601",
-      "topic": "PHYS_CIRCUITS",
-      "topic_name": "Электрические цепи",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «последовательное сопротивление» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу R = R1 + R2 + ..., единицу Ом и связь со звукорежиссурой: цепи.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
       "category": "physics"
     },
     {
@@ -7717,23 +5903,6 @@ window.VGIK_DB = {
       "category": "physics"
     },
     {
-      "id": "VGIK-SOUND-00603",
-      "topic": "PHYS_CIRCUITS",
-      "topic_name": "Электрические цепи",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «параллельное сопротивление» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу 1/R = 1/R1 + 1/R2 + ..., единицу Ом и связь со звукорежиссурой: цепи.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
-      "category": "physics"
-    },
-    {
       "id": "VGIK-SOUND-00604",
       "topic": "PHYS_INDUCTION",
       "topic_name": "Электромагнитная индукция",
@@ -7748,23 +5917,6 @@ window.VGIK_DB = {
         "формула"
       ],
       "source": "VGIK physics topics + method",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00605",
-      "topic": "PHYS_INDUCTION",
-      "topic_name": "Электромагнитная индукция",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «магнитный поток» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу Φ = BS cos α, единицу Вб и связь со звукорежиссурой: индукция.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
       "category": "physics"
     },
     {
@@ -7785,23 +5937,6 @@ window.VGIK_DB = {
       "category": "physics"
     },
     {
-      "id": "VGIK-SOUND-00607",
-      "topic": "PHYS_INDUCTION",
-      "topic_name": "Электромагнитная индукция",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «закон Фарадея» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу ε = -ΔΦ/Δt, единицу В и связь со звукорежиссурой: микрофон, динамик, трансформатор.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
-      "category": "physics"
-    },
-    {
       "id": "VGIK-SOUND-00608",
       "topic": "PHYS_EM",
       "topic_name": "Электромагнитные явления",
@@ -7816,23 +5951,6 @@ window.VGIK_DB = {
         "формула"
       ],
       "source": "VGIK physics topics + method",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00609",
-      "topic": "PHYS_EM",
-      "topic_name": "Электромагнитные явления",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «сила Ампера» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу F = BIl sin α, единицу Н и связь со звукорежиссурой: динамический громкоговоритель.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
       "category": "physics"
     },
     {
@@ -7853,23 +5971,6 @@ window.VGIK_DB = {
       "category": "physics"
     },
     {
-      "id": "VGIK-SOUND-00611",
-      "topic": "PHYS_CAP",
-      "topic_name": "Конденсаторы",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «ёмкость» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу C = q/U, единицу Ф и связь со звукорежиссурой: конденсаторы в аудиоаппаратуре.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
-      "category": "physics"
-    },
-    {
       "id": "VGIK-SOUND-00612",
       "topic": "PHYS_CAP",
       "topic_name": "Конденсаторы",
@@ -7884,23 +5985,6 @@ window.VGIK_DB = {
         "формула"
       ],
       "source": "VGIK physics topics + method",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00613",
-      "topic": "PHYS_CAP",
-      "topic_name": "Конденсаторы",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «энергия конденсатора» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу W = CU²/2, единицу Дж и связь со звукорежиссурой: электрическая энергия.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
       "category": "physics"
     },
     {
@@ -7921,23 +6005,6 @@ window.VGIK_DB = {
       "category": "physics"
     },
     {
-      "id": "VGIK-SOUND-00615",
-      "topic": "PHYS_CAP",
-      "topic_name": "Конденсаторы",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «мощность тока» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу P = UI, единицу Вт и связь со звукорежиссурой: нагрузка, усилитель.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
-      "category": "physics"
-    },
-    {
       "id": "VGIK-SOUND-00616",
       "topic": "PHYS_TRANS",
       "topic_name": "Трансформатор и электромагнитные волны",
@@ -7955,23 +6022,6 @@ window.VGIK_DB = {
       "category": "physics"
     },
     {
-      "id": "VGIK-SOUND-00617",
-      "topic": "PHYS_TRANS",
-      "topic_name": "Трансформатор и электромагнитные волны",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «трансформатор» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу U2/U1 = N2/N1, единицу безразмерно и связь со звукорежиссурой: питание и согласование.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
-      "category": "physics"
-    },
-    {
       "id": "VGIK-SOUND-00618",
       "topic": "PHYS_RADIO",
       "topic_name": "Колебательный контур и радиосвязь",
@@ -7986,23 +6036,6 @@ window.VGIK_DB = {
         "формула"
       ],
       "source": "VGIK physics topics + method",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-SOUND-00619",
-      "topic": "PHYS_RADIO",
-      "topic_name": "Колебательный контур и радиосвязь",
-      "type": "oral_answer",
-      "difficulty": 2,
-      "question": "Объясни простыми словами тему «формула Томсона» для ДВИ.",
-      "answer": "Нужно назвать физический смысл, формулу T = 2π√(LC), единицу с и связь со звукорежиссурой: радиосвязь, колебательный контур.",
-      "choices": [],
-      "explanation": "Ответ без тумана и шаманского бубна.",
-      "tags": [
-        "физика",
-        "устный ответ"
-      ],
-      "source": "method",
       "category": "physics"
     },
     {
@@ -10321,28 +8354,6 @@ window.VGIK_DB = {
       "category": "directors"
     },
     {
-      "id": "VGIK-EXTRA-00056",
-      "topic": "SCENE_ANALYSIS",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 2,
-      "question": "Что звучит в сцене?",
-      "answer": "Нужно назвать речь, шумы, музыку, паузы и их источники.",
-      "choices": [
-        "Нужно назвать речь, шумы, музыку, паузы и их источники.",
-        "Определить ближний, средний и дальний планы, эхо, реверберацию и фон.",
-        "Он направляет зрителя к источнику, действию, паузе, опасности или внутреннему состоянию героя.",
-        "Называть конкретные источники и объяснять, строят ли они быт, угрозу, движение или пространство."
-      ],
-      "explanation": "Дополнительный банк для тематического режима.",
-      "tags": [
-        "разбор сцен",
-        "звукозрительный анализ"
-      ],
-      "source": "extra_bank",
-      "category": "scenes"
-    },
-    {
       "id": "VGIK-EXTRA-00057",
       "topic": "SCENE_ANALYSIS",
       "topic_name": "Разбор сцен",
@@ -10758,1938 +8769,6 @@ window.VGIK_DB = {
         "звукозрительный анализ"
       ],
       "source": "extra_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00001",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Выбери лучший мини-план звукозрительного анализа фильма «Зеркало» (реж. Андрей Тарковский, 1974).",
-      "answer": "1) Сцена с пожаром сарая: Треск огня, ветер и человеческие голоса работают не как бытовой фон, а как звук памяти: изображение держит взгляд на событии, а фонограмма делает его тревожным и почти сновидческим. 2) Сцены с голосом за кадром и стихами: Голос не объясняет сюжет, а соединяет разные времена. Звук здесь становится монтажной связью между детством, матерью, сном и настоящим. 3) Сцены дождя, ветра, воды и шелеста травы: Природные звуки создают не просто пейзаж, а внутреннее состояние. Они часто важнее действия, потому что удерживают ощущение памяти и ожидания.",
-      "choices": [
-        "1) Сцена с пожаром сарая: Треск огня, ветер и человеческие голоса работают не как бытовой фон, а как звук памяти: изображение держит взгляд на событии, а фонограмма делает его тревожным и почти сновидческим. 2) Сцены с голосом за кадром и стихами: Голос не объясняет сюжет, а соединяет разные времена. Звук здесь становится монтажной связью между детством, матерью, сном и настоящим. 3) Сцены дождя, ветра, воды и шелеста травы: Природные звуки создают не просто пейзаж, а внутреннее состояние. Они часто важнее действия, потому что удерживают ощущение памяти и ожидания.",
-        "Сцены танца и музыки: Музыка работает телесно: её можно воспринимать через движение, а не только через слух.",
-        "Встреча с матерью: Паузы и сдержанная речь важнее музыкального давления: звук держит человеческую простоту момента.",
-        "Сцены школы: Бытовая акустика школы и разговорные интонации показывают героиню в обычной среде, где её прошлое почти не слышно окружающим."
-      ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.",
-      "tags": [
-        "разбор сцен",
-        "фильм",
-        "Зеркало"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00002",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Зеркало» (реж. Андрей Тарковский, 1974) в сцене: Сцена с пожаром сарая?",
-      "answer": "Треск огня, ветер и человеческие голоса работают не как бытовой фон, а как звук памяти: изображение держит взгляд на событии, а фонограмма делает его тревожным и почти сновидческим.",
-      "choices": [
-        "Треск огня, ветер и человеческие голоса работают не как бытовой фон, а как звук памяти: изображение держит взгляд на событии, а фонограмма делает его тревожным и почти сновидческим.",
-        "Сцены с голосом за кадром и стихами: Голос не объясняет сюжет, а соединяет разные времена. Звук здесь становится монтажной связью между детством, матерью, сном и настоящим.",
-        "Сцены городской среды: Музыка, шум улицы и бытовые фоны дают ощущение позднесоветской Москвы.",
-        "Сцена песни: Песня не останавливает действие, а собирает лирическое настроение фильма."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Зеркало"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00003",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Зеркало» (реж. Андрей Тарковский, 1974) в сцене: Сцены с голосом за кадром и стихами?",
-      "answer": "Голос не объясняет сюжет, а соединяет разные времена. Звук здесь становится монтажной связью между детством, матерью, сном и настоящим.",
-      "choices": [
-        "Голос не объясняет сюжет, а соединяет разные времена. Звук здесь становится монтажной связью между детством, матерью, сном и настоящим.",
-        "Сцены с резкими перебиваниями: Голоса не выстраивают диалог, а сталкиваются. Звук показывает распад коммуникации.",
-        "Финальные эпизоды: Сдержанная фонограмма усиливает одиночество героини без прямого объяснения.",
-        "Сцена с пожаром сарая: Треск огня, ветер и человеческие голоса работают не как бытовой фон, а как звук памяти: изображение держит взгляд на событии, а фонограмма делает его тревожным и почти сновидческим."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Зеркало"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00004",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Зеркало» (реж. Андрей Тарковский, 1974) в сцене: Сцены дождя, ветра, воды и шелеста травы?",
-      "answer": "Природные звуки создают не просто пейзаж, а внутреннее состояние. Они часто важнее действия, потому что удерживают ощущение памяти и ожидания.",
-      "choices": [
-        "Природные звуки создают не просто пейзаж, а внутреннее состояние. Они часто важнее действия, потому что удерживают ощущение памяти и ожидания.",
-        "Сцены разговоров Ивана со взрослыми: Речевая интонация важнее действия: юмор, паузы и перебивания показывают конфликт поколений.",
-        "Сцена невесомости: Музыка и плавность движения создают не физический аттракцион, а состояние остановленного времени и хрупкой памяти.",
-        "Сцена оглушения после взрыва: Субъективный слух героя выходит на первый план: мир звучит искажённо, глухо, с давлением. Так зритель слышит не событие со стороны, а травму внутри персонажа."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Зеркало"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00005",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Выбери лучший мини-план звукозрительного анализа фильма «Солярис» (реж. Андрей Тарковский, 1972).",
-      "answer": "1) Сцены на космической станции: Гул станции, редкие технические шумы и паузы создают замкнутое пространство. Звук делает станцию чужой и психологически давящей. 2) Сцены с Хари: Сдержанная фонограмма, паузы и мягкая речевая динамика смещают фантастику в сторону внутренней драмы Криса. 3) Сцена невесомости: Музыка и плавность движения создают не физический аттракцион, а состояние остановленного времени и хрупкой памяти.",
-      "choices": [
-        "1) Сцены на космической станции: Гул станции, редкие технические шумы и паузы создают замкнутое пространство. Звук делает станцию чужой и психологически давящей. 2) Сцены с Хари: Сдержанная фонограмма, паузы и мягкая речевая динамика смещают фантастику в сторону внутренней драмы Криса. 3) Сцена невесомости: Музыка и плавность движения создают не физический аттракцион, а состояние остановленного времени и хрупкой памяти.",
-        "Сцена невесомости: Музыка и плавность движения создают не физический аттракцион, а состояние остановленного времени и хрупкой памяти.",
-        "Сцены городской среды: Музыка, шум улицы и бытовые фоны дают ощущение позднесоветской Москвы.",
-        "Сцены деревни перед уничтожением: Бытовые голоса, шум толпы и нарастающая акустическая плотность превращают пространство в ловушку."
-      ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.",
-      "tags": [
-        "разбор сцен",
-        "фильм",
-        "Солярис"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00006",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Солярис» (реж. Андрей Тарковский, 1972) в сцене: Сцены на космической станции?",
-      "answer": "Гул станции, редкие технические шумы и паузы создают замкнутое пространство. Звук делает станцию чужой и психологически давящей.",
-      "choices": [
-        "Гул станции, редкие технические шумы и паузы создают замкнутое пространство. Звук делает станцию чужой и психологически давящей.",
-        "Сцены с детьми и бытовыми деталями: Контраст обычной жизни и исторического ужаса создаёт сильнее впечатление, чем прямое нагнетание.",
-        "Сцены дороги: Паузы, шум машины, ветер и редкие реплики создают напряжение между отцом и детьми.",
-        "Сцены с рок-музыкой: Музыка звучит как голос поколения и как разрыв с официальной советской интонацией."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Солярис"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00007",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Солярис» (реж. Андрей Тарковский, 1972) в сцене: Сцены с Хари?",
-      "answer": "Сдержанная фонограмма, паузы и мягкая речевая динамика смещают фантастику в сторону внутренней драмы Криса.",
-      "choices": [
-        "Сдержанная фонограмма, паузы и мягкая речевая динамика смещают фантастику в сторону внутренней драмы Криса.",
-        "Сцены двора: Музыка и пространственная акустика подчёркивают власть, ритуал и отчуждение.",
-        "Военные сцены: Резкие шумы, тишина перед опасностью и короткие команды создают напряжение фронтового пространства.",
-        "Сцены с резкими перебиваниями: Голоса не выстраивают диалог, а сталкиваются. Звук показывает распад коммуникации."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Солярис"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00008",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Солярис» (реж. Андрей Тарковский, 1972) в сцене: Сцена невесомости?",
-      "answer": "Музыка и плавность движения создают не физический аттракцион, а состояние остановленного времени и хрупкой памяти.",
-      "choices": [
-        "Музыка и плавность движения создают не физический аттракцион, а состояние остановленного времени и хрупкой памяти.",
-        "Сцены квартиры: Тихие бытовые шумы, шаги, техника и паузы создают холодное социальное пространство.",
-        "Батальные сцены: Массовый шум, музыка, команды, копыта и выстрелы создают масштаб исторического события.",
-        "Сцены у моря и замка: Море, ветер, шаги по камню и музыка создают холодное трагическое пространство."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Солярис"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00009",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Выбери лучший мини-план звукозрительного анализа фильма «Иди и смотри» (реж. Элем Климов, 1985).",
-      "answer": "1) Сцена оглушения после взрыва: Субъективный слух героя выходит на первый план: мир звучит искажённо, глухо, с давлением. Так зритель слышит не событие со стороны, а травму внутри персонажа. 2) Сцены деревни перед уничтожением: Бытовые голоса, шум толпы и нарастающая акустическая плотность превращают пространство в ловушку. 3) Финальные сцены с фотографией Гитлера: Звук и монтаж работают как историческая память: не просто показывают эмоцию героя, а соединяют личную травму с масштабом войны.",
-      "choices": [
-        "1) Сцена оглушения после взрыва: Субъективный слух героя выходит на первый план: мир звучит искажённо, глухо, с давлением. Так зритель слышит не событие со стороны, а травму внутри персонажа. 2) Сцены деревни перед уничтожением: Бытовые голоса, шум толпы и нарастающая акустическая плотность превращают пространство в ловушку. 3) Финальные сцены с фотографией Гитлера: Звук и монтаж работают как историческая память: не просто показывают эмоцию героя, а соединяют личную травму с масштабом войны.",
-        "Сцены воспоминаний о полёте: Звук связан с внутренней свободой: воздушная тема и паузы отделяют память от настоящего.",
-        "Сцены курортной среды: Бытовой шум, разговоры и музыка показывают смешение частной жизни, криминальной атмосферы и культурного сдвига.",
-        "Финальное выступление: Песня превращается в публичное высказывание: звук выходит за рамки сюжета и становится знаком перемен."
-      ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.",
-      "tags": [
-        "разбор сцен",
-        "фильм",
-        "Иди и смотри"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00010",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Иди и смотри» (реж. Элем Климов, 1985) в сцене: Сцена оглушения после взрыва?",
-      "answer": "Субъективный слух героя выходит на первый план: мир звучит искажённо, глухо, с давлением. Так зритель слышит не событие со стороны, а травму внутри персонажа.",
-      "choices": [
-        "Субъективный слух героя выходит на первый план: мир звучит искажённо, глухо, с давлением. Так зритель слышит не событие со стороны, а травму внутри персонажа.",
-        "Сцены дороги: Поезда, шаги, фоны станций и короткие разговоры создают лирический ритм пути.",
-        "Сцены общения слышащих и глухих персонажей: Фильм делает звук границей между мирами: важны не только слова, но жест, ритм тела и неполное слышание.",
-        "Лирические сцены Бориса и Вероники: Музыка и городские фоны работают мягче, создавая контраст с военным шумом."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Иди и смотри"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00011",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Иди и смотри» (реж. Элем Климов, 1985) в сцене: Сцены деревни перед уничтожением?",
-      "answer": "Бытовые голоса, шум толпы и нарастающая акустическая плотность превращают пространство в ловушку.",
-      "choices": [
-        "Бытовые голоса, шум толпы и нарастающая акустическая плотность превращают пространство в ловушку.",
-        "Сцена невесомости: Музыка и плавность движения создают не физический аттракцион, а состояние остановленного времени и хрупкой памяти.",
-        "Сцены бомбёжки и лестницы: Ритм движения, шум разрушения и монтажный темп передают внутренний слом героини.",
-        "Бальные сцены: Музыка, шаги, речь и акустика зала показывают социальный порядок и ритуал."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Иди и смотри"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00012",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Иди и смотри» (реж. Элем Климов, 1985) в сцене: Финальные сцены с фотографией Гитлера?",
-      "answer": "Звук и монтаж работают как историческая память: не просто показывают эмоцию героя, а соединяют личную травму с масштабом войны.",
-      "choices": [
-        "Звук и монтаж работают как историческая память: не просто показывают эмоцию героя, а соединяют личную травму с масштабом войны.",
-        "Сцена проводов и движения толпы: Голоса, шум толпы и музыка создают эмоциональный хаос расставания.",
-        "Сцены с голосом за кадром и стихами: Голос не объясняет сюжет, а соединяет разные времена. Звук здесь становится монтажной связью между детством, матерью, сном и настоящим.",
-        "Сцены молчания Рублева: Отказ от речи становится драматургическим решением: звук мира остаётся, а голос героя исчезает."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Иди и смотри"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00013",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Выбери лучший мини-план звукозрительного анализа фильма «Жестокий романс» (реж. Эльдар Рязанов, 1984).",
-      "answer": "1) Сцены романсов: Романс звучит как часть драматургии: он выражает чувство, но одновременно показывает социальную игру вокруг Ларисы. 2) Сцены разговоров в купеческом кругу: Речь важнее громких эффектов: интонации, паузы и перебивания показывают власть, цену человека и давление общества. 3) Финальная сцена: Музыка, речевая сдержанность и паузы усиливают трагический итог. Звук не иллюстрирует смерть, а фиксирует слом человеческого достоинства.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-      "choices": [
-        "1) Сцены романсов: Романс звучит как часть драматургии: он выражает чувство, но одновременно показывает социальную игру вокруг Ларисы. 2) Сцены разговоров в купеческом кругу: Речь важнее громких эффектов: интонации, паузы и перебивания показывают власть, цену человека и давление общества. 3) Финальная сцена: Музыка, речевая сдержанность и паузы усиливают трагический итог. Звук не иллюстрирует смерть, а фиксирует слом человеческого достоинства.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-        "Финальные эпизоды: Сдержанная фонограмма усиливает одиночество героини без прямого объяснения.",
-        "Сцена невесомости: Музыка и плавность движения создают не физический аттракцион, а состояние остановленного времени и хрупкой памяти.",
-        "Сцены дороги: Поезда, шаги, фоны станций и короткие разговоры создают лирический ритм пути."
-      ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-      "tags": [
-        "разбор сцен",
-        "фильм",
-        "Жестокий романс"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-V4-00014",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Жестокий романс» (реж. Эльдар Рязанов, 1984) в сцене: Сцены романсов?",
-      "answer": "Романс звучит как часть драматургии: он выражает чувство, но одновременно показывает социальную игру вокруг Ларисы.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
-      "choices": [
-        "Романс звучит как часть драматургии: он выражает чувство, но одновременно показывает социальную игру вокруг Ларисы.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
-        "Сцены с голосом за кадром и стихами: Голос не объясняет сюжет, а соединяет разные времена. Звук здесь становится монтажной связью между детством, матерью, сном и настоящим.",
-        "Сцены хроники с авторским комментарием: Голос Ромма не пересказывает кадр, а вступает с ним в спор: интонация анализа разрушает пафос фашистской хроники.",
-        "Ключевые сцены решения героини: Звук сдержан, поэтому внимание переходит на действие, паузу и бытовую деталь."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Жестокий романс"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-V4-00015",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Жестокий романс» (реж. Эльдар Рязанов, 1984) в сцене: Сцены разговоров в купеческом кругу?",
-      "answer": "Речь важнее громких эффектов: интонации, паузы и перебивания показывают власть, цену человека и давление общества.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
-      "choices": [
-        "Речь важнее громких эффектов: интонации, паузы и перебивания показывают власть, цену человека и давление общества.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
-        "Сцены у моря и замка: Море, ветер, шаги по камню и музыка создают холодное трагическое пространство.",
-        "Сцены деревни перед уничтожением: Бытовые голоса, шум толпы и нарастающая акустическая плотность превращают пространство в ловушку.",
-        "Военные эпизоды: Фронтовые шумы не подавляют фильм, а контрастируют с тихой человеческой историей."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Жестокий романс"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-V4-00016",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Жестокий романс» (реж. Эльдар Рязанов, 1984) в сцене: Финальная сцена?",
-      "answer": "Музыка, речевая сдержанность и паузы усиливают трагический итог. Звук не иллюстрирует смерть, а фиксирует слом человеческого достоинства.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
-      "choices": [
-        "Музыка, речевая сдержанность и паузы усиливают трагический итог. Звук не иллюстрирует смерть, а фиксирует слом человеческого достоинства.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
-        "Камерные разговоры: После массовых сцен тихая речь меняет масштаб фильма и возвращает внимание к человеку.",
-        "Сцены городской среды: Музыка, шум улицы и бытовые фоны дают ощущение позднесоветской Москвы.",
-        "Сцена песни: Песня не останавливает действие, а собирает лирическое настроение фильма."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Жестокий романс"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-V4-00017",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Выбери лучший мини-план звукозрительного анализа фильма «Александр Невский» (реж. Сергей Эйзенштейн, 1938).",
-      "answer": "1) Сцена Ледового побоища: Музыка Прокофьева, хор, ритм движения войска и шум битвы создают эпический масштаб. Звук организует не бытовую достоверность, а исторический миф. 2) Появление немецких рыцарей: Жёсткая музыкальная и ритмическая характеристика делает противника не просто группой людей, а механической угрозой. 3) Сцены народного сбора: Хоровое и массовое звучание подчёркивает коллективный характер действия.",
-      "choices": [
-        "1) Сцена Ледового побоища: Музыка Прокофьева, хор, ритм движения войска и шум битвы создают эпический масштаб. Звук организует не бытовую достоверность, а исторический миф. 2) Появление немецких рыцарей: Жёсткая музыкальная и ритмическая характеристика делает противника не просто группой людей, а механической угрозой. 3) Сцены народного сбора: Хоровое и массовое звучание подчёркивает коллективный характер действия.",
-        "Сцены у воды: Вода звучит как пространство испытания и угрозы, а не как красивый пейзаж.",
-        "Встреча с матерью: Паузы и сдержанная речь важнее музыкального давления: звук держит человеческую простоту момента.",
-        "Сцены массовых шествий: Шум толпы и архивная музыка показывают механизм массового заражения, а комментарий возвращает критическую дистанцию."
-      ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.",
-      "tags": [
-        "разбор сцен",
-        "фильм",
-        "Александр Невский"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00018",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Александр Невский» (реж. Сергей Эйзенштейн, 1938) в сцене: Сцена Ледового побоища?",
-      "answer": "Музыка Прокофьева, хор, ритм движения войска и шум битвы создают эпический масштаб. Звук организует не бытовую достоверность, а исторический миф.",
-      "choices": [
-        "Музыка Прокофьева, хор, ритм движения войска и шум битвы создают эпический масштаб. Звук организует не бытовую достоверность, а исторический миф.",
-        "Сцены у воды: Вода звучит как пространство испытания и угрозы, а не как красивый пейзаж.",
-        "Сцена с пожаром сарая: Треск огня, ветер и человеческие голоса работают не как бытовой фон, а как звук памяти: изображение держит взгляд на событии, а фонограмма делает его тревожным и почти сновидческим.",
-        "Сцены городского шума и очередей: Речевая плотность, крики и бытовой шум создают ощущение усталого общества, где люди перестают слышать друг друга."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Александр Невский"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00019",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Александр Невский» (реж. Сергей Эйзенштейн, 1938) в сцене: Появление немецких рыцарей?",
-      "answer": "Жёсткая музыкальная и ритмическая характеристика делает противника не просто группой людей, а механической угрозой.",
-      "choices": [
-        "Жёсткая музыкальная и ритмическая характеристика делает противника не просто группой людей, а механической угрозой.",
-        "Сцены молчания Рублева: Отказ от речи становится драматургическим решением: звук мира остаётся, а голос героя исчезает.",
-        "Сцены романсов: Романс звучит как часть драматургии: он выражает чувство, но одновременно показывает социальную игру вокруг Ларисы.",
-        "Сцены метро и улиц: Городские фоны работают как образ Москвы: живой, лёгкой, движущейся."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Александр Невский"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00020",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Александр Невский» (реж. Сергей Эйзенштейн, 1938) в сцене: Сцены народного сбора?",
-      "answer": "Хоровое и массовое звучание подчёркивает коллективный характер действия.",
-      "choices": [
-        "Хоровое и массовое звучание подчёркивает коллективный характер действия.",
-        "Сцены городской среды: Музыка, шум улицы и бытовые фоны дают ощущение позднесоветской Москвы.",
-        "Сцена Ледового побоища: Музыка Прокофьева, хор, ритм движения войска и шум битвы создают эпический масштаб. Звук организует не бытовую достоверность, а исторический миф.",
-        "Сцены бомбёжки и лестницы: Ритм движения, шум разрушения и монтажный темп передают внутренний слом героини."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Александр Невский"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00021",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Выбери лучший мини-план звукозрительного анализа фильма «Обыкновенный фашизм» (реж. Михаил Ромм, 1966).",
-      "answer": "1) Сцены хроники с авторским комментарием: Голос Ромма не пересказывает кадр, а вступает с ним в спор: интонация анализа разрушает пафос фашистской хроники. 2) Сцены массовых шествий: Шум толпы и архивная музыка показывают механизм массового заражения, а комментарий возвращает критическую дистанцию. 3) Сцены с детьми и бытовыми деталями: Контраст обычной жизни и исторического ужаса создаёт сильнее впечатление, чем прямое нагнетание.",
-      "choices": [
-        "1) Сцены хроники с авторским комментарием: Голос Ромма не пересказывает кадр, а вступает с ним в спор: интонация анализа разрушает пафос фашистской хроники. 2) Сцены массовых шествий: Шум толпы и архивная музыка показывают механизм массового заражения, а комментарий возвращает критическую дистанцию. 3) Сцены с детьми и бытовыми деталями: Контраст обычной жизни и исторического ужаса создаёт сильнее впечатление, чем прямое нагнетание.",
-        "Сцены разговоров в купеческом кругу: Речь важнее громких эффектов: интонации, паузы и перебивания показывают власть, цену человека и давление общества.",
-        "Батальные сцены: Массовый шум, музыка, команды, копыта и выстрелы создают масштаб исторического события.",
-        "Сцены дороги: Паузы, шум машины, ветер и редкие реплики создают напряжение между отцом и детьми."
-      ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.",
-      "tags": [
-        "разбор сцен",
-        "фильм",
-        "Обыкновенный фашизм"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00022",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Обыкновенный фашизм» (реж. Михаил Ромм, 1966) в сцене: Сцены хроники с авторским комментарием?",
-      "answer": "Голос Ромма не пересказывает кадр, а вступает с ним в спор: интонация анализа разрушает пафос фашистской хроники.",
-      "choices": [
-        "Голос Ромма не пересказывает кадр, а вступает с ним в спор: интонация анализа разрушает пафос фашистской хроники.",
-        "Военные сцены: Резкие шумы, тишина перед опасностью и короткие команды создают напряжение фронтового пространства.",
-        "Сцена песни: Песня не останавливает действие, а собирает лирическое настроение фильма.",
-        "Сцены квартиры: Тихие бытовые шумы, шаги, техника и паузы создают холодное социальное пространство."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Обыкновенный фашизм"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00023",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Обыкновенный фашизм» (реж. Михаил Ромм, 1966) в сцене: Сцены массовых шествий?",
-      "answer": "Шум толпы и архивная музыка показывают механизм массового заражения, а комментарий возвращает критическую дистанцию.",
-      "choices": [
-        "Шум толпы и архивная музыка показывают механизм массового заражения, а комментарий возвращает критическую дистанцию.",
-        "Сцены курортной среды: Бытовой шум, разговоры и музыка показывают смешение частной жизни, криминальной атмосферы и культурного сдвига.",
-        "Военные эпизоды: Фронтовые шумы не подавляют фильм, а контрастируют с тихой человеческой историей.",
-        "Сцены у воды: Вода звучит как пространство испытания и угрозы, а не как красивый пейзаж."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Обыкновенный фашизм"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00024",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Обыкновенный фашизм» (реж. Михаил Ромм, 1966) в сцене: Сцены с детьми и бытовыми деталями?",
-      "answer": "Контраст обычной жизни и исторического ужаса создаёт сильнее впечатление, чем прямое нагнетание.",
-      "choices": [
-        "Контраст обычной жизни и исторического ужаса создаёт сильнее впечатление, чем прямое нагнетание.",
-        "Сцены хроники с авторским комментарием: Голос Ромма не пересказывает кадр, а вступает с ним в спор: интонация анализа разрушает пафос фашистской хроники.",
-        "Сцены сна: Звук воды, леса и мягких движений отделяет мир детства от войны. Фонограмма работает как память о невозможной нормальной жизни.",
-        "Сцены с животными и документальной фактурой: Натуральные шумы и резкие переходы ломают комфорт зрителя и делают фонограмму нервной."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Обыкновенный фашизм"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00025",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Выбери лучший мини-план звукозрительного анализа фильма «Андрей Рублев» (реж. Андрей Тарковский, 1966).",
-      "answer": "1) Сцена колокола: Звук колокола становится итогом труда, веры и риска. Важно не только само звучание, а ожидание перед ним и реакция людей после удара. 2) Сцены набега: Крики, лошади, огонь и разрушение создают хаос, где звук дробит пространство и показывает насилие как вторжение в мир. 3) Сцены молчания Рублева: Отказ от речи становится драматургическим решением: звук мира остаётся, а голос героя исчезает.",
-      "choices": [
-        "1) Сцена колокола: Звук колокола становится итогом труда, веры и риска. Важно не только само звучание, а ожидание перед ним и реакция людей после удара. 2) Сцены набега: Крики, лошади, огонь и разрушение создают хаос, где звук дробит пространство и показывает насилие как вторжение в мир. 3) Сцены молчания Рублева: Отказ от речи становится драматургическим решением: звук мира остаётся, а голос героя исчезает.",
-        "Сцены прогулки по городу: Шум улицы, лёгкая музыка и разговоры создают ощущение открытого городского пространства.",
-        "Сцены массовых шествий: Шум толпы и архивная музыка показывают механизм массового заражения, а комментарий возвращает критическую дистанцию.",
-        "Сцена Ледового побоища: Музыка Прокофьева, хор, ритм движения войска и шум битвы создают эпический масштаб. Звук организует не бытовую достоверность, а исторический миф."
-      ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.",
-      "tags": [
-        "разбор сцен",
-        "фильм",
-        "Андрей Рублев"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00026",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Андрей Рублев» (реж. Андрей Тарковский, 1966) в сцене: Сцена колокола?",
-      "answer": "Звук колокола становится итогом труда, веры и риска. Важно не только само звучание, а ожидание перед ним и реакция людей после удара.",
-      "choices": [
-        "Звук колокола становится итогом труда, веры и риска. Важно не только само звучание, а ожидание перед ним и реакция людей после удара.",
-        "Сцены в квартире профессора: Закрытая акустика комнаты усиливает неловкость и социальную дистанцию.",
-        "Финальное выступление: Песня превращается в публичное высказывание: звук выходит за рамки сюжета и становится знаком перемен.",
-        "Сцены молитвы: Голос и паузы работают как действие, а не как украшение религиозной темы."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Андрей Рублев"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00027",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Андрей Рублев» (реж. Андрей Тарковский, 1966) в сцене: Сцены набега?",
-      "answer": "Крики, лошади, огонь и разрушение создают хаос, где звук дробит пространство и показывает насилие как вторжение в мир.",
-      "choices": [
-        "Крики, лошади, огонь и разрушение создают хаос, где звук дробит пространство и показывает насилие как вторжение в мир.",
-        "Сцены молитвы: Голос и паузы работают как действие, а не как украшение религиозной темы.",
-        "Бальные сцены: Музыка, шаги, речь и акустика зала показывают социальный порядок и ритуал.",
-        "Финал: Сдержанная фонограмма не объясняет эмоцию, а оставляет зрителя в состоянии недоговорённости."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Андрей Рублев"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00028",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Андрей Рублев» (реж. Андрей Тарковский, 1966) в сцене: Сцены молчания Рублева?",
-      "answer": "Отказ от речи становится драматургическим решением: звук мира остаётся, а голос героя исчезает.",
-      "choices": [
-        "Отказ от речи становится драматургическим решением: звук мира остаётся, а голос героя исчезает.",
-        "Сцена Ледового побоища: Музыка Прокофьева, хор, ритм движения войска и шум битвы создают эпический масштаб. Звук организует не бытовую достоверность, а исторический миф.",
-        "Сцены дороги: Паузы, шум машины, ветер и редкие реплики создают напряжение между отцом и детьми.",
-        "Появление немецких рыцарей: Жёсткая музыкальная и ритмическая характеристика делает противника не просто группой людей, а механической угрозой."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Андрей Рублев"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00029",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Выбери лучший мини-план звукозрительного анализа фильма «Иваново детство» (реж. Андрей Тарковский, 1962).",
-      "answer": "1) Сцены сна: Звук воды, леса и мягких движений отделяет мир детства от войны. Фонограмма работает как память о невозможной нормальной жизни. 2) Военные сцены: Резкие шумы, тишина перед опасностью и короткие команды создают напряжение фронтового пространства. 3) Сцены переправы и разведки: Вода и ночная акустика делают пространство неопределённым: зритель слышит опасность раньше, чем видит её.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
-      "choices": [
-        "1) Сцены сна: Звук воды, леса и мягких движений отделяет мир детства от войны. Фонограмма работает как память о невозможной нормальной жизни. 2) Военные сцены: Резкие шумы, тишина перед опасностью и короткие команды создают напряжение фронтового пространства. 3) Сцены переправы и разведки: Вода и ночная акустика делают пространство неопределённым: зритель слышит опасность раньше, чем видит её.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
-        "Сцены городского шума и очередей: Речевая плотность, крики и бытовой шум создают ощущение усталого общества, где люди перестают слышать друг друга.",
-        "Сцены народного сбора: Хоровое и массовое звучание подчёркивает коллективный характер действия.",
-        "Сцены воспоминаний о полёте: Звук связан с внутренней свободой: воздушная тема и паузы отделяют память от настоящего."
-      ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
-      "tags": [
-        "разбор сцен",
-        "фильм",
-        "Иваново детство"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-V4-00030",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Иваново детство» (реж. Андрей Тарковский, 1962) в сцене: Сцены сна?",
-      "answer": "Звук воды, леса и мягких движений отделяет мир детства от войны. Фонограмма работает как память о невозможной нормальной жизни.",
-      "choices": [
-        "Звук воды, леса и мягких движений отделяет мир детства от войны. Фонограмма работает как память о невозможной нормальной жизни.",
-        "Финал: Сдержанная фонограмма не объясняет эмоцию, а оставляет зрителя в состоянии недоговорённости.",
-        "Сцены молчания Рублева: Отказ от речи становится драматургическим решением: звук мира остаётся, а голос героя исчезает.",
-        "Появление немецких рыцарей: Жёсткая музыкальная и ритмическая характеристика делает противника не просто группой людей, а механической угрозой."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Иваново детство"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00031",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Иваново детство» (реж. Андрей Тарковский, 1962) в сцене: Военные сцены?",
-      "answer": "Резкие шумы, тишина перед опасностью и короткие команды создают напряжение фронтового пространства.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
-      "choices": [
-        "Резкие шумы, тишина перед опасностью и короткие команды создают напряжение фронтового пространства.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
-        "Финальные сцены с фотографией Гитлера: Звук и монтаж работают как историческая память: не просто показывают эмоцию героя, а соединяют личную травму с масштабом войны.",
-        "Военные эпизоды: Фронтовые шумы не подавляют фильм, а контрастируют с тихой человеческой историей.",
-        "Сцены переправы и разведки: Вода и ночная акустика делают пространство неопределённым: зритель слышит опасность раньше, чем видит её."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Иваново детство"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-V4-00032",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Иваново детство» (реж. Андрей Тарковский, 1962) в сцене: Сцены переправы и разведки?",
-      "answer": "Вода и ночная акустика делают пространство неопределённым: зритель слышит опасность раньше, чем видит её.",
-      "choices": [
-        "Вода и ночная акустика делают пространство неопределённым: зритель слышит опасность раньше, чем видит её.",
-        "Сцены общения слышащих и глухих персонажей: Фильм делает звук границей между мирами: важны не только слова, но жест, ритм тела и неполное слышание.",
-        "Сцены у воды: Вода звучит как пространство испытания и угрозы, а не как красивый пейзаж.",
-        "Сцены танца и музыки: Музыка работает телесно: её можно воспринимать через движение, а не только через слух."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Иваново детство"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00033",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Выбери лучший мини-план звукозрительного анализа фильма «Астенический синдром» (реж. Кира Муратова, 1990).",
-      "answer": "1) Сцены городского шума и очередей: Речевая плотность, крики и бытовой шум создают ощущение усталого общества, где люди перестают слышать друг друга. 2) Сцены с резкими перебиваниями: Голоса не выстраивают диалог, а сталкиваются. Звук показывает распад коммуникации. 3) Сцены с животными и документальной фактурой: Натуральные шумы и резкие переходы ломают комфорт зрителя и делают фонограмму нервной.",
-      "choices": [
-        "1) Сцены городского шума и очередей: Речевая плотность, крики и бытовой шум создают ощущение усталого общества, где люди перестают слышать друг друга. 2) Сцены с резкими перебиваниями: Голоса не выстраивают диалог, а сталкиваются. Звук показывает распад коммуникации. 3) Сцены с животными и документальной фактурой: Натуральные шумы и резкие переходы ломают комфорт зрителя и делают фонограмму нервной.",
-        "Сцены дождя, ветра, воды и шелеста травы: Природные звуки создают не просто пейзаж, а внутреннее состояние. Они часто важнее действия, потому что удерживают ощущение памяти и ожидания.",
-        "Сцены у моря и замка: Море, ветер, шаги по камню и музыка создают холодное трагическое пространство.",
-        "Сцены с Хари: Сдержанная фонограмма, паузы и мягкая речевая динамика смещают фантастику в сторону внутренней драмы Криса."
-      ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.",
-      "tags": [
-        "разбор сцен",
-        "фильм",
-        "Астенический синдром"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00034",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Астенический синдром» (реж. Кира Муратова, 1990) в сцене: Сцены городского шума и очередей?",
-      "answer": "Речевая плотность, крики и бытовой шум создают ощущение усталого общества, где люди перестают слышать друг друга.",
-      "choices": [
-        "Речевая плотность, крики и бытовой шум создают ощущение усталого общества, где люди перестают слышать друг друга.",
-        "Сцены поездок: Городской шум и транспорт разделяют миры героев: обеспеченный и бедный.",
-        "Сцены с детьми и бытовыми деталями: Контраст обычной жизни и исторического ужаса создаёт сильнее впечатление, чем прямое нагнетание.",
-        "Сцены покаяния: Сдержанная фонограмма помогает удержать внутренний конфликт героя."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Астенический синдром"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00035",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Астенический синдром» (реж. Кира Муратова, 1990) в сцене: Сцены с резкими перебиваниями?",
-      "answer": "Голоса не выстраивают диалог, а сталкиваются. Звук показывает распад коммуникации.",
-      "choices": [
-        "Голоса не выстраивают диалог, а сталкиваются. Звук показывает распад коммуникации.",
-        "Сцены разговоров в купеческом кругу: Речь важнее громких эффектов: интонации, паузы и перебивания показывают власть, цену человека и давление общества.",
-        "Сцены деревни перед уничтожением: Бытовые голоса, шум толпы и нарастающая акустическая плотность превращают пространство в ловушку.",
-        "Сцены курортной среды: Бытовой шум, разговоры и музыка показывают смешение частной жизни, криминальной атмосферы и культурного сдвига."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Астенический синдром"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00036",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Астенический синдром» (реж. Кира Муратова, 1990) в сцене: Сцены с животными и документальной фактурой?",
-      "answer": "Натуральные шумы и резкие переходы ломают комфорт зрителя и делают фонограмму нервной.",
-      "choices": [
-        "Натуральные шумы и резкие переходы ломают комфорт зрителя и делают фонограмму нервной.",
-        "Встреча с матерью: Паузы и сдержанная речь важнее музыкального давления: звук держит человеческую простоту момента.",
-        "Сцены с детьми и бытовыми деталями: Контраст обычной жизни и исторического ужаса создаёт сильнее впечатление, чем прямое нагнетание.",
-        "Сцены квартиры: Тихие бытовые шумы, шаги, техника и паузы создают холодное социальное пространство."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Астенический синдром"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00037",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Выбери лучший мини-план звукозрительного анализа фильма «Асса» (реж. Сергей Соловьёв, 1987).",
-      "answer": "1) Сцены с рок-музыкой: Музыка звучит как голос поколения и как разрыв с официальной советской интонацией. 2) Финальное выступление: Песня превращается в публичное высказывание: звук выходит за рамки сюжета и становится знаком перемен. 3) Сцены курортной среды: Бытовой шум, разговоры и музыка показывают смешение частной жизни, криминальной атмосферы и культурного сдвига.",
-      "choices": [
-        "1) Сцены с рок-музыкой: Музыка звучит как голос поколения и как разрыв с официальной советской интонацией. 2) Финальное выступление: Песня превращается в публичное высказывание: звук выходит за рамки сюжета и становится знаком перемен. 3) Сцены курортной среды: Бытовой шум, разговоры и музыка показывают смешение частной жизни, криминальной атмосферы и культурного сдвига.",
-        "Появление немецких рыцарей: Жёсткая музыкальная и ритмическая характеристика делает противника не просто группой людей, а механической угрозой.",
-        "Сцены покаяния: Сдержанная фонограмма помогает удержать внутренний конфликт героя.",
-        "Сцены с животными и документальной фактурой: Натуральные шумы и резкие переходы ломают комфорт зрителя и делают фонограмму нервной."
-      ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.",
-      "tags": [
-        "разбор сцен",
-        "фильм",
-        "Асса"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00038",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Асса» (реж. Сергей Соловьёв, 1987) в сцене: Сцены с рок-музыкой?",
-      "answer": "Музыка звучит как голос поколения и как разрыв с официальной советской интонацией.",
-      "choices": [
-        "Музыка звучит как голос поколения и как разрыв с официальной советской интонацией.",
-        "Сцены городского шума и очередей: Речевая плотность, крики и бытовой шум создают ощущение усталого общества, где люди перестают слышать друг друга.",
-        "Сцены в квартире профессора: Закрытая акустика комнаты усиливает неловкость и социальную дистанцию.",
-        "Сцены бомбёжки и лестницы: Ритм движения, шум разрушения и монтажный темп передают внутренний слом героини."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Асса"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00039",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Асса» (реж. Сергей Соловьёв, 1987) в сцене: Финальное выступление?",
-      "answer": "Песня превращается в публичное высказывание: звук выходит за рамки сюжета и становится знаком перемен.",
-      "choices": [
-        "Песня превращается в публичное высказывание: звук выходит за рамки сюжета и становится знаком перемен.",
-        "Военные эпизоды: Фронтовые шумы не подавляют фильм, а контрастируют с тихой человеческой историей.",
-        "Сцены метро и улиц: Городские фоны работают как образ Москвы: живой, лёгкой, движущейся.",
-        "Сцены молчания Рублева: Отказ от речи становится драматургическим решением: звук мира остаётся, а голос героя исчезает."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Асса"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00040",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Асса» (реж. Сергей Соловьёв, 1987) в сцене: Сцены курортной среды?",
-      "answer": "Бытовой шум, разговоры и музыка показывают смешение частной жизни, криминальной атмосферы и культурного сдвига.",
-      "choices": [
-        "Бытовой шум, разговоры и музыка показывают смешение частной жизни, криминальной атмосферы и культурного сдвига.",
-        "Монологи Гамлета: Речевая интонация и паузы работают как внутренняя борьба, а не просто декламация текста.",
-        "Сцены общения слышащих и глухих персонажей: Фильм делает звук границей между мирами: важны не только слова, но жест, ритм тела и неполное слышание.",
-        "Сцены городской среды: Музыка, шум улицы и бытовые фоны дают ощущение позднесоветской Москвы."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Асса"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00041",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Выбери лучший мини-план звукозрительного анализа фильма «Баллада о солдате» (реж. Григорий Чухрай, 1959).",
-      "answer": "1) Сцены дороги: Поезда, шаги, фоны станций и короткие разговоры создают лирический ритм пути. 2) Встреча с матерью: Паузы и сдержанная речь важнее музыкального давления: звук держит человеческую простоту момента. 3) Военные эпизоды: Фронтовые шумы не подавляют фильм, а контрастируют с тихой человеческой историей.",
-      "choices": [
-        "1) Сцены дороги: Поезда, шаги, фоны станций и короткие разговоры создают лирический ритм пути. 2) Встреча с матерью: Паузы и сдержанная речь важнее музыкального давления: звук держит человеческую простоту момента. 3) Военные эпизоды: Фронтовые шумы не подавляют фильм, а контрастируют с тихой человеческой историей.",
-        "Финальное выступление: Песня превращается в публичное высказывание: звук выходит за рамки сюжета и становится знаком перемен.",
-        "Сцены молчания Рублева: Отказ от речи становится драматургическим решением: звук мира остаётся, а голос героя исчезает.",
-        "Сцены с Хари: Сдержанная фонограмма, паузы и мягкая речевая динамика смещают фантастику в сторону внутренней драмы Криса."
-      ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.",
-      "tags": [
-        "разбор сцен",
-        "фильм",
-        "Баллада о солдате"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00042",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Баллада о солдате» (реж. Григорий Чухрай, 1959) в сцене: Сцены дороги?",
-      "answer": "Поезда, шаги, фоны станций и короткие разговоры создают лирический ритм пути.",
-      "choices": [
-        "Поезда, шаги, фоны станций и короткие разговоры создают лирический ритм пути.",
-        "Сцены общения слышащих и глухих персонажей: Фильм делает звук границей между мирами: важны не только слова, но жест, ритм тела и неполное слышание.",
-        "Сцены дождя, ветра, воды и шелеста травы: Природные звуки создают не просто пейзаж, а внутреннее состояние. Они часто важнее действия, потому что удерживают ощущение памяти и ожидания.",
-        "Сцены с детьми и бытовыми деталями: Контраст обычной жизни и исторического ужаса создаёт сильнее впечатление, чем прямое нагнетание."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Баллада о солдате"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00043",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Баллада о солдате» (реж. Григорий Чухрай, 1959) в сцене: Встреча с матерью?",
-      "answer": "Паузы и сдержанная речь важнее музыкального давления: звук держит человеческую простоту момента.",
-      "choices": [
-        "Паузы и сдержанная речь важнее музыкального давления: звук держит человеческую простоту момента.",
-        "Городские сцены: Шум города подчёркивает социальную опасность и разрыв между персонажами.",
-        "Сцены разговоров Ивана со взрослыми: Речевая интонация важнее действия: юмор, паузы и перебивания показывают конфликт поколений.",
-        "Сцены дождя, ветра, воды и шелеста травы: Природные звуки создают не просто пейзаж, а внутреннее состояние. Они часто важнее действия, потому что удерживают ощущение памяти и ожидания."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Баллада о солдате"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00044",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Баллада о солдате» (реж. Григорий Чухрай, 1959) в сцене: Военные эпизоды?",
-      "answer": "Фронтовые шумы не подавляют фильм, а контрастируют с тихой человеческой историей.",
-      "choices": [
-        "Фронтовые шумы не подавляют фильм, а контрастируют с тихой человеческой историей.",
-        "Сцены метро и улиц: Городские фоны работают как образ Москвы: живой, лёгкой, движущейся.",
-        "Монологи Гамлета: Речевая интонация и паузы работают как внутренняя борьба, а не просто декламация текста.",
-        "Сцены с детьми и бытовыми деталями: Контраст обычной жизни и исторического ужаса создаёт сильнее впечатление, чем прямое нагнетание."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Баллада о солдате"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00045",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Выбери лучший мини-план звукозрительного анализа фильма «Летят журавли» (реж. Михаил Калатозов, 1957).",
-      "answer": "1) Сцена проводов и движения толпы: Голоса, шум толпы и музыка создают эмоциональный хаос расставания. 2) Сцены бомбёжки и лестницы: Ритм движения, шум разрушения и монтажный темп передают внутренний слом героини. 3) Лирические сцены Бориса и Вероники: Музыка и городские фоны работают мягче, создавая контраст с военным шумом.",
-      "choices": [
-        "1) Сцена проводов и движения толпы: Голоса, шум толпы и музыка создают эмоциональный хаос расставания. 2) Сцены бомбёжки и лестницы: Ритм движения, шум разрушения и монтажный темп передают внутренний слом героини. 3) Лирические сцены Бориса и Вероники: Музыка и городские фоны работают мягче, создавая контраст с военным шумом.",
-        "Сцены школы: Бытовая акустика школы и разговорные интонации показывают героиню в обычной среде, где её прошлое почти не слышно окружающим.",
-        "Военные сцены: Резкие шумы, тишина перед опасностью и короткие команды создают напряжение фронтового пространства.",
-        "Сцены набега: Крики, лошади, огонь и разрушение создают хаос, где звук дробит пространство и показывает насилие как вторжение в мир."
-      ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.",
-      "tags": [
-        "разбор сцен",
-        "фильм",
-        "Летят журавли"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00046",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Летят журавли» (реж. Михаил Калатозов, 1957) в сцене: Сцена проводов и движения толпы?",
-      "answer": "Голоса, шум толпы и музыка создают эмоциональный хаос расставания.",
-      "choices": [
-        "Голоса, шум толпы и музыка создают эмоциональный хаос расставания.",
-        "Сцены прогулки по городу: Шум улицы, лёгкая музыка и разговоры создают ощущение открытого городского пространства.",
-        "Сцены у воды и монастыря: Вода, колокол, ветер и редкие голоса создают духовную среду без прямого объяснения.",
-        "Сцены воспоминаний о полёте: Звук связан с внутренней свободой: воздушная тема и паузы отделяют память от настоящего."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Летят журавли"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00047",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Летят журавли» (реж. Михаил Калатозов, 1957) в сцене: Сцены бомбёжки и лестницы?",
-      "answer": "Ритм движения, шум разрушения и монтажный темп передают внутренний слом героини.",
-      "choices": [
-        "Ритм движения, шум разрушения и монтажный темп передают внутренний слом героини.",
-        "Сцены с голосом за кадром и стихами: Голос не объясняет сюжет, а соединяет разные времена. Звук здесь становится монтажной связью между детством, матерью, сном и настоящим.",
-        "Сцены прогулки по городу: Шум улицы, лёгкая музыка и разговоры создают ощущение открытого городского пространства.",
-        "Финальные сцены с фотографией Гитлера: Звук и монтаж работают как историческая память: не просто показывают эмоцию героя, а соединяют личную травму с масштабом войны."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Летят журавли"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00048",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Летят журавли» (реж. Михаил Калатозов, 1957) в сцене: Лирические сцены Бориса и Вероники?",
-      "answer": "Музыка и городские фоны работают мягче, создавая контраст с военным шумом.",
-      "choices": [
-        "Музыка и городские фоны работают мягче, создавая контраст с военным шумом.",
-        "Сцены с резкими перебиваниями: Голоса не выстраивают диалог, а сталкиваются. Звук показывает распад коммуникации.",
-        "Сцены курортной среды: Бытовой шум, разговоры и музыка показывают смешение частной жизни, криминальной атмосферы и культурного сдвига.",
-        "Сцена Ледового побоища: Музыка Прокофьева, хор, ритм движения войска и шум битвы создают эпический масштаб. Звук организует не бытовую достоверность, а исторический миф."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Летят журавли"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00049",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Выбери лучший мини-план звукозрительного анализа фильма «Крылья» (реж. Лариса Шепитько, 1966).",
-      "answer": "1) Сцены школы: Бытовая акустика школы и разговорные интонации показывают героиню в обычной среде, где её прошлое почти не слышно окружающим. 2) Сцены воспоминаний о полёте: Звук связан с внутренней свободой: воздушная тема и паузы отделяют память от настоящего. 3) Финальные эпизоды: Сдержанная фонограмма усиливает одиночество героини без прямого объяснения.",
-      "choices": [
-        "1) Сцены школы: Бытовая акустика школы и разговорные интонации показывают героиню в обычной среде, где её прошлое почти не слышно окружающим. 2) Сцены воспоминаний о полёте: Звук связан с внутренней свободой: воздушная тема и паузы отделяют память от настоящего. 3) Финальные эпизоды: Сдержанная фонограмма усиливает одиночество героини без прямого объяснения.",
-        "Сцены с голосом за кадром и стихами: Голос не объясняет сюжет, а соединяет разные времена. Звук здесь становится монтажной связью между детством, матерью, сном и настоящим.",
-        "Бальные сцены: Музыка, шаги, речь и акустика зала показывают социальный порядок и ритуал.",
-        "Сцены покаяния: Сдержанная фонограмма помогает удержать внутренний конфликт героя."
-      ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.",
-      "tags": [
-        "разбор сцен",
-        "фильм",
-        "Крылья"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00050",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Крылья» (реж. Лариса Шепитько, 1966) в сцене: Сцены школы?",
-      "answer": "Бытовая акустика школы и разговорные интонации показывают героиню в обычной среде, где её прошлое почти не слышно окружающим.",
-      "choices": [
-        "Бытовая акустика школы и разговорные интонации показывают героиню в обычной среде, где её прошлое почти не слышно окружающим.",
-        "Сцены с детьми и бытовыми деталями: Контраст обычной жизни и исторического ужаса создаёт сильнее впечатление, чем прямое нагнетание.",
-        "Сцены хроники с авторским комментарием: Голос Ромма не пересказывает кадр, а вступает с ним в спор: интонация анализа разрушает пафос фашистской хроники.",
-        "Камерные разговоры: После массовых сцен тихая речь меняет масштаб фильма и возвращает внимание к человеку."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Крылья"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00051",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Крылья» (реж. Лариса Шепитько, 1966) в сцене: Сцены воспоминаний о полёте?",
-      "answer": "Звук связан с внутренней свободой: воздушная тема и паузы отделяют память от настоящего.",
-      "choices": [
-        "Звук связан с внутренней свободой: воздушная тема и паузы отделяют память от настоящего.",
-        "Сцены романсов: Романс звучит как часть драматургии: он выражает чувство, но одновременно показывает социальную игру вокруг Ларисы.",
-        "Сцены у воды и монастыря: Вода, колокол, ветер и редкие голоса создают духовную среду без прямого объяснения.",
-        "Сцены на космической станции: Гул станции, редкие технические шумы и паузы создают замкнутое пространство. Звук делает станцию чужой и психологически давящей."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Крылья"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00052",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Крылья» (реж. Лариса Шепитько, 1966) в сцене: Финальные эпизоды?",
-      "answer": "Сдержанная фонограмма усиливает одиночество героини без прямого объяснения.",
-      "choices": [
-        "Сдержанная фонограмма усиливает одиночество героини без прямого объяснения.",
-        "Сцены в квартире профессора: Закрытая акустика комнаты усиливает неловкость и социальную дистанцию.",
-        "Сцены деревни перед уничтожением: Бытовые голоса, шум толпы и нарастающая акустическая плотность превращают пространство в ловушку.",
-        "Финальное выступление: Песня превращается в публичное высказывание: звук выходит за рамки сюжета и становится знаком перемен."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Крылья"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00053",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Выбери лучший мини-план звукозрительного анализа фильма «Курьер» (реж. Карен Шахназаров, 1986).",
-      "answer": "1) Сцены разговоров Ивана со взрослыми: Речевая интонация важнее действия: юмор, паузы и перебивания показывают конфликт поколений. 2) Сцены городской среды: Музыка, шум улицы и бытовые фоны дают ощущение позднесоветской Москвы. 3) Сцены в квартире профессора: Закрытая акустика комнаты усиливает неловкость и социальную дистанцию.",
-      "choices": [
-        "1) Сцены разговоров Ивана со взрослыми: Речевая интонация важнее действия: юмор, паузы и перебивания показывают конфликт поколений. 2) Сцены городской среды: Музыка, шум улицы и бытовые фоны дают ощущение позднесоветской Москвы. 3) Сцены в квартире профессора: Закрытая акустика комнаты усиливает неловкость и социальную дистанцию.",
-        "Сцена оглушения после взрыва: Субъективный слух героя выходит на первый план: мир звучит искажённо, глухо, с давлением. Так зритель слышит не событие со стороны, а травму внутри персонажа.",
-        "Сцены городской среды: Музыка, шум улицы и бытовые фоны дают ощущение позднесоветской Москвы.",
-        "Сцены бомбёжки и лестницы: Ритм движения, шум разрушения и монтажный темп передают внутренний слом героини."
-      ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.",
-      "tags": [
-        "разбор сцен",
-        "фильм",
-        "Курьер"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00054",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Курьер» (реж. Карен Шахназаров, 1986) в сцене: Сцены разговоров Ивана со взрослыми?",
-      "answer": "Речевая интонация важнее действия: юмор, паузы и перебивания показывают конфликт поколений.",
-      "choices": [
-        "Речевая интонация важнее действия: юмор, паузы и перебивания показывают конфликт поколений.",
-        "Сцены прогулки по городу: Шум улицы, лёгкая музыка и разговоры создают ощущение открытого городского пространства.",
-        "Сцены в квартире профессора: Закрытая акустика комнаты усиливает неловкость и социальную дистанцию.",
-        "Сцены молитвы: Голос и паузы работают как действие, а не как украшение религиозной темы."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Курьер"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00055",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Курьер» (реж. Карен Шахназаров, 1986) в сцене: Сцены городской среды?",
-      "answer": "Музыка, шум улицы и бытовые фоны дают ощущение позднесоветской Москвы.",
-      "choices": [
-        "Музыка, шум улицы и бытовые фоны дают ощущение позднесоветской Москвы.",
-        "Сцены переправы и разведки: Вода и ночная акустика делают пространство неопределённым: зритель слышит опасность раньше, чем видит её.",
-        "Ключевые сцены решения героини: Звук сдержан, поэтому внимание переходит на действие, паузу и бытовую деталь.",
-        "Сцены с Хари: Сдержанная фонограмма, паузы и мягкая речевая динамика смещают фантастику в сторону внутренней драмы Криса."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Курьер"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00056",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Курьер» (реж. Карен Шахназаров, 1986) в сцене: Сцены в квартире профессора?",
-      "answer": "Закрытая акустика комнаты усиливает неловкость и социальную дистанцию.",
-      "choices": [
-        "Закрытая акустика комнаты усиливает неловкость и социальную дистанцию.",
-        "Сцены метро и улиц: Городские фоны работают как образ Москвы: живой, лёгкой, движущейся.",
-        "Сцена Ледового побоища: Музыка Прокофьева, хор, ритм движения войска и шум битвы создают эпический масштаб. Звук организует не бытовую достоверность, а исторический миф.",
-        "Сцены покаяния: Сдержанная фонограмма помогает удержать внутренний конфликт героя."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Курьер"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00057",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Выбери лучший мини-план звукозрительного анализа фильма «Я шагаю по Москве» (реж. Георгий Данелия, 1963).",
-      "answer": "1) Сцены прогулки по городу: Шум улицы, лёгкая музыка и разговоры создают ощущение открытого городского пространства. 2) Сцена песни: Песня не останавливает действие, а собирает лирическое настроение фильма. 3) Сцены метро и улиц: Городские фоны работают как образ Москвы: живой, лёгкой, движущейся.",
-      "choices": [
-        "1) Сцены прогулки по городу: Шум улицы, лёгкая музыка и разговоры создают ощущение открытого городского пространства. 2) Сцена песни: Песня не останавливает действие, а собирает лирическое настроение фильма. 3) Сцены метро и улиц: Городские фоны работают как образ Москвы: живой, лёгкой, движущейся.",
-        "Сцены дороги: Поезда, шаги, фоны станций и короткие разговоры создают лирический ритм пути.",
-        "Сцены массовых шествий: Шум толпы и архивная музыка показывают механизм массового заражения, а комментарий возвращает критическую дистанцию.",
-        "Финальная сцена: Музыка, речевая сдержанность и паузы усиливают трагический итог. Звук не иллюстрирует смерть, а фиксирует слом человеческого достоинства."
-      ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.",
-      "tags": [
-        "разбор сцен",
-        "фильм",
-        "Я шагаю по Москве"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00058",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Я шагаю по Москве» (реж. Георгий Данелия, 1963) в сцене: Сцены прогулки по городу?",
-      "answer": "Шум улицы, лёгкая музыка и разговоры создают ощущение открытого городского пространства.",
-      "choices": [
-        "Шум улицы, лёгкая музыка и разговоры создают ощущение открытого городского пространства.",
-        "Монологи Гамлета: Речевая интонация и паузы работают как внутренняя борьба, а не просто декламация текста.",
-        "Сцена с пожаром сарая: Треск огня, ветер и человеческие голоса работают не как бытовой фон, а как звук памяти: изображение держит взгляд на событии, а фонограмма делает его тревожным и почти сновидческим.",
-        "Бальные сцены: Музыка, шаги, речь и акустика зала показывают социальный порядок и ритуал."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Я шагаю по Москве"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00059",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Я шагаю по Москве» (реж. Георгий Данелия, 1963) в сцене: Сцена песни?",
-      "answer": "Песня не останавливает действие, а собирает лирическое настроение фильма.",
-      "choices": [
-        "Песня не останавливает действие, а собирает лирическое настроение фильма.",
-        "Сцены дороги: Поезда, шаги, фоны станций и короткие разговоры создают лирический ритм пути.",
-        "Сцены бомбёжки и лестницы: Ритм движения, шум разрушения и монтажный темп передают внутренний слом героини.",
-        "Монологи Гамлета: Речевая интонация и паузы работают как внутренняя борьба, а не просто декламация текста."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Я шагаю по Москве"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00060",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Я шагаю по Москве» (реж. Георгий Данелия, 1963) в сцене: Сцены метро и улиц?",
-      "answer": "Городские фоны работают как образ Москвы: живой, лёгкой, движущейся.",
-      "choices": [
-        "Городские фоны работают как образ Москвы: живой, лёгкой, движущейся.",
-        "Сцены дождя, ветра, воды и шелеста травы: Природные звуки создают не просто пейзаж, а внутреннее состояние. Они часто важнее действия, потому что удерживают ощущение памяти и ожидания.",
-        "Финальная сцена: Музыка, речевая сдержанность и паузы усиливают трагический итог. Звук не иллюстрирует смерть, а фиксирует слом человеческого достоинства.",
-        "Сцены народного сбора: Хоровое и массовое звучание подчёркивает коллективный характер действия."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Я шагаю по Москве"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "directors"
-    },
-    {
-      "id": "VGIK-V4-00061",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Выбери лучший мини-план звукозрительного анализа фильма «Гамлет» (реж. Григорий Козинцев, 1964).",
-      "answer": "1) Сцены у моря и замка: Море, ветер, шаги по камню и музыка создают холодное трагическое пространство. 2) Монологи Гамлета: Речевая интонация и паузы работают как внутренняя борьба, а не просто декламация текста. 3) Сцены двора: Музыка и пространственная акустика подчёркивают власть, ритуал и отчуждение.",
-      "choices": [
-        "1) Сцены у моря и замка: Море, ветер, шаги по камню и музыка создают холодное трагическое пространство. 2) Монологи Гамлета: Речевая интонация и паузы работают как внутренняя борьба, а не просто декламация текста. 3) Сцены двора: Музыка и пространственная акустика подчёркивают власть, ритуал и отчуждение.",
-        "Сцены с детьми и бытовыми деталями: Контраст обычной жизни и исторического ужаса создаёт сильнее впечатление, чем прямое нагнетание.",
-        "Камерные разговоры: После массовых сцен тихая речь меняет масштаб фильма и возвращает внимание к человеку.",
-        "Военные сцены: Резкие шумы, тишина перед опасностью и короткие команды создают напряжение фронтового пространства."
-      ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.",
-      "tags": [
-        "разбор сцен",
-        "фильм",
-        "Гамлет"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00062",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Гамлет» (реж. Григорий Козинцев, 1964) в сцене: Сцены у моря и замка?",
-      "answer": "Море, ветер, шаги по камню и музыка создают холодное трагическое пространство.",
-      "choices": [
-        "Море, ветер, шаги по камню и музыка создают холодное трагическое пространство.",
-        "Сцены бомбёжки и лестницы: Ритм движения, шум разрушения и монтажный темп передают внутренний слом героини.",
-        "Сцены метро и улиц: Городские фоны работают как образ Москвы: живой, лёгкой, движущейся.",
-        "Сцены поездок: Городской шум и транспорт разделяют миры героев: обеспеченный и бедный."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Гамлет"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00063",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Гамлет» (реж. Григорий Козинцев, 1964) в сцене: Монологи Гамлета?",
-      "answer": "Речевая интонация и паузы работают как внутренняя борьба, а не просто декламация текста.",
-      "choices": [
-        "Речевая интонация и паузы работают как внутренняя борьба, а не просто декламация текста.",
-        "Сцена проводов и движения толпы: Голоса, шум толпы и музыка создают эмоциональный хаос расставания.",
-        "Военные эпизоды: Фронтовые шумы не подавляют фильм, а контрастируют с тихой человеческой историей.",
-        "Сцены разговоров Ивана со взрослыми: Речевая интонация важнее действия: юмор, паузы и перебивания показывают конфликт поколений."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Гамлет"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00064",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Гамлет» (реж. Григорий Козинцев, 1964) в сцене: Сцены двора?",
-      "answer": "Музыка и пространственная акустика подчёркивают власть, ритуал и отчуждение.",
-      "choices": [
-        "Музыка и пространственная акустика подчёркивают власть, ритуал и отчуждение.",
-        "Бальные сцены: Музыка, шаги, речь и акустика зала показывают социальный порядок и ритуал.",
-        "Сцены разговоров в купеческом кругу: Речь важнее громких эффектов: интонации, паузы и перебивания показывают власть, цену человека и давление общества.",
-        "Сцены с резкими перебиваниями: Голоса не выстраивают диалог, а сталкиваются. Звук показывает распад коммуникации."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Гамлет"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00065",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Выбери лучший мини-план звукозрительного анализа фильма «Война и мир» (реж. Сергей Бондарчук, 1965-1967).",
-      "answer": "1) Батальные сцены: Массовый шум, музыка, команды, копыта и выстрелы создают масштаб исторического события. 2) Бальные сцены: Музыка, шаги, речь и акустика зала показывают социальный порядок и ритуал. 3) Камерные разговоры: После массовых сцен тихая речь меняет масштаб фильма и возвращает внимание к человеку.",
-      "choices": [
-        "1) Батальные сцены: Массовый шум, музыка, команды, копыта и выстрелы создают масштаб исторического события. 2) Бальные сцены: Музыка, шаги, речь и акустика зала показывают социальный порядок и ритуал. 3) Камерные разговоры: После массовых сцен тихая речь меняет масштаб фильма и возвращает внимание к человеку.",
-        "Сцены общения слышащих и глухих персонажей: Фильм делает звук границей между мирами: важны не только слова, но жест, ритм тела и неполное слышание.",
-        "Камерные разговоры: После массовых сцен тихая речь меняет масштаб фильма и возвращает внимание к человеку.",
-        "Сцены метро и улиц: Городские фоны работают как образ Москвы: живой, лёгкой, движущейся."
-      ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.",
-      "tags": [
-        "разбор сцен",
-        "фильм",
-        "Война и мир"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00066",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Война и мир» (реж. Сергей Бондарчук, 1965-1967) в сцене: Батальные сцены?",
-      "answer": "Массовый шум, музыка, команды, копыта и выстрелы создают масштаб исторического события.",
-      "choices": [
-        "Массовый шум, музыка, команды, копыта и выстрелы создают масштаб исторического события.",
-        "Сцены у воды: Вода звучит как пространство испытания и угрозы, а не как красивый пейзаж.",
-        "Сцены народного сбора: Хоровое и массовое звучание подчёркивает коллективный характер действия.",
-        "Сцена невесомости: Музыка и плавность движения создают не физический аттракцион, а состояние остановленного времени и хрупкой памяти."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Война и мир"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00067",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Война и мир» (реж. Сергей Бондарчук, 1965-1967) в сцене: Бальные сцены?",
-      "answer": "Музыка, шаги, речь и акустика зала показывают социальный порядок и ритуал.",
-      "choices": [
-        "Музыка, шаги, речь и акустика зала показывают социальный порядок и ритуал.",
-        "Сцены с животными и документальной фактурой: Натуральные шумы и резкие переходы ломают комфорт зрителя и делают фонограмму нервной.",
-        "Сцены квартиры: Тихие бытовые шумы, шаги, техника и паузы создают холодное социальное пространство.",
-        "Сцены у воды: Вода звучит как пространство испытания и угрозы, а не как красивый пейзаж."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Война и мир"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00068",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Война и мир» (реж. Сергей Бондарчук, 1965-1967) в сцене: Камерные разговоры?",
-      "answer": "После массовых сцен тихая речь меняет масштаб фильма и возвращает внимание к человеку.",
-      "choices": [
-        "После массовых сцен тихая речь меняет масштаб фильма и возвращает внимание к человеку.",
-        "Монологи Гамлета: Речевая интонация и паузы работают как внутренняя борьба, а не просто декламация текста.",
-        "Сцены городского шума и очередей: Речевая плотность, крики и бытовой шум создают ощущение усталого общества, где люди перестают слышать друг друга.",
-        "Финальные сцены с фотографией Гитлера: Звук и монтаж работают как историческая память: не просто показывают эмоцию героя, а соединяют личную травму с масштабом войны."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Война и мир"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00069",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Выбери лучший мини-план звукозрительного анализа фильма «Остров» (реж. Павел Лунгин, 2006).",
-      "answer": "1) Сцены у воды и монастыря: Вода, колокол, ветер и редкие голоса создают духовную среду без прямого объяснения. 2) Сцены молитвы: Голос и паузы работают как действие, а не как украшение религиозной темы. 3) Сцены покаяния: Сдержанная фонограмма помогает удержать внутренний конфликт героя.",
-      "choices": [
-        "1) Сцены у воды и монастыря: Вода, колокол, ветер и редкие голоса создают духовную среду без прямого объяснения. 2) Сцены молитвы: Голос и паузы работают как действие, а не как украшение религиозной темы. 3) Сцены покаяния: Сдержанная фонограмма помогает удержать внутренний конфликт героя.",
-        "Финальное выступление: Песня превращается в публичное высказывание: звук выходит за рамки сюжета и становится знаком перемен.",
-        "Сцены курортной среды: Бытовой шум, разговоры и музыка показывают смешение частной жизни, криминальной атмосферы и культурного сдвига.",
-        "Сцена Ледового побоища: Музыка Прокофьева, хор, ритм движения войска и шум битвы создают эпический масштаб. Звук организует не бытовую достоверность, а исторический миф."
-      ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.",
-      "tags": [
-        "разбор сцен",
-        "фильм",
-        "Остров"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00070",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Остров» (реж. Павел Лунгин, 2006) в сцене: Сцены у воды и монастыря?",
-      "answer": "Вода, колокол, ветер и редкие голоса создают духовную среду без прямого объяснения.",
-      "choices": [
-        "Вода, колокол, ветер и редкие голоса создают духовную среду без прямого объяснения.",
-        "Сцены городской среды: Музыка, шум улицы и бытовые фоны дают ощущение позднесоветской Москвы.",
-        "Сцены дороги: Паузы, шум машины, ветер и редкие реплики создают напряжение между отцом и детьми.",
-        "Финал: Сдержанная фонограмма не объясняет эмоцию, а оставляет зрителя в состоянии недоговорённости."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Остров"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00071",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Остров» (реж. Павел Лунгин, 2006) в сцене: Сцены молитвы?",
-      "answer": "Голос и паузы работают как действие, а не как украшение религиозной темы.",
-      "choices": [
-        "Голос и паузы работают как действие, а не как украшение религиозной темы.",
-        "Сцена с пожаром сарая: Треск огня, ветер и человеческие голоса работают не как бытовой фон, а как звук памяти: изображение держит взгляд на событии, а фонограмма делает его тревожным и почти сновидческим.",
-        "Сцены городского шума и очередей: Речевая плотность, крики и бытовой шум создают ощущение усталого общества, где люди перестают слышать друг друга.",
-        "Лирические сцены Бориса и Вероники: Музыка и городские фоны работают мягче, создавая контраст с военным шумом."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Остров"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00072",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Остров» (реж. Павел Лунгин, 2006) в сцене: Сцены покаяния?",
-      "answer": "Сдержанная фонограмма помогает удержать внутренний конфликт героя.",
-      "choices": [
-        "Сдержанная фонограмма помогает удержать внутренний конфликт героя.",
-        "Сцены школы: Бытовая акустика школы и разговорные интонации показывают героиню в обычной среде, где её прошлое почти не слышно окружающим.",
-        "Сцены в квартире профессора: Закрытая акустика комнаты усиливает неловкость и социальную дистанцию.",
-        "Сцены дороги: Паузы, шум машины, ветер и редкие реплики создают напряжение между отцом и детьми."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Остров"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00073",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Выбери лучший мини-план звукозрительного анализа фильма «Страна глухих» (реж. Валерий Тодоровский, 1998).",
-      "answer": "1) Сцены общения слышащих и глухих персонажей: Фильм делает звук границей между мирами: важны не только слова, но жест, ритм тела и неполное слышание. 2) Сцены танца и музыки: Музыка работает телесно: её можно воспринимать через движение, а не только через слух. 3) Городские сцены: Шум города подчёркивает социальную опасность и разрыв между персонажами.",
-      "choices": [
-        "1) Сцены общения слышащих и глухих персонажей: Фильм делает звук границей между мирами: важны не только слова, но жест, ритм тела и неполное слышание. 2) Сцены танца и музыки: Музыка работает телесно: её можно воспринимать через движение, а не только через слух. 3) Городские сцены: Шум города подчёркивает социальную опасность и разрыв между персонажами.",
-        "Военные эпизоды: Фронтовые шумы не подавляют фильм, а контрастируют с тихой человеческой историей.",
-        "Камерные разговоры: После массовых сцен тихая речь меняет масштаб фильма и возвращает внимание к человеку.",
-        "Сцены молитвы: Голос и паузы работают как действие, а не как украшение религиозной темы."
-      ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.",
-      "tags": [
-        "разбор сцен",
-        "фильм",
-        "Страна глухих"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00074",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Страна глухих» (реж. Валерий Тодоровский, 1998) в сцене: Сцены общения слышащих и глухих персонажей?",
-      "answer": "Фильм делает звук границей между мирами: важны не только слова, но жест, ритм тела и неполное слышание.",
-      "choices": [
-        "Фильм делает звук границей между мирами: важны не только слова, но жест, ритм тела и неполное слышание.",
-        "Сцены поездок: Городской шум и транспорт разделяют миры героев: обеспеченный и бедный.",
-        "Сцены сна: Звук воды, леса и мягких движений отделяет мир детства от войны. Фонограмма работает как память о невозможной нормальной жизни.",
-        "Сцены курортной среды: Бытовой шум, разговоры и музыка показывают смешение частной жизни, криминальной атмосферы и культурного сдвига."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Страна глухих"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00075",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Страна глухих» (реж. Валерий Тодоровский, 1998) в сцене: Сцены танца и музыки?",
-      "answer": "Музыка работает телесно: её можно воспринимать через движение, а не только через слух.",
-      "choices": [
-        "Музыка работает телесно: её можно воспринимать через движение, а не только через слух.",
-        "Сцены молчания Рублева: Отказ от речи становится драматургическим решением: звук мира остаётся, а голос героя исчезает.",
-        "Сцены в квартире профессора: Закрытая акустика комнаты усиливает неловкость и социальную дистанцию.",
-        "Появление немецких рыцарей: Жёсткая музыкальная и ритмическая характеристика делает противника не просто группой людей, а механической угрозой."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Страна глухих"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00076",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Страна глухих» (реж. Валерий Тодоровский, 1998) в сцене: Городские сцены?",
-      "answer": "Шум города подчёркивает социальную опасность и разрыв между персонажами.",
-      "choices": [
-        "Шум города подчёркивает социальную опасность и разрыв между персонажами.",
-        "Сцена оглушения после взрыва: Субъективный слух героя выходит на первый план: мир звучит искажённо, глухо, с давлением. Так зритель слышит не событие со стороны, а травму внутри персонажа.",
-        "Монологи Гамлета: Речевая интонация и паузы работают как внутренняя борьба, а не просто декламация текста.",
-        "Сцены танца и музыки: Музыка работает телесно: её можно воспринимать через движение, а не только через слух."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Страна глухих"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00077",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Выбери лучший мини-план звукозрительного анализа фильма «Возвращение» (реж. Андрей Звягинцев, 2003).",
-      "answer": "1) Сцены дороги: Паузы, шум машины, ветер и редкие реплики создают напряжение между отцом и детьми. 2) Сцены у воды: Вода звучит как пространство испытания и угрозы, а не как красивый пейзаж. 3) Финал: Сдержанная фонограмма не объясняет эмоцию, а оставляет зрителя в состоянии недоговорённости.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-      "choices": [
-        "1) Сцены дороги: Паузы, шум машины, ветер и редкие реплики создают напряжение между отцом и детьми. 2) Сцены у воды: Вода звучит как пространство испытания и угрозы, а не как красивый пейзаж. 3) Финал: Сдержанная фонограмма не объясняет эмоцию, а оставляет зрителя в состоянии недоговорённости.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-        "Сцены молитвы: Голос и паузы работают как действие, а не как украшение религиозной темы.",
-        "Сцены у воды и монастыря: Вода, колокол, ветер и редкие голоса создают духовную среду без прямого объяснения.",
-        "Сцены в квартире профессора: Закрытая акустика комнаты усиливает неловкость и социальную дистанцию."
-      ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S.",
-      "tags": [
-        "разбор сцен",
-        "фильм",
-        "Возвращение"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-V4-00078",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Возвращение» (реж. Андрей Звягинцев, 2003) в сцене: Сцены дороги?",
-      "answer": "Паузы, шум машины, ветер и редкие реплики создают напряжение между отцом и детьми.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
-      "choices": [
-        "Паузы, шум машины, ветер и редкие реплики создают напряжение между отцом и детьми.\n\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
-        "Сцены поездок: Городской шум и транспорт разделяют миры героев: обеспеченный и бедный.",
-        "Монологи Гамлета: Речевая интонация и паузы работают как внутренняя борьба, а не просто декламация текста.",
-        "Сцены деревни перед уничтожением: Бытовые голоса, шум толпы и нарастающая акустическая плотность превращают пространство в ловушку."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.\nФормулы: v = λf; T = 1/f; ω = 2πf; I = U/R; P = UI = I²R = U²/R; R = ρl/S; F = ma.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Возвращение"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "physics"
-    },
-    {
-      "id": "VGIK-V4-00079",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Возвращение» (реж. Андрей Звягинцев, 2003) в сцене: Сцены у воды?",
-      "answer": "Вода звучит как пространство испытания и угрозы, а не как красивый пейзаж.",
-      "choices": [
-        "Вода звучит как пространство испытания и угрозы, а не как красивый пейзаж.",
-        "Появление немецких рыцарей: Жёсткая музыкальная и ритмическая характеристика делает противника не просто группой людей, а механической угрозой.",
-        "Сцены хроники с авторским комментарием: Голос Ромма не пересказывает кадр, а вступает с ним в спор: интонация анализа разрушает пафос фашистской хроники.",
-        "Финал: Сдержанная фонограмма не объясняет эмоцию, а оставляет зрителя в состоянии недоговорённости."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Возвращение"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00080",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Возвращение» (реж. Андрей Звягинцев, 2003) в сцене: Финал?",
-      "answer": "Сдержанная фонограмма не объясняет эмоцию, а оставляет зрителя в состоянии недоговорённости.",
-      "choices": [
-        "Сдержанная фонограмма не объясняет эмоцию, а оставляет зрителя в состоянии недоговорённости.",
-        "Сцены с животными и документальной фактурой: Натуральные шумы и резкие переходы ломают комфорт зрителя и делают фонограмму нервной.",
-        "Сцена невесомости: Музыка и плавность движения создают не физический аттракцион, а состояние остановленного времени и хрупкой памяти.",
-        "Сцены сна: Звук воды, леса и мягких движений отделяет мир детства от войны. Фонограмма работает как память о невозможной нормальной жизни."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Возвращение"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00081",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Выбери лучший мини-план звукозрительного анализа фильма «Елена» (реж. Андрей Звягинцев, 2011).",
-      "answer": "1) Сцены квартиры: Тихие бытовые шумы, шаги, техника и паузы создают холодное социальное пространство. 2) Сцены поездок: Городской шум и транспорт разделяют миры героев: обеспеченный и бедный. 3) Ключевые сцены решения героини: Звук сдержан, поэтому внимание переходит на действие, паузу и бытовую деталь.",
-      "choices": [
-        "1) Сцены квартиры: Тихие бытовые шумы, шаги, техника и паузы создают холодное социальное пространство. 2) Сцены поездок: Городской шум и транспорт разделяют миры героев: обеспеченный и бедный. 3) Ключевые сцены решения героини: Звук сдержан, поэтому внимание переходит на действие, паузу и бытовую деталь.",
-        "Сцены бомбёжки и лестницы: Ритм движения, шум разрушения и монтажный темп передают внутренний слом героини.",
-        "Ключевые сцены решения героини: Звук сдержан, поэтому внимание переходит на действие, паузу и бытовую деталь.",
-        "Камерные разговоры: После массовых сцен тихая речь меняет масштаб фильма и возвращает внимание к человеку."
-      ],
-      "explanation": "В ответе названы конкретные сцены и указано, как в них работают речь, шумы, музыка, паузы или пространство.",
-      "tags": [
-        "разбор сцен",
-        "фильм",
-        "Елена"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00082",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Елена» (реж. Андрей Звягинцев, 2011) в сцене: Сцены квартиры?",
-      "answer": "Тихие бытовые шумы, шаги, техника и паузы создают холодное социальное пространство.",
-      "choices": [
-        "Тихие бытовые шумы, шаги, техника и паузы создают холодное социальное пространство.",
-        "Финал: Сдержанная фонограмма не объясняет эмоцию, а оставляет зрителя в состоянии недоговорённости.",
-        "Сцены молчания Рублева: Отказ от речи становится драматургическим решением: звук мира остаётся, а голос героя исчезает.",
-        "Сцены массовых шествий: Шум толпы и архивная музыка показывают механизм массового заражения, а комментарий возвращает критическую дистанцию."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Елена"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00083",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Елена» (реж. Андрей Звягинцев, 2011) в сцене: Сцены поездок?",
-      "answer": "Городской шум и транспорт разделяют миры героев: обеспеченный и бедный.",
-      "choices": [
-        "Городской шум и транспорт разделяют миры героев: обеспеченный и бедный.",
-        "Сцены у воды: Вода звучит как пространство испытания и угрозы, а не как красивый пейзаж.",
-        "Сцены у моря и замка: Море, ветер, шаги по камню и музыка создают холодное трагическое пространство.",
-        "Сцены общения слышащих и глухих персонажей: Фильм делает звук границей между мирами: важны не только слова, но жест, ритм тела и неполное слышание."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Елена"
-      ],
-      "source": "v4_curated_scene_bank",
-      "category": "scenes"
-    },
-    {
-      "id": "VGIK-V4-00084",
-      "topic": "FILM_SCENE_DETAILED",
-      "topic_name": "Разбор сцен",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как звук работает в фильме «Елена» (реж. Андрей Звягинцев, 2011) в сцене: Ключевые сцены решения героини?",
-      "answer": "Звук сдержан, поэтому внимание переходит на действие, паузу и бытовую деталь.",
-      "choices": [
-        "Звук сдержан, поэтому внимание переходит на действие, паузу и бытовую деталь.",
-        "Сцены с голосом за кадром и стихами: Голос не объясняет сюжет, а соединяет разные времена. Звук здесь становится монтажной связью между детством, матерью, сном и настоящим.",
-        "Военные сцены: Резкие шумы, тишина перед опасностью и короткие команды создают напряжение фронтового пространства.",
-        "Военные эпизоды: Фронтовые шумы не подавляют фильм, а контрастируют с тихой человеческой историей."
-      ],
-      "explanation": "Вариант должен объяснять функцию звука, а не пересказывать действие.",
-      "tags": [
-        "разбор сцен",
-        "звук",
-        "Елена"
-      ],
-      "source": "v4_curated_scene_bank",
       "category": "scenes"
     },
     {
@@ -14150,466 +10229,6 @@ window.VGIK_DB = {
       "source": "v8_curated_bank"
     },
     {
-      "id": "VGIK-V8-00029",
-      "topic": "KNOWN_FILMS_SOUND",
-      "topic_name": "Известные фильмы",
-      "category": "known",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Какой звукозрительный разбор лучше подходит к фильму «Брат» (реж. Алексей Балабанов, 1997)?",
-      "answer": "1) переезды Данилы по Петербургу: городские шумы, подъезды, транспорт и уличная акустика создают холодное пространство 1990-х 2) сцены с музыкой Наутилуса: песни работают как внутренняя интонация героя и поколения, а не просто фон 3) криминальные эпизоды: резкие звуки, короткие реплики и паузы делают насилие сухим и бытовым",
-      "choices": [
-        "пустыня Плюка: ветер, паузы и странные речевые звуки создают чужой мир слова ку и кю: речь превращается в социальный код и сатирический звуковой знак эпизоды с пепелацем: технические шумы и минимальная музыка поддерживают абсурд фантастической среды",
-        "1) переезды Данилы по Петербургу: городские шумы, подъезды, транспорт и уличная акустика создают холодное пространство 1990-х 2) сцены с музыкой Наутилуса: песни работают как внутренняя интонация героя и поколения, а не просто фон 3) криминальные эпизоды: резкие звуки, короткие реплики и паузы делают насилие сухим и бытовым",
-        "дворы и ЖЭК: бытовые шумы, голоса жильцов и рабочая среда создают комедийный реализм разговоры Афони: интонация героя показывает браваду и внутреннюю пустоту лирические сцены: музыка и паузы меняют тон с комедии на человеческую тоску",
-        "сцены похищения: музыка, крики, движение и быстрые реплики делают действие комедийным аттракционом тосты и песни: звуковая среда праздника превращается в сатиру на обычаи и власть погони: ритм музыки и шум движения держат комедийный темп"
-      ],
-      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
-      "tags": [
-        "известные фильмы",
-        "разбор сцен",
-        "звук"
-      ],
-      "source": "v8_curated_bank"
-    },
-    {
-      "id": "VGIK-V8-00030",
-      "topic": "KNOWN_FILMS_SOUND",
-      "topic_name": "Известные фильмы",
-      "category": "known",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Какие сцены стоит назвать комиссии по фильму «Брат 2» (реж. Алексей Балабанов, 2000)?",
-      "answer": "1) сцены Москвы и Америки: разный городской шум показывает смену пространства и культурной среды 2) музыкальные эпизоды: рок-песни становятся комментарием к герою и времени 3) финальные силовые сцены: выстрелы и короткие реплики поданы жестко, без лишней психологической музыки",
-      "choices": [
-        "сцены похищения: музыка, крики, движение и быстрые реплики делают действие комедийным аттракционом тосты и песни: звуковая среда праздника превращается в сатиру на обычаи и власть погони: ритм музыки и шум движения держат комедийный темп",
-        "экзаменационные сцены: шёпот, паузы и мелкие шумы создают комедию напряжения стройка: рабочие шумы и темп движения делают физическую комедию точной складская новелла: шаги, скрипы и музыка работают как почти немая комедия",
-        "1) сцены Москвы и Америки: разный городской шум показывает смену пространства и культурной среды 2) музыкальные эпизоды: рок-песни становятся комментарием к герою и времени 3) финальные силовые сцены: выстрелы и короткие реплики поданы жестко, без лишней психологической музыки",
-        "грузинские горные сцены: пространственные фоны, голоса и музыка создают родной мир героя московские сцены: городской шум и речь контрастируют с горной акустикой сцены телефонных разговоров: голос на расстоянии показывает тоску по дому"
-      ],
-      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
-      "tags": [
-        "известные фильмы",
-        "разбор сцен",
-        "звук"
-      ],
-      "source": "v8_curated_bank"
-    },
-    {
-      "id": "VGIK-V8-00031",
-      "topic": "KNOWN_FILMS_SOUND",
-      "topic_name": "Известные фильмы",
-      "category": "known",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как связать звук и драматургию в фильме «Игла» (реж. Рашид Нугманов, 1988)?",
-      "answer": "1) появление Моро: музыка Виктора Цоя задаёт холодную отстранённость героя 2) городские сцены Алма-Аты: ветер, улица, пустые пространства и музыка создают ощущение позднесоветской пустоты 3) конфликтные эпизоды: сдержанный звук и паузы делают угрозу сухой и почти ритуальной",
-      "choices": [
-        "сцены Москвы и Америки: разный городской шум показывает смену пространства и культурной среды музыкальные эпизоды: рок-песни становятся комментарием к герою и времени финальные силовые сцены: выстрелы и короткие реплики поданы жестко, без лишней психологической музыки",
-        "1) появление Моро: музыка Виктора Цоя задаёт холодную отстранённость героя 2) городские сцены Алма-Аты: ветер, улица, пустые пространства и музыка создают ощущение позднесоветской пустоты 3) конфликтные эпизоды: сдержанный звук и паузы делают угрозу сухой и почти ритуальной",
-        "станция: гул, технические шумы и паузы создают замкнутое психологическое пространство сцены с Хари: сдержанная речь и тишина переводят фантастику в драму памяти невесомость: музыка и плавность движения создают ощущение остановленного времени",
-        "сцены с переодеванием заведующего: интонация речи становится главным комедийным инструментом тюремно-криминальная среда: жаргон, тембр голосов и паузы создают комедию социальных масок погони и бытовые эпизоды: музыка и шум движения поддерживают лёгкий приключенческий ритм"
-      ],
-      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
-      "tags": [
-        "известные фильмы",
-        "разбор сцен",
-        "звук"
-      ],
-      "source": "v8_curated_bank"
-    },
-    {
-      "id": "VGIK-V8-00032",
-      "topic": "KNOWN_FILMS_SOUND",
-      "topic_name": "Известные фильмы",
-      "category": "known",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Что говорить о звуке в фильме «Москва слезам не верит» (реж. Владимир Меньшов, 1979)?",
-      "answer": "1) общежитие и молодая Москва: голоса, бытовые шумы и музыка создают социальную среду героинь 2) переход во взрослую жизнь: изменение звуковой среды показывает другую Москву и другой статус героини 3) личные разговоры Катерины и Гоши: паузы и интонации важнее эффекта, потому что конфликт строится на доверии",
-      "choices": [
-        "работа машины времени: технический шум и музыкальные акценты создают комедийную фантастику царские палаты: речевая манера и музыка пародируют исторический жанр квартирные сцены: бытовые шумы и быстрые реплики держат фарсовый темп",
-        "1) общежитие и молодая Москва: голоса, бытовые шумы и музыка создают социальную среду героинь 2) переход во взрослую жизнь: изменение звуковой среды показывает другую Москву и другой статус героини 3) личные разговоры Катерины и Гоши: паузы и интонации важнее эффекта, потому что конфликт строится на доверии",
-        "контрабандная сцена с гипсом: шум падения, крики и темп реплик строят комический механизм песенные номера: музыка работает как жанровая маска и сатирический комментарий финальные погони: ритм шумов, реплик и музыки собирает аттракцион",
-        "грузинские горные сцены: пространственные фоны, голоса и музыка создают родной мир героя московские сцены: городской шум и речь контрастируют с горной акустикой сцены телефонных разговоров: голос на расстоянии показывает тоску по дому"
-      ],
-      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
-      "tags": [
-        "известные фильмы",
-        "разбор сцен",
-        "звук"
-      ],
-      "source": "v8_curated_bank"
-    },
-    {
-      "id": "VGIK-V8-00033",
-      "topic": "KNOWN_FILMS_SOUND",
-      "topic_name": "Известные фильмы",
-      "category": "known",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Какой звукозрительный разбор лучше подходит к фильму «Служебный роман» (реж. Эльдар Рязанов, 1977)?",
-      "answer": "1) офисные сцены: телефоны, шаги, машинки и сухая речь создают бюрократическую акустику учреждения 2) разговоры Новосельцева и Калугиной: интонация постепенно меняется от служебной маски к личному голосу 3) музыкальные моменты: музыка смягчает быт и раскрывает лирическую линию",
-      "choices": [
-        "1) офисные сцены: телефоны, шаги, машинки и сухая речь создают бюрократическую акустику учреждения 2) разговоры Новосельцева и Калугиной: интонация постепенно меняется от служебной маски к личному голосу 3) музыкальные моменты: музыка смягчает быт и раскрывает лирическую линию",
-        "баня и застолье: шум компании, песни и разговоры запускают комедийную ситуацию квартира Нади: тихая бытовая акустика и паузы меняют фарс на лирическую драму песни под гитару: музыка становится способом прямого эмоционального высказывания",
-        "путь в Зону: стук дрезины, металл и ритм движения вводят переход в другое состояние сцены в Зоне: вода, капли, ветер и дальние шумы создают пространство ожидания комната желаний: паузы и тихая акустика делают конфликт внутренним, а не внешним",
-        "сцены похищения: музыка, крики, движение и быстрые реплики делают действие комедийным аттракционом тосты и песни: звуковая среда праздника превращается в сатиру на обычаи и власть погони: ритм музыки и шум движения держат комедийный темп"
-      ],
-      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
-      "tags": [
-        "известные фильмы",
-        "разбор сцен",
-        "звук"
-      ],
-      "source": "v8_curated_bank"
-    },
-    {
-      "id": "VGIK-V8-00034",
-      "topic": "KNOWN_FILMS_SOUND",
-      "topic_name": "Известные фильмы",
-      "category": "known",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Какие сцены стоит назвать комиссии по фильму «Ирония судьбы, или С лёгким паром!» (реж. Эльдар Рязанов, 1975)?",
-      "answer": "1) баня и застолье: шум компании, песни и разговоры запускают комедийную ситуацию 2) квартира Нади: тихая бытовая акустика и паузы меняют фарс на лирическую драму 3) песни под гитару: музыка становится способом прямого эмоционального высказывания",
-      "choices": [
-        "северный пейзаж: ветер, море и пустые фоны создают холодное давление среды бытовые разговоры: жесткая речь и паузы показывают социальную безысходность сцены власти: акустика кабинетов и церковного пространства подчёркивает дистанцию и давление системы",
-        "баня и застолье: шум компании, песни и разговоры запускают комедийную ситуацию квартира Нади: тихая бытовая акустика и паузы меняют фарс на лирическую драму песни под гитару: музыка становится способом прямого эмоционального высказывания",
-        "1) баня и застолье: шум компании, песни и разговоры запускают комедийную ситуацию 2) квартира Нади: тихая бытовая акустика и паузы меняют фарс на лирическую драму 3) песни под гитару: музыка становится способом прямого эмоционального высказывания",
-        "пустыня Плюка: ветер, паузы и странные речевые звуки создают чужой мир слова ку и кю: речь превращается в социальный код и сатирический звуковой знак эпизоды с пепелацем: технические шумы и минимальная музыка поддерживают абсурд фантастической среды"
-      ],
-      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
-      "tags": [
-        "известные фильмы",
-        "разбор сцен",
-        "звук"
-      ],
-      "source": "v8_curated_bank"
-    },
-    {
-      "id": "VGIK-V8-00035",
-      "topic": "KNOWN_FILMS_SOUND",
-      "topic_name": "Известные фильмы",
-      "category": "known",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как связать звук и драматургию в фильме «Кин-дза-дза!» (реж. Георгий Данелия, 1986)?",
-      "answer": "1) пустыня Плюка: ветер, паузы и странные речевые звуки создают чужой мир 2) слова ку и кю: речь превращается в социальный код и сатирический звуковой знак 3) эпизоды с пепелацем: технические шумы и минимальная музыка поддерживают абсурд фантастической среды",
-      "choices": [
-        "1) пустыня Плюка: ветер, паузы и странные речевые звуки создают чужой мир 2) слова ку и кю: речь превращается в социальный код и сатирический звуковой знак 3) эпизоды с пепелацем: технические шумы и минимальная музыка поддерживают абсурд фантастической среды",
-        "путь в Зону: стук дрезины, металл и ритм движения вводят переход в другое состояние сцены в Зоне: вода, капли, ветер и дальние шумы создают пространство ожидания комната желаний: паузы и тихая акустика делают конфликт внутренним, а не внешним",
-        "грузинские горные сцены: пространственные фоны, голоса и музыка создают родной мир героя московские сцены: городской шум и речь контрастируют с горной акустикой сцены телефонных разговоров: голос на расстоянии показывает тоску по дому",
-        "офисные сцены: телефоны, шаги, машинки и сухая речь создают бюрократическую акустику учреждения разговоры Новосельцева и Калугиной: интонация постепенно меняется от служебной маски к личному голосу музыкальные моменты: музыка смягчает быт и раскрывает лирическую линию"
-      ],
-      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
-      "tags": [
-        "известные фильмы",
-        "разбор сцен",
-        "звук"
-      ],
-      "source": "v8_curated_bank"
-    },
-    {
-      "id": "VGIK-V8-00036",
-      "topic": "KNOWN_FILMS_SOUND",
-      "topic_name": "Известные фильмы",
-      "category": "known",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Что говорить о звуке в фильме «Афоня» (реж. Георгий Данелия, 1975)?",
-      "answer": "1) дворы и ЖЭК: бытовые шумы, голоса жильцов и рабочая среда создают комедийный реализм 2) разговоры Афони: интонация героя показывает браваду и внутреннюю пустоту 3) лирические сцены: музыка и паузы меняют тон с комедии на человеческую тоску",
-      "choices": [
-        "1) дворы и ЖЭК: бытовые шумы, голоса жильцов и рабочая среда создают комедийный реализм 2) разговоры Афони: интонация героя показывает браваду и внутреннюю пустоту 3) лирические сцены: музыка и паузы меняют тон с комедии на человеческую тоску",
-        "северный пейзаж: ветер, море и пустые фоны создают холодное давление среды бытовые разговоры: жесткая речь и паузы показывают социальную безысходность сцены власти: акустика кабинетов и церковного пространства подчёркивает дистанцию и давление системы",
-        "офисные сцены: телефоны, шаги, машинки и сухая речь создают бюрократическую акустику учреждения разговоры Новосельцева и Калугиной: интонация постепенно меняется от служебной маски к личному голосу музыкальные моменты: музыка смягчает быт и раскрывает лирическую линию",
-        "контрабандная сцена с гипсом: шум падения, крики и темп реплик строят комический механизм песенные номера: музыка работает как жанровая маска и сатирический комментарий финальные погони: ритм шумов, реплик и музыки собирает аттракцион"
-      ],
-      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
-      "tags": [
-        "известные фильмы",
-        "разбор сцен",
-        "звук"
-      ],
-      "source": "v8_curated_bank"
-    },
-    {
-      "id": "VGIK-V8-00037",
-      "topic": "KNOWN_FILMS_SOUND",
-      "topic_name": "Известные фильмы",
-      "category": "known",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Какой звукозрительный разбор лучше подходит к фильму «Мимино» (реж. Георгий Данелия, 1977)?",
-      "answer": "1) грузинские горные сцены: пространственные фоны, голоса и музыка создают родной мир героя 2) московские сцены: городской шум и речь контрастируют с горной акустикой 3) сцены телефонных разговоров: голос на расстоянии показывает тоску по дому",
-      "choices": [
-        "1) грузинские горные сцены: пространственные фоны, голоса и музыка создают родной мир героя 2) московские сцены: городской шум и речь контрастируют с горной акустикой 3) сцены телефонных разговоров: голос на расстоянии показывает тоску по дому",
-        "появление Моро: музыка Виктора Цоя задаёт холодную отстранённость героя городские сцены Алма-Аты: ветер, улица, пустые пространства и музыка создают ощущение позднесоветской пустоты конфликтные эпизоды: сдержанный звук и паузы делают угрозу сухой и почти ритуальной",
-        "сцены похищения: музыка, крики, движение и быстрые реплики делают действие комедийным аттракционом тосты и песни: звуковая среда праздника превращается в сатиру на обычаи и власть погони: ритм музыки и шум движения держат комедийный темп",
-        "офисные сцены: телефоны, шаги, машинки и сухая речь создают бюрократическую акустику учреждения разговоры Новосельцева и Калугиной: интонация постепенно меняется от служебной маски к личному голосу музыкальные моменты: музыка смягчает быт и раскрывает лирическую линию"
-      ],
-      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
-      "tags": [
-        "известные фильмы",
-        "разбор сцен",
-        "звук"
-      ],
-      "source": "v8_curated_bank"
-    },
-    {
-      "id": "VGIK-V8-00038",
-      "topic": "KNOWN_FILMS_SOUND",
-      "topic_name": "Известные фильмы",
-      "category": "known",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Какие сцены стоит назвать комиссии по фильму «Осенний марафон» (реж. Георгий Данелия, 1979)?",
-      "answer": "1) квартира Бузыкина: телефоны, шаги, бытовые шумы и паузы создают замкнутый круг его жизни 2) разговоры с женщинами: интонации и недоговорённости показывают слабость героя 3) городские пробежки: шаги и городская среда превращают движение в образ бегства от решений",
-      "choices": [
-        "баня и застолье: шум компании, песни и разговоры запускают комедийную ситуацию квартира Нади: тихая бытовая акустика и паузы меняют фарс на лирическую драму песни под гитару: музыка становится способом прямого эмоционального высказывания",
-        "станция: гул, технические шумы и паузы создают замкнутое психологическое пространство сцены с Хари: сдержанная речь и тишина переводят фантастику в драму памяти невесомость: музыка и плавность движения создают ощущение остановленного времени",
-        "1) квартира Бузыкина: телефоны, шаги, бытовые шумы и паузы создают замкнутый круг его жизни 2) разговоры с женщинами: интонации и недоговорённости показывают слабость героя 3) городские пробежки: шаги и городская среда превращают движение в образ бегства от решений",
-        "работа машины времени: технический шум и музыкальные акценты создают комедийную фантастику царские палаты: речевая манера и музыка пародируют исторический жанр квартирные сцены: бытовые шумы и быстрые реплики держат фарсовый темп"
-      ],
-      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
-      "tags": [
-        "известные фильмы",
-        "разбор сцен",
-        "звук"
-      ],
-      "source": "v8_curated_bank"
-    },
-    {
-      "id": "VGIK-V8-00039",
-      "topic": "KNOWN_FILMS_SOUND",
-      "topic_name": "Известные фильмы",
-      "category": "known",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как связать звук и драматургию в фильме «Бриллиантовая рука» (реж. Леонид Гайдай, 1968)?",
-      "answer": "1) контрабандная сцена с гипсом: шум падения, крики и темп реплик строят комический механизм 2) песенные номера: музыка работает как жанровая маска и сатирический комментарий 3) финальные погони: ритм шумов, реплик и музыки собирает аттракцион",
-      "choices": [
-        "сцены Москвы и Америки: разный городской шум показывает смену пространства и культурной среды музыкальные эпизоды: рок-песни становятся комментарием к герою и времени финальные силовые сцены: выстрелы и короткие реплики поданы жестко, без лишней психологической музыки",
-        "1) контрабандная сцена с гипсом: шум падения, крики и темп реплик строят комический механизм 2) песенные номера: музыка работает как жанровая маска и сатирический комментарий 3) финальные погони: ритм шумов, реплик и музыки собирает аттракцион",
-        "офисные сцены: телефоны, шаги, машинки и сухая речь создают бюрократическую акустику учреждения разговоры Новосельцева и Калугиной: интонация постепенно меняется от служебной маски к личному голосу музыкальные моменты: музыка смягчает быт и раскрывает лирическую линию",
-        "работа машины времени: технический шум и музыкальные акценты создают комедийную фантастику царские палаты: речевая манера и музыка пародируют исторический жанр квартирные сцены: бытовые шумы и быстрые реплики держат фарсовый темп"
-      ],
-      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
-      "tags": [
-        "известные фильмы",
-        "разбор сцен",
-        "звук"
-      ],
-      "source": "v8_curated_bank"
-    },
-    {
-      "id": "VGIK-V8-00040",
-      "topic": "KNOWN_FILMS_SOUND",
-      "topic_name": "Известные фильмы",
-      "category": "known",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Что говорить о звуке в фильме «Кавказская пленница» (реж. Леонид Гайдай, 1967)?",
-      "answer": "1) сцены похищения: музыка, крики, движение и быстрые реплики делают действие комедийным аттракционом 2) тосты и песни: звуковая среда праздника превращается в сатиру на обычаи и власть 3) погони: ритм музыки и шум движения держат комедийный темп",
-      "choices": [
-        "1) сцены похищения: музыка, крики, движение и быстрые реплики делают действие комедийным аттракционом 2) тосты и песни: звуковая среда праздника превращается в сатиру на обычаи и власть 3) погони: ритм музыки и шум движения держат комедийный темп",
-        "пустыня Плюка: ветер, паузы и странные речевые звуки создают чужой мир слова ку и кю: речь превращается в социальный код и сатирический звуковой знак эпизоды с пепелацем: технические шумы и минимальная музыка поддерживают абсурд фантастической среды",
-        "станция: гул, технические шумы и паузы создают замкнутое психологическое пространство сцены с Хари: сдержанная речь и тишина переводят фантастику в драму памяти невесомость: музыка и плавность движения создают ощущение остановленного времени",
-        "квартира Бузыкина: телефоны, шаги, бытовые шумы и паузы создают замкнутый круг его жизни разговоры с женщинами: интонации и недоговорённости показывают слабость героя городские пробежки: шаги и городская среда превращают движение в образ бегства от решений"
-      ],
-      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
-      "tags": [
-        "известные фильмы",
-        "разбор сцен",
-        "звук"
-      ],
-      "source": "v8_curated_bank"
-    },
-    {
-      "id": "VGIK-V8-00041",
-      "topic": "KNOWN_FILMS_SOUND",
-      "topic_name": "Известные фильмы",
-      "category": "known",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Какой звукозрительный разбор лучше подходит к фильму «Операция Ы и другие приключения Шурика» (реж. Леонид Гайдай, 1965)?",
-      "answer": "1) экзаменационные сцены: шёпот, паузы и мелкие шумы создают комедию напряжения 2) стройка: рабочие шумы и темп движения делают физическую комедию точной 3) складская новелла: шаги, скрипы и музыка работают как почти немая комедия",
-      "choices": [
-        "работа машины времени: технический шум и музыкальные акценты создают комедийную фантастику царские палаты: речевая манера и музыка пародируют исторический жанр квартирные сцены: бытовые шумы и быстрые реплики держат фарсовый темп",
-        "квартира Бузыкина: телефоны, шаги, бытовые шумы и паузы создают замкнутый круг его жизни разговоры с женщинами: интонации и недоговорённости показывают слабость героя городские пробежки: шаги и городская среда превращают движение в образ бегства от решений",
-        "1) экзаменационные сцены: шёпот, паузы и мелкие шумы создают комедию напряжения 2) стройка: рабочие шумы и темп движения делают физическую комедию точной 3) складская новелла: шаги, скрипы и музыка работают как почти немая комедия",
-        "офисные сцены: телефоны, шаги, машинки и сухая речь создают бюрократическую акустику учреждения разговоры Новосельцева и Калугиной: интонация постепенно меняется от служебной маски к личному голосу музыкальные моменты: музыка смягчает быт и раскрывает лирическую линию"
-      ],
-      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
-      "tags": [
-        "известные фильмы",
-        "разбор сцен",
-        "звук"
-      ],
-      "source": "v8_curated_bank"
-    },
-    {
-      "id": "VGIK-V8-00042",
-      "topic": "KNOWN_FILMS_SOUND",
-      "topic_name": "Известные фильмы",
-      "category": "known",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Какие сцены стоит назвать комиссии по фильму «Иван Васильевич меняет профессию» (реж. Леонид Гайдай, 1973)?",
-      "answer": "1) работа машины времени: технический шум и музыкальные акценты создают комедийную фантастику 2) царские палаты: речевая манера и музыка пародируют исторический жанр 3) квартирные сцены: бытовые шумы и быстрые реплики держат фарсовый темп",
-      "choices": [
-        "работа машины времени: технический шум и музыкальные акценты создают комедийную фантастику царские палаты: речевая манера и музыка пародируют исторический жанр квартирные сцены: бытовые шумы и быстрые реплики держат фарсовый темп",
-        "станция: гул, технические шумы и паузы создают замкнутое психологическое пространство сцены с Хари: сдержанная речь и тишина переводят фантастику в драму памяти невесомость: музыка и плавность движения создают ощущение остановленного времени",
-        "дворы и ЖЭК: бытовые шумы, голоса жильцов и рабочая среда создают комедийный реализм разговоры Афони: интонация героя показывает браваду и внутреннюю пустоту лирические сцены: музыка и паузы меняют тон с комедии на человеческую тоску",
-        "1) работа машины времени: технический шум и музыкальные акценты создают комедийную фантастику 2) царские палаты: речевая манера и музыка пародируют исторический жанр 3) квартирные сцены: бытовые шумы и быстрые реплики держат фарсовый темп"
-      ],
-      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
-      "tags": [
-        "известные фильмы",
-        "разбор сцен",
-        "звук"
-      ],
-      "source": "v8_curated_bank"
-    },
-    {
-      "id": "VGIK-V8-00043",
-      "topic": "KNOWN_FILMS_SOUND",
-      "topic_name": "Известные фильмы",
-      "category": "known",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как связать звук и драматургию в фильме «Белое солнце пустыни» (реж. Владимир Мотыль, 1970)?",
-      "answer": "1) пустынные сцены: ветер, тишина и редкие звуки делают пространство опасным и пустым 2) письма Сухова: голос за кадром создаёт личную интонацию внутри приключенческого сюжета 3) боевые эпизоды: выстрелы и паузы работают сухо, без лишнего героического нажима",
-      "choices": [
-        "1) пустынные сцены: ветер, тишина и редкие звуки делают пространство опасным и пустым 2) письма Сухова: голос за кадром создаёт личную интонацию внутри приключенческого сюжета 3) боевые эпизоды: выстрелы и паузы работают сухо, без лишнего героического нажима",
-        "общежитие и молодая Москва: голоса, бытовые шумы и музыка создают социальную среду героинь переход во взрослую жизнь: изменение звуковой среды показывает другую Москву и другой статус героини личные разговоры Катерины и Гоши: паузы и интонации важнее эффекта, потому что конфликт строится на доверии",
-        "пустыня Плюка: ветер, паузы и странные речевые звуки создают чужой мир слова ку и кю: речь превращается в социальный код и сатирический звуковой знак эпизоды с пепелацем: технические шумы и минимальная музыка поддерживают абсурд фантастической среды",
-        "появление Моро: музыка Виктора Цоя задаёт холодную отстранённость героя городские сцены Алма-Аты: ветер, улица, пустые пространства и музыка создают ощущение позднесоветской пустоты конфликтные эпизоды: сдержанный звук и паузы делают угрозу сухой и почти ритуальной"
-      ],
-      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
-      "tags": [
-        "известные фильмы",
-        "разбор сцен",
-        "звук"
-      ],
-      "source": "v8_curated_bank"
-    },
-    {
-      "id": "VGIK-V8-00044",
-      "topic": "KNOWN_FILMS_SOUND",
-      "topic_name": "Известные фильмы",
-      "category": "known",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Что говорить о звуке в фильме «Гараж» (реж. Эльдар Рязанов, 1979)?",
-      "answer": "1) общее собрание: многоголосие, перебивания и шум зала создают сатиру на коллективное решение 2) выступления персонажей: индивидуальные интонации раскрывают социальные маски 3) паузы после конфликтов: тишина и реакция зала работают как комедийный удар",
-      "choices": [
-        "общее собрание: многоголосие, перебивания и шум зала создают сатиру на коллективное решение выступления персонажей: индивидуальные интонации раскрывают социальные маски паузы после конфликтов: тишина и реакция зала работают как комедийный удар",
-        "контрабандная сцена с гипсом: шум падения, крики и темп реплик строят комический механизм песенные номера: музыка работает как жанровая маска и сатирический комментарий финальные погони: ритм шумов, реплик и музыки собирает аттракцион",
-        "северный пейзаж: ветер, море и пустые фоны создают холодное давление среды бытовые разговоры: жесткая речь и паузы показывают социальную безысходность сцены власти: акустика кабинетов и церковного пространства подчёркивает дистанцию и давление системы",
-        "1) общее собрание: многоголосие, перебивания и шум зала создают сатиру на коллективное решение 2) выступления персонажей: индивидуальные интонации раскрывают социальные маски 3) паузы после конфликтов: тишина и реакция зала работают как комедийный удар"
-      ],
-      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
-      "tags": [
-        "известные фильмы",
-        "разбор сцен",
-        "звук"
-      ],
-      "source": "v8_curated_bank"
-    },
-    {
-      "id": "VGIK-V8-00045",
-      "topic": "KNOWN_FILMS_SOUND",
-      "topic_name": "Известные фильмы",
-      "category": "known",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Какой звукозрительный разбор лучше подходит к фильму «Сталкер» (реж. Андрей Тарковский, 1979)?",
-      "answer": "1) путь в Зону: стук дрезины, металл и ритм движения вводят переход в другое состояние 2) сцены в Зоне: вода, капли, ветер и дальние шумы создают пространство ожидания 3) комната желаний: паузы и тихая акустика делают конфликт внутренним, а не внешним",
-      "choices": [
-        "баня и застолье: шум компании, песни и разговоры запускают комедийную ситуацию квартира Нади: тихая бытовая акустика и паузы меняют фарс на лирическую драму песни под гитару: музыка становится способом прямого эмоционального высказывания",
-        "работа машины времени: технический шум и музыкальные акценты создают комедийную фантастику царские палаты: речевая манера и музыка пародируют исторический жанр квартирные сцены: бытовые шумы и быстрые реплики держат фарсовый темп",
-        "грузинские горные сцены: пространственные фоны, голоса и музыка создают родной мир героя московские сцены: городской шум и речь контрастируют с горной акустикой сцены телефонных разговоров: голос на расстоянии показывает тоску по дому",
-        "1) путь в Зону: стук дрезины, металл и ритм движения вводят переход в другое состояние 2) сцены в Зоне: вода, капли, ветер и дальние шумы создают пространство ожидания 3) комната желаний: паузы и тихая акустика делают конфликт внутренним, а не внешним"
-      ],
-      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
-      "tags": [
-        "известные фильмы",
-        "разбор сцен",
-        "звук"
-      ],
-      "source": "v8_curated_bank"
-    },
-    {
-      "id": "VGIK-V8-00046",
-      "topic": "KNOWN_FILMS_SOUND",
-      "topic_name": "Известные фильмы",
-      "category": "known",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Какие сцены стоит назвать комиссии по фильму «Солярис» (реж. Андрей Тарковский, 1972)?",
-      "answer": "1) станция: гул, технические шумы и паузы создают замкнутое психологическое пространство 2) сцены с Хари: сдержанная речь и тишина переводят фантастику в драму памяти 3) невесомость: музыка и плавность движения создают ощущение остановленного времени",
-      "choices": [
-        "1) станция: гул, технические шумы и паузы создают замкнутое психологическое пространство 2) сцены с Хари: сдержанная речь и тишина переводят фантастику в драму памяти 3) невесомость: музыка и плавность движения создают ощущение остановленного времени",
-        "сцены Москвы и Америки: разный городской шум показывает смену пространства и культурной среды музыкальные эпизоды: рок-песни становятся комментарием к герою и времени финальные силовые сцены: выстрелы и короткие реплики поданы жестко, без лишней психологической музыки",
-        "общее собрание: многоголосие, перебивания и шум зала создают сатиру на коллективное решение выступления персонажей: индивидуальные интонации раскрывают социальные маски паузы после конфликтов: тишина и реакция зала работают как комедийный удар",
-        "сцены с переодеванием заведующего: интонация речи становится главным комедийным инструментом тюремно-криминальная среда: жаргон, тембр голосов и паузы создают комедию социальных масок погони и бытовые эпизоды: музыка и шум движения поддерживают лёгкий приключенческий ритм"
-      ],
-      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
-      "tags": [
-        "известные фильмы",
-        "разбор сцен",
-        "звук"
-      ],
-      "source": "v8_curated_bank"
-    },
-    {
-      "id": "VGIK-V8-00047",
-      "topic": "KNOWN_FILMS_SOUND",
-      "topic_name": "Известные фильмы",
-      "category": "known",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Как связать звук и драматургию в фильме «Левиафан» (реж. Андрей Звягинцев, 2014)?",
-      "answer": "1) северный пейзаж: ветер, море и пустые фоны создают холодное давление среды 2) бытовые разговоры: жесткая речь и паузы показывают социальную безысходность 3) сцены власти: акустика кабинетов и церковного пространства подчёркивает дистанцию и давление системы",
-      "choices": [
-        "путь в Зону: стук дрезины, металл и ритм движения вводят переход в другое состояние сцены в Зоне: вода, капли, ветер и дальние шумы создают пространство ожидания комната желаний: паузы и тихая акустика делают конфликт внутренним, а не внешним",
-        "1) северный пейзаж: ветер, море и пустые фоны создают холодное давление среды 2) бытовые разговоры: жесткая речь и паузы показывают социальную безысходность 3) сцены власти: акустика кабинетов и церковного пространства подчёркивает дистанцию и давление системы",
-        "квартира Бузыкина: телефоны, шаги, бытовые шумы и паузы создают замкнутый круг его жизни разговоры с женщинами: интонации и недоговорённости показывают слабость героя городские пробежки: шаги и городская среда превращают движение в образ бегства от решений",
-        "сцены с переодеванием заведующего: интонация речи становится главным комедийным инструментом тюремно-криминальная среда: жаргон, тембр голосов и паузы создают комедию социальных масок погони и бытовые эпизоды: музыка и шум движения поддерживают лёгкий приключенческий ритм"
-      ],
-      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
-      "tags": [
-        "известные фильмы",
-        "разбор сцен",
-        "звук"
-      ],
-      "source": "v8_curated_bank"
-    },
-    {
-      "id": "VGIK-V8-00048",
-      "topic": "KNOWN_FILMS_SOUND",
-      "topic_name": "Известные фильмы",
-      "category": "known",
-      "type": "multiple_choice",
-      "difficulty": 3,
-      "question": "Что говорить о звуке в фильме «Джентльмены удачи» (реж. Александр Серый, 1971)?",
-      "answer": "1) сцены с переодеванием заведующего: интонация речи становится главным комедийным инструментом 2) тюремно-криминальная среда: жаргон, тембр голосов и паузы создают комедию социальных масок 3) погони и бытовые эпизоды: музыка и шум движения поддерживают лёгкий приключенческий ритм",
-      "choices": [
-        "северный пейзаж: ветер, море и пустые фоны создают холодное давление среды бытовые разговоры: жесткая речь и паузы показывают социальную безысходность сцены власти: акустика кабинетов и церковного пространства подчёркивает дистанцию и давление системы",
-        "1) сцены с переодеванием заведующего: интонация речи становится главным комедийным инструментом 2) тюремно-криминальная среда: жаргон, тембр голосов и паузы создают комедию социальных масок 3) погони и бытовые эпизоды: музыка и шум движения поддерживают лёгкий приключенческий ритм",
-        "станция: гул, технические шумы и паузы создают замкнутое психологическое пространство сцены с Хари: сдержанная речь и тишина переводят фантастику в драму памяти невесомость: музыка и плавность движения создают ощущение остановленного времени",
-        "экзаменационные сцены: шёпот, паузы и мелкие шумы создают комедию напряжения стройка: рабочие шумы и темп движения делают физическую комедию точной складская новелла: шаги, скрипы и музыка работают как почти немая комедия"
-      ],
-      "explanation": "Банк более знакомых фильмов с конкретными сценами и звуком.",
-      "tags": [
-        "известные фильмы",
-        "разбор сцен",
-        "звук"
-      ],
-      "source": "v8_curated_bank"
-    },
-    {
       "id": "VGIK-V8-00049",
       "topic": "FRANCE_GENERAL",
       "topic_name": "Франция",
@@ -14746,6 +10365,1471 @@ window.VGIK_DB = {
         "звук"
       ],
       "source": "v8_curated_bank"
+    },
+    {
+      "id": "VGIK-V9-00016",
+      "topic": "FRANCE_RECHECKED",
+      "topic_name": "Франция",
+      "category": "france",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что важно разобрать в фильме «На последнем дыхании» (реж. Жан-Люк Годар, 1960) в теме Франции?",
+      "answer": "уличный шум Парижа, свободная речь, монтажная шероховатость",
+      "choices": [
+        "детская точка зрения, школьная и городская акустика, финальный бег",
+        "уличный шум Парижа, свободная речь, монтажная шероховатость",
+        "голос, память, травма, монтаж прошлого и настоящего",
+        "шумы предметов, офисов, техники и комическое пространство"
+      ],
+      "explanation": "Франция: проверенная связка автор, год, сцена и звуковой принцип.",
+      "tags": [
+        "Франция",
+        "французское кино",
+        "На последнем дыхании"
+      ],
+      "source": "v9_manual_fact_logic_audit",
+      "full_answer": "Сцены Мишеля и Патриции на улицах Парижа: шум города, свободная речь и jump cut работают против студийной гладкости. Звук оставляет ощущение случайности и живой улицы."
+    },
+    {
+      "id": "VGIK-V9-00017",
+      "topic": "FRANCE_RECHECKED",
+      "topic_name": "Франция",
+      "category": "france",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что важно разобрать в фильме «400 ударов» (реж. Франсуа Трюффо, 1959) в теме Франции?",
+      "answer": "детская точка зрения, школьная и городская акустика, финальный бег",
+      "choices": [
+        "городская прогулка, тревога, почти реальное время",
+        "детская точка зрения, школьная и городская акустика, финальный бег",
+        "аскетизм, жест, шаги, шорох одежды и толпа",
+        "уличный шум Парижа, свободная речь, монтажная шероховатость"
+      ],
+      "explanation": "Франция: проверенная связка автор, год, сцена и звуковой принцип.",
+      "tags": [
+        "Франция",
+        "французское кино",
+        "400 ударов"
+      ],
+      "source": "v9_manual_fact_logic_audit",
+      "full_answer": "Школа, улицы и финальный бег Антуана к морю: шаги, шум города, ветер и открытое пространство показывают одиночество героя без прямого объяснения."
+    },
+    {
+      "id": "VGIK-V9-00018",
+      "topic": "FRANCE_RECHECKED",
+      "topic_name": "Франция",
+      "category": "france",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что важно разобрать в фильме «Хиросима, любовь моя» (реж. Ален Рене, 1959) в теме Франции?",
+      "answer": "голос, память, травма, монтаж прошлого и настоящего",
+      "choices": [
+        "уличный шум Парижа, свободная речь, монтажная шероховатость",
+        "голос, память, травма, монтаж прошлого и настоящего",
+        "шумы предметов, офисов, техники и комическое пространство",
+        "аскетизм, жест, шаги, шорох одежды и толпа"
+      ],
+      "explanation": "Франция: проверенная связка автор, год, сцена и звуковой принцип.",
+      "tags": [
+        "Франция",
+        "французское кино",
+        "Хиросима, любовь моя"
+      ],
+      "source": "v9_manual_fact_logic_audit",
+      "full_answer": "Начальные сцены с голосами и образами Хиросимы: голос не комментирует картинку, а связывает личную память и историческую катастрофу."
+    },
+    {
+      "id": "VGIK-V9-00019",
+      "topic": "FRANCE_RECHECKED",
+      "topic_name": "Франция",
+      "category": "france",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что важно разобрать в фильме «Плейтайм» (реж. Жак Тати, 1967) в теме Франции?",
+      "answer": "шумы предметов, офисов, техники и комическое пространство",
+      "choices": [
+        "уличный шум Парижа, свободная речь, монтажная шероховатость",
+        "аскетизм, жест, шаги, шорох одежды и толпа",
+        "шумы предметов, офисов, техники и комическое пространство",
+        "детская точка зрения, школьная и городская акустика, финальный бег"
+      ],
+      "explanation": "Франция: проверенная связка автор, год, сцена и звуковой принцип.",
+      "tags": [
+        "Франция",
+        "французское кино",
+        "Плейтайм"
+      ],
+      "source": "v9_manual_fact_logic_audit",
+      "full_answer": "Офисы и ресторан Royal Garden: щелчки, шаги, гул, скрипы и обрывки речи создают комедию пространства. У Тати предмет звучит как персонаж."
+    },
+    {
+      "id": "VGIK-V9-00020",
+      "topic": "FRANCE_RECHECKED",
+      "topic_name": "Франция",
+      "category": "france",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что важно разобрать в фильме «Пикпокет» (реж. Робер Брессон, 1959) в теме Франции?",
+      "answer": "аскетизм, жест, шаги, шорох одежды и толпа",
+      "choices": [
+        "голос, память, травма, монтаж прошлого и настоящего",
+        "городская прогулка, тревога, почти реальное время",
+        "уличный шум Парижа, свободная речь, монтажная шероховатость",
+        "аскетизм, жест, шаги, шорох одежды и толпа"
+      ],
+      "explanation": "Франция: проверенная связка автор, год, сцена и звуковой принцип.",
+      "tags": [
+        "Франция",
+        "французское кино",
+        "Пикпокет"
+      ],
+      "source": "v9_manual_fact_logic_audit",
+      "full_answer": "Сцены краж в метро и на вокзале: шорох ткани, шаги и движение рук создают напряжение без лишней музыки. Звук концентрирует внимание на жесте."
+    },
+    {
+      "id": "VGIK-V9-00021",
+      "topic": "FRANCE_RECHECKED",
+      "topic_name": "Франция",
+      "category": "france",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что важно разобрать в фильме «Клео от 5 до 7» (реж. Аньес Варда, 1962) в теме Франции?",
+      "answer": "городская прогулка, тревога, почти реальное время",
+      "choices": [
+        "голос, память, травма, монтаж прошлого и настоящего",
+        "городская прогулка, тревога, почти реальное время",
+        "аскетизм, жест, шаги, шорох одежды и толпа",
+        "детская точка зрения, школьная и городская акустика, финальный бег"
+      ],
+      "explanation": "Франция: проверенная связка автор, год, сцена и звуковой принцип.",
+      "tags": [
+        "Франция",
+        "французское кино",
+        "Клео от 5 до 7"
+      ],
+      "source": "v9_manual_fact_logic_audit",
+      "full_answer": "Прогулки Клео по Парижу: шум города, музыка и фрагменты разговоров показывают, как тревога меняет восприятие героини."
+    },
+    {
+      "id": "VGIK-V9-00022",
+      "topic": "PHYS_RECHECKED_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "Как записать связь скорости волны, длины волны и частоты?",
+      "answer": "v = λf. Здесь v — скорость волны, λ — длина волны, f — частота.",
+      "choices": [
+        "ε = -ΔΦ/Δt. Индукционная ЭДС возникает при изменении магнитного потока.",
+        "v = λf. Здесь v — скорость волны, λ — длина волны, f — частота.",
+        "I = U/R. I — сила тока, U — напряжение, R — сопротивление.",
+        "P = UI = I²R = U²/R."
+      ],
+      "explanation": "Физический ответ с формулой и обозначениями.",
+      "tags": [
+        "физика",
+        "формулы"
+      ],
+      "source": "v9_manual_fact_logic_audit"
+    },
+    {
+      "id": "VGIK-V9-00023",
+      "topic": "PHYS_RECHECKED_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "Как связаны частота и период?",
+      "answer": "f = 1/T. Также ω = 2πf, где ω — циклическая частота.",
+      "choices": [
+        "P = UI = I²R = U²/R.",
+        "f = 1/T. Также ω = 2πf, где ω — циклическая частота.",
+        "F_A = BIl sin α. B — магнитная индукция, I — ток, l — длина проводника.",
+        "W = CU²/2 = qU/2 = q²/(2C)."
+      ],
+      "explanation": "Физический ответ с формулой и обозначениями.",
+      "tags": [
+        "физика",
+        "формулы"
+      ],
+      "source": "v9_manual_fact_logic_audit"
+    },
+    {
+      "id": "VGIK-V9-00024",
+      "topic": "PHYS_RECHECKED_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "Как записать закон Ома?",
+      "answer": "I = U/R. I — сила тока, U — напряжение, R — сопротивление.",
+      "choices": [
+        "I = U/R. I — сила тока, U — напряжение, R — сопротивление.",
+        "P = UI = I²R = U²/R.",
+        "Φ = BS cos α. B — магнитная индукция, S — площадь контура.",
+        "f = 1/T. Также ω = 2πf, где ω — циклическая частота."
+      ],
+      "explanation": "Физический ответ с формулой и обозначениями.",
+      "tags": [
+        "физика",
+        "формулы"
+      ],
+      "source": "v9_manual_fact_logic_audit"
+    },
+    {
+      "id": "VGIK-V9-00025",
+      "topic": "PHYS_RECHECKED_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "Как найти мощность тока?",
+      "answer": "P = UI = I²R = U²/R.",
+      "choices": [
+        "P = UI = I²R = U²/R.",
+        "Φ = BS cos α. B — магнитная индукция, S — площадь контура.",
+        "F_Л = qvB sin α. q — заряд, v — скорость, B — магнитная индукция.",
+        "f = 1/T. Также ω = 2πf, где ω — циклическая частота."
+      ],
+      "explanation": "Физический ответ с формулой и обозначениями.",
+      "tags": [
+        "физика",
+        "формулы"
+      ],
+      "source": "v9_manual_fact_logic_audit"
+    },
+    {
+      "id": "VGIK-V9-00026",
+      "topic": "PHYS_RECHECKED_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "Как записать закон электромагнитной индукции?",
+      "answer": "ε = -ΔΦ/Δt. Индукционная ЭДС возникает при изменении магнитного потока.",
+      "choices": [
+        "Φ = BS cos α. B — магнитная индукция, S — площадь контура.",
+        "ε = -ΔΦ/Δt. Индукционная ЭДС возникает при изменении магнитного потока.",
+        "I = U/R. I — сила тока, U — напряжение, R — сопротивление.",
+        "v = λf. Здесь v — скорость волны, λ — длина волны, f — частота."
+      ],
+      "explanation": "Физический ответ с формулой и обозначениями.",
+      "tags": [
+        "физика",
+        "формулы"
+      ],
+      "source": "v9_manual_fact_logic_audit"
+    },
+    {
+      "id": "VGIK-V9-00027",
+      "topic": "PHYS_RECHECKED_FORMULAS",
+      "topic_name": "Физика: формулы",
+      "category": "physics",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "Как найти энергию конденсатора?",
+      "answer": "W = CU²/2 = qU/2 = q²/(2C).",
+      "choices": [
+        "Φ = BS cos α. B — магнитная индукция, S — площадь контура.",
+        "P = UI = I²R = U²/R.",
+        "I = U/R. I — сила тока, U — напряжение, R — сопротивление.",
+        "W = CU²/2 = qU/2 = q²/(2C)."
+      ],
+      "explanation": "Физический ответ с формулой и обозначениями.",
+      "tags": [
+        "физика",
+        "формулы"
+      ],
+      "source": "v9_manual_fact_logic_audit"
+    },
+    {
+      "id": "VGIK-V10-00001",
+      "topic": "PHYS_EXPLAIN_SOUND",
+      "topic_name": "Физика: объяснение тем",
+      "category": "physics",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Объяснить тему: механическое движение, законы Ньютона, импульс и энергия. Что в ней физически важно для звукорежиссуры?",
+      "answer": "механическое движение, законы Ньютона, импульс и энергия",
+      "choices": [
+        "механическое движение, законы Ньютона, импульс и энергия",
+        "электромагнитная индукция и правило Ленца",
+        "конденсатор, энергия и реактивность",
+        "звуковые волны, высота, тембр и громкость"
+      ],
+      "explanation": "Полный ответ раскрывается после выбора.",
+      "tags": [
+        "физика",
+        "звукорежиссура",
+        "формулы"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "Физический смысл: Движение описывает изменение положения тела и причины этого изменения.\nФормулы: v = s/t; a = Δv/Δt; F = ma; p = mv; A = Fs cos α; P = A/t; Eк = mv²/2; Eп = mgh.\nСвязь со звукорежиссурой: движение источника звука, ударные шумы, скрипы, вибрации и механика действия в кадре.\nЧто запомнить: сначала явление, потом формулы и величины, потом пример из звука или техники."
+    },
+    {
+      "id": "VGIK-V10-00002",
+      "topic": "PHYS_EXPLAIN_SOUND",
+      "topic_name": "Физика: объяснение тем",
+      "category": "physics",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Объяснить тему: механические колебания и волны. Что в ней физически важно для звукорежиссуры?",
+      "answer": "механические колебания и волны",
+      "choices": [
+        "колебательный контур, радиосвязь и телевидение",
+        "магнитное поле, сила Ампера и сила Лоренца",
+        "измерения, погрешности и СИ",
+        "механические колебания и волны"
+      ],
+      "explanation": "Полный ответ раскрывается после выбора.",
+      "tags": [
+        "физика",
+        "звукорежиссура",
+        "формулы"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "Физический смысл: Колебание — повтор около равновесия, волна — перенос колебания через среду.\nФормулы: T = 1/f; ω = 2πf; x = A cos(ωt + φ); v = λf; T = 2π√(l/g).\nСвязь со звукорежиссурой: высота, ритм, вибрация, резонанс и ощущение частоты в звуке.\nЧто запомнить: сначала явление, потом формулы и величины, потом пример из звука или техники."
+    },
+    {
+      "id": "VGIK-V10-00003",
+      "topic": "PHYS_EXPLAIN_SOUND",
+      "topic_name": "Физика: объяснение тем",
+      "category": "physics",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Объяснить тему: звуковые волны, высота, тембр и громкость. Что в ней физически важно для звукорежиссуры?",
+      "answer": "звуковые волны, высота, тембр и громкость",
+      "choices": [
+        "конденсатор, энергия и реактивность",
+        "механические колебания и волны",
+        "звуковые волны, высота, тембр и громкость",
+        "трансформатор и электромагнитные волны"
+      ],
+      "explanation": "Полный ответ раскрывается после выбора.",
+      "tags": [
+        "физика",
+        "звукорежиссура",
+        "формулы"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "Физический смысл: Звук — механическая волна; высота связана с частотой, громкость с амплитудой, тембр со спектром.\nФормулы: v = λf; T = 1/f; L = 20 lg(p/p0); I = P/S.\nСвязь со звукорежиссурой: речь, музыка, шумы, акустика помещения и баланс фонограммы.\nЧто запомнить: сначала явление, потом формулы и величины, потом пример из звука или техники."
+    },
+    {
+      "id": "VGIK-V10-00004",
+      "topic": "PHYS_EXPLAIN_SOUND",
+      "topic_name": "Физика: объяснение тем",
+      "category": "physics",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Объяснить тему: измерения, погрешности и СИ. Что в ней физически важно для звукорежиссуры?",
+      "answer": "измерения, погрешности и СИ",
+      "choices": [
+        "магнитное поле, сила Ампера и сила Лоренца",
+        "электрическое поле, заряд и постоянный ток",
+        "механические колебания и волны",
+        "измерения, погрешности и СИ"
+      ],
+      "explanation": "Полный ответ раскрывается после выбора.",
+      "tags": [
+        "физика",
+        "звукорежиссура",
+        "формулы"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "Физический смысл: Измерение всегда имеет погрешность, а технический ответ требует единиц.\nФормулы: Δx = |xизм - xист|; δ = Δx/x · 100%; f — Гц; U — В; I — А; R — Ом.\nСвязь со звукорежиссурой: частоты, уровни, напряжение, сопротивление и параметры оборудования.\nЧто запомнить: сначала явление, потом формулы и величины, потом пример из звука или техники."
+    },
+    {
+      "id": "VGIK-V10-00005",
+      "topic": "PHYS_EXPLAIN_SOUND",
+      "topic_name": "Физика: объяснение тем",
+      "category": "physics",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Объяснить тему: электрическое поле, заряд и постоянный ток. Что в ней физически важно для звукорежиссуры?",
+      "answer": "электрическое поле, заряд и постоянный ток",
+      "choices": [
+        "магнитное поле, сила Ампера и сила Лоренца",
+        "электрическое поле, заряд и постоянный ток",
+        "электрические цепи, сопротивление и законы Кирхгофа",
+        "звуковые волны, высота, тембр и громкость"
+      ],
+      "explanation": "Полный ответ раскрывается после выбора.",
+      "tags": [
+        "физика",
+        "звукорежиссура",
+        "формулы"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "Физический смысл: Заряд создаёт поле, а ток — упорядоченное движение зарядов в цепи.\nФормулы: F = k|q1q2|/r²; E = F/q; I = q/t; I = U/R; P = UI.\nСвязь со звукорежиссурой: микрофонный и линейный сигнал являются электрическим изменением во времени.\nЧто запомнить: сначала явление, потом формулы и величины, потом пример из звука или техники."
+    },
+    {
+      "id": "VGIK-V10-00006",
+      "topic": "PHYS_EXPLAIN_SOUND",
+      "topic_name": "Физика: объяснение тем",
+      "category": "physics",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Объяснить тему: электрические цепи, сопротивление и законы Кирхгофа. Что в ней физически важно для звукорежиссуры?",
+      "answer": "электрические цепи, сопротивление и законы Кирхгофа",
+      "choices": [
+        "электрические цепи, сопротивление и законы Кирхгофа",
+        "электрическое поле, заряд и постоянный ток",
+        "механические колебания и волны",
+        "конденсатор, энергия и реактивность"
+      ],
+      "explanation": "Полный ответ раскрывается после выбора.",
+      "tags": [
+        "физика",
+        "звукорежиссура",
+        "формулы"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "Физический смысл: Сопротивление ограничивает ток, а Кирхгоф описывает токи и напряжения в узлах и контурах.\nФормулы: I = U/R; Rпосл = R1 + R2; 1/Rпар = 1/R1 + 1/R2; ΣI = 0; ΣU = 0.\nСвязь со звукорежиссурой: кабели, входы, выходы, согласование сопротивлений и потери сигнала.\nЧто запомнить: сначала явление, потом формулы и величины, потом пример из звука или техники."
+    },
+    {
+      "id": "VGIK-V10-00007",
+      "topic": "PHYS_EXPLAIN_SOUND",
+      "topic_name": "Физика: объяснение тем",
+      "category": "physics",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Объяснить тему: магнитное поле, сила Ампера и сила Лоренца. Что в ней физически важно для звукорежиссуры?",
+      "answer": "магнитное поле, сила Ампера и сила Лоренца",
+      "choices": [
+        "магнитное поле, сила Ампера и сила Лоренца",
+        "трансформатор и электромагнитные волны",
+        "электрическое поле, заряд и постоянный ток",
+        "механические колебания и волны"
+      ],
+      "explanation": "Полный ответ раскрывается после выбора.",
+      "tags": [
+        "физика",
+        "звукорежиссура",
+        "формулы"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "Физический смысл: Магнитное поле действует на проводник с током и движущийся заряд.\nФормулы: F_A = BIl sin α; FЛ = qvB sin α; B = F/(Il).\nСвязь со звукорежиссурой: динамический микрофон и динамик превращают движение в сигнал и сигнал в движение.\nЧто запомнить: сначала явление, потом формулы и величины, потом пример из звука или техники."
+    },
+    {
+      "id": "VGIK-V10-00008",
+      "topic": "PHYS_EXPLAIN_SOUND",
+      "topic_name": "Физика: объяснение тем",
+      "category": "physics",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Объяснить тему: электромагнитная индукция и правило Ленца. Что в ней физически важно для звукорежиссуры?",
+      "answer": "электромагнитная индукция и правило Ленца",
+      "choices": [
+        "колебательный контур, радиосвязь и телевидение",
+        "механические колебания и волны",
+        "трансформатор и электромагнитные волны",
+        "электромагнитная индукция и правило Ленца"
+      ],
+      "explanation": "Полный ответ раскрывается после выбора.",
+      "tags": [
+        "физика",
+        "звукорежиссура",
+        "формулы"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "Физический смысл: Изменение магнитного потока создаёт ЭДС, а ток противодействует причине изменения.\nФормулы: Φ = BS cos α; ε = -ΔΦ/Δt.\nСвязь со звукорежиссурой: микрофоны, трансформаторы, звукосниматели и электромагнитные наводки.\nЧто запомнить: сначала явление, потом формулы и величины, потом пример из звука или техники."
+    },
+    {
+      "id": "VGIK-V10-00009",
+      "topic": "PHYS_EXPLAIN_SOUND",
+      "topic_name": "Физика: объяснение тем",
+      "category": "physics",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Объяснить тему: конденсатор, энергия и реактивность. Что в ней физически важно для звукорежиссуры?",
+      "answer": "конденсатор, энергия и реактивность",
+      "choices": [
+        "магнитное поле, сила Ампера и сила Лоренца",
+        "трансформатор и электромагнитные волны",
+        "измерения, погрешности и СИ",
+        "конденсатор, энергия и реактивность"
+      ],
+      "explanation": "Полный ответ раскрывается после выбора.",
+      "tags": [
+        "физика",
+        "звукорежиссура",
+        "формулы"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "Физический смысл: Конденсатор накапливает заряд и энергию поля, а в переменном токе работает частотно-зависимо.\nФормулы: C = q/U; W = CU²/2; X_C = 1/(ωC); Cпар = C1 + C2; 1/Cпосл = 1/C1 + 1/C2.\nСвязь со звукорежиссурой: фильтры, кроссоверы, частотная коррекция и развязка питания.\nЧто запомнить: сначала явление, потом формулы и величины, потом пример из звука или техники."
+    },
+    {
+      "id": "VGIK-V10-00010",
+      "topic": "PHYS_EXPLAIN_SOUND",
+      "topic_name": "Физика: объяснение тем",
+      "category": "physics",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Объяснить тему: трансформатор и электромагнитные волны. Что в ней физически важно для звукорежиссуры?",
+      "answer": "трансформатор и электромагнитные волны",
+      "choices": [
+        "конденсатор, энергия и реактивность",
+        "магнитное поле, сила Ампера и сила Лоренца",
+        "трансформатор и электромагнитные волны",
+        "измерения, погрешности и СИ"
+      ],
+      "explanation": "Полный ответ раскрывается после выбора.",
+      "tags": [
+        "физика",
+        "звукорежиссура",
+        "формулы"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "Физический смысл: Трансформатор меняет напряжение переменного тока, а электромагнитная волна переносит энергию поля.\nФормулы: Us/Up = Ns/Np; Ps ≈ Pp; c = λf.\nСвязь со звукорежиссурой: питание, развязка, передача сигнала, радиосистемы и помехи.\nЧто запомнить: сначала явление, потом формулы и величины, потом пример из звука или техники."
+    },
+    {
+      "id": "VGIK-V10-00011",
+      "topic": "PHYS_EXPLAIN_SOUND",
+      "topic_name": "Физика: объяснение тем",
+      "category": "physics",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Объяснить тему: колебательный контур, радиосвязь и телевидение. Что в ней физически важно для звукорежиссуры?",
+      "answer": "колебательный контур, радиосвязь и телевидение",
+      "choices": [
+        "звуковые волны, высота, тембр и громкость",
+        "колебательный контур, радиосвязь и телевидение",
+        "механические колебания и волны",
+        "электрические цепи, сопротивление и законы Кирхгофа"
+      ],
+      "explanation": "Полный ответ раскрывается после выбора.",
+      "tags": [
+        "физика",
+        "звукорежиссура",
+        "формулы"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "Физический смысл: LC-контур имеет собственную частоту обмена энергией между конденсатором и катушкой.\nФормулы: f0 = 1/(2π√(LC)); W = CU²/2 + LI²/2; c = λf.\nСвязь со звукорежиссурой: радиомикрофоны, настройка частоты, передача сигнала и взаимные помехи.\nЧто запомнить: сначала явление, потом формулы и величины, потом пример из звука или техники."
+    },
+    {
+      "id": "VGIK-V10-00012",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Броненосец Потёмкин» (реж. Сергей Эйзенштейн, 1925) с точки зрения звука и формы?",
+      "answer": "монтаж аттракционов и ритм массового действия",
+      "choices": [
+        "сатирическая партитура лагерной дисциплины",
+        "ранний звуковой стиль и бытовая интонация",
+        "город как монтажная машина",
+        "монтаж аттракционов и ритм массового действия"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Броненосец Потёмкин"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Одесская лестница: ритм кадров, движение толпы и воображаемая звуковая энергия шагают вместе, хотя фильм немой. 2) Сцена с матросами и гнилым мясом: конфликт строится через крупные планы и монтажную напряжённость. 3) Финальное братание кораблей: монтаж создаёт ощущение коллективного звучания даже без фонограммы."
+    },
+    {
+      "id": "VGIK-V10-00013",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Мать» (реж. Всеволод Пудовкин, 1926) с точки зрения звука и формы?",
+      "answer": "монтаж психологического действия и рост сознания героя",
+      "choices": [
+        "камера, музыка и звук внутреннего слома",
+        "абсурдный язык и пустынная акустика фантастики",
+        "монтаж психологического действия и рост сознания героя",
+        "речевая агрессия и шум распавшегося общения"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Мать"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Дом: бытовая среда давит на героиню. 2) Демонстрация: монтаж собирает частное страдание в общественное действие. 3) Ледоход: природный образ можно переводить в звуковую идею массы и движения."
+    },
+    {
+      "id": "VGIK-V10-00014",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Конец Санкт-Петербурга» (реж. Всеволод Пудовкин, 1927) с точки зрения звука и формы?",
+      "answer": "монтаж истории через судьбу человека",
+      "choices": [
+        "музыкально-монтажная эпика Прокофьева и Эйзенштейна",
+        "монтаж истории через судьбу человека",
+        "рок-интонация Цоя и пустая городская среда",
+        "городская лирика и лёгкая акустика оттепели"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Конец Санкт-Петербурга"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Деревня и город: контраст будущих звуковых сред. 2) Биржа и война: монтаж связывает деньги, толпу и насилие. 3) Революционные сцены: личная история растворяется в историческом ритме."
+    },
+    {
+      "id": "VGIK-V10-00015",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Путёвка в жизнь» (реж. Николай Экк, 1931) с точки зрения звука и формы?",
+      "answer": "ранний советский звуковой фильм, речь и песня как социальная среда",
+      "choices": [
+        "гул станции, память и музыка остановленного времени",
+        "город как монтажная машина",
+        "ранний советский звуковой фильм, речь и песня как социальная среда",
+        "офисная акустика и переход служебной речи в личную"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Путёвка в жизнь"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Беспризорники: речь, выкрики, шум толпы и песенная интонация показывают улицу. 2) Коммуна: звук становится дисциплинированнее. 3) Конфликт с прошлой жизнью: сталкиваются уличная акустика и коллективный порядок."
+    },
+    {
+      "id": "VGIK-V10-00016",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Человек с киноаппаратом» (реж. Дзига Вертов, 1929) с точки зрения звука и формы?",
+      "answer": "город как монтажная машина",
+      "choices": [
+        "город как монтажная машина",
+        "ранний советский звуковой фильм, речь и песня как социальная среда",
+        "ранний звуковой стиль и бытовая интонация",
+        "ритуал власти, речь и музыкальная трагедия"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Человек с киноаппаратом"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Пробуждение города: транспорт, заводы и улицы складываются в ритмическую партитуру. 2) Труд и отдых: визуальные повторы работают как музыка. 3) Монтажная: фильм показывает производство кино как звуко-зрительное мышление."
+    },
+    {
+      "id": "VGIK-V10-00017",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Окраина» (реж. Борис Барнет, 1933) с точки зрения звука и формы?",
+      "answer": "ранний звуковой стиль и бытовая интонация",
+      "choices": [
+        "голос, природные фоны и звук памяти",
+        "субъективный слух травмы и акустика войны",
+        "ранний звуковой стиль и бытовая интонация",
+        "музыкально-монтажная эпика Прокофьева и Эйзенштейна"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Окраина"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Маленький город: речь и бытовые шумы строят пространство. 2) Мобилизация: команды и шаги вводят войну в обычную жизнь. 3) Финал: человеческая интонация важнее лозунга."
+    },
+    {
+      "id": "VGIK-V10-00018",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Александр Невский» (реж. Сергей Эйзенштейн, 1938) с точки зрения звука и формы?",
+      "answer": "музыкально-монтажная эпика Прокофьева и Эйзенштейна",
+      "choices": [
+        "техническая катастрофа, гул машины и драматургия напряжения",
+        "музыкально-монтажная эпика Прокофьева и Эйзенштейна",
+        "дрезина, вода, пауза и акустика Зоны",
+        "субъективный слух травмы и акустика войны"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Александр Невский"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Рыцари: музыка и ритм движения делают угрозу механической. 2) Ледовое побоище: хор, оркестр, шум битвы и монтаж создают эпос. 3) Народные сцены: массовое звучание подчёркивает коллективного героя."
+    },
+    {
+      "id": "VGIK-V10-00019",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Иван Грозный» (реж. Сергей Эйзенштейн, 1944-1946) с точки зрения звука и формы?",
+      "answer": "ритуал власти, речь и музыкальная трагедия",
+      "choices": [
+        "память о полёте и бытовая акустика настоящего",
+        "городской быт, телефоны и интонация нерешительности",
+        "речевая агрессия и шум распавшегося общения",
+        "ритуал власти, речь и музыкальная трагедия"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Иван Грозный"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Церемонии: хор, речь и музыка создают власть как обряд. 2) Заговор бояр: шёпоты, паузы и музыка дают подозрение. 3) Крупные планы Ивана: голос и пауза работают как оружие."
+    },
+    {
+      "id": "VGIK-V10-00020",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Чапаев» (реж. Георгий Васильев, Сергей Васильев, 1934) с точки зрения звука и формы?",
+      "answer": "героическая речь и ранний советский звуковой стиль",
+      "choices": [
+        "камера, музыка и звук внутреннего слома",
+        "ранний звуковой стиль и бытовая интонация",
+        "память о полёте и бытовая акустика настоящего",
+        "героическая речь и ранний советский звуковой стиль"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Чапаев"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Разговоры с бойцами: простая речь делает героя живым командиром. 2) Штаб: команды, шаги и короткие реплики организуют действие. 3) Финал у реки: выстрелы, крики и паузы связывают гибель с мифом."
+    },
+    {
+      "id": "VGIK-V10-00021",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Летят журавли» (реж. Михаил Калатозов, 1957) с точки зрения звука и формы?",
+      "answer": "камера, музыка и звук внутреннего слома",
+      "choices": [
+        "офисная акустика и переход служебной речи в личную",
+        "камера, музыка и звук внутреннего слома",
+        "молчание, колокол и духовная акустика истории",
+        "городская лирика и лёгкая акустика оттепели"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Летят журавли"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Проводы: шум толпы и музыка создают хаос расставания. 2) Бомбёжка и лестница: разрушение и монтажный темп передают слом Вероники. 3) Лирические сцены: городские фоны контрастируют с войной."
+    },
+    {
+      "id": "VGIK-V10-00022",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Баллада о солдате» (реж. Григорий Чухрай, 1959) с точки зрения звука и формы?",
+      "answer": "военная лирика, дорога и человеческая интонация",
+      "choices": [
+        "военная лирика, дорога и человеческая интонация",
+        "народная речь, деревенский звук и внутренний разрыв героя",
+        "техническая катастрофа, гул машины и драматургия напряжения",
+        "интеллектуальная драма науки и риска"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Баллада о солдате"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Дорога: поезда, вокзалы, шаги и короткие разговоры создают ритм пути. 2) Встреча с матерью: паузы сильнее музыки. 3) Фронт: шум войны контрастирует с тихой человеческой историей."
+    },
+    {
+      "id": "VGIK-V10-00023",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Девять дней одного года» (реж. Михаил Ромм, 1961) с точки зрения звука и формы?",
+      "answer": "интеллектуальная драма науки и риска",
+      "choices": [
+        "ветер пустыни и голосовые письма Сухова",
+        "народная речь, деревенский звук и внутренний разрыв героя",
+        "городской быт, телефоны и интонация нерешительности",
+        "интеллектуальная драма науки и риска"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Девять дней одного года"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Лаборатория: приборы и сухая речь создают среду науки. 2) Споры: паузы и интонации показывают цену выбора. 3) Личные сцены: тишина переводит научный конфликт в человеческий."
+    },
+    {
+      "id": "VGIK-V10-00024",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Обыкновенный фашизм» (реж. Михаил Ромм, 1966) с точки зрения звука и формы?",
+      "answer": "авторский голос против архивного изображения",
+      "choices": [
+        "память о полёте и бытовая акустика настоящего",
+        "авторский голос против архивного изображения",
+        "техническая катастрофа, гул машины и драматургия напряжения",
+        "субъективный слух травмы и акустика войны"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Обыкновенный фашизм"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Хроника: голос Ромма спорит с изображением. 2) Шествия: шум толпы и музыка показывают массовое заражение. 3) Дети и быт: контраст обычного и страшного усиливает анализ."
+    },
+    {
+      "id": "VGIK-V10-00025",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Добро пожаловать, или Посторонним вход воспрещён» (реж. Элем Климов, 1964) с точки зрения звука и формы?",
+      "answer": "сатирическая партитура лагерной дисциплины",
+      "choices": [
+        "ранний советский звуковой фильм, речь и песня как социальная среда",
+        "сатирическая партитура лагерной дисциплины",
+        "рок-интонация Цоя и пустая городская среда",
+        "голос, природные фоны и звук памяти"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Добро пожаловать, или Посторонним вход воспрещён"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Линейки: массовая речь высмеивает порядок. 2) Объявления: звук дисциплины становится комическим механизмом. 3) Детские нарушения: бег, голоса и шумы создают сопротивление системе."
+    },
+    {
+      "id": "VGIK-V10-00026",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Иди и смотри» (реж. Элем Климов, 1985) с точки зрения звука и формы?",
+      "answer": "субъективный слух травмы и акустика войны",
+      "choices": [
+        "интеллектуальная драма науки и риска",
+        "город как монтажная машина",
+        "Петербург 1990-х, рок и сухое бытовое насилие",
+        "субъективный слух травмы и акустика войны"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Иди и смотри"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Оглушение: искажённый слух передаёт травму изнутри. 2) Деревня: голоса и шум превращают пространство в ловушку. 3) Финал: звук и монтаж связывают личную травму с историей."
+    },
+    {
+      "id": "VGIK-V10-00027",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Я шагаю по Москве» (реж. Георгий Данелия, 1963) с точки зрения звука и формы?",
+      "answer": "городская лирика и лёгкая акустика оттепели",
+      "choices": [
+        "многоголосие собрания и сатира на коллектив",
+        "техническая катастрофа, гул машины и драматургия напряжения",
+        "сатирическая партитура лагерной дисциплины",
+        "городская лирика и лёгкая акустика оттепели"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Я шагаю по Москве"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Прогулки: улица, разговоры и музыка создают открытое пространство. 2) Песня собирает настроение. 3) Метро и улицы звучат как образ молодой Москвы."
+    },
+    {
+      "id": "VGIK-V10-00028",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Мимино» (реж. Георгий Данелия, 1977) с точки зрения звука и формы?",
+      "answer": "контраст горной и городской акустики",
+      "choices": [
+        "ритуал власти, речь и музыкальная трагедия",
+        "монтаж психологического действия и рост сознания героя",
+        "ранний звуковой стиль и бытовая интонация",
+        "контраст горной и городской акустики"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Мимино"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Горы: голоса, музыка и природные фоны создают родной мир. 2) Москва: городской шум подчёркивает отчуждение. 3) Телефон: голос на расстоянии становится звуком тоски."
+    },
+    {
+      "id": "VGIK-V10-00029",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Осенний марафон» (реж. Георгий Данелия, 1979) с точки зрения звука и формы?",
+      "answer": "городской быт, телефоны и интонация нерешительности",
+      "choices": [
+        "музыкально-монтажная эпика Прокофьева и Эйзенштейна",
+        "мороз, дыхание, молчание и нравственный выбор",
+        "гул станции, память и музыка остановленного времени",
+        "городской быт, телефоны и интонация нерешительности"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Осенний марафон"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Квартира: телефоны и бытовые шумы создают круг обязанностей. 2) Разговоры: недоговорённости слышнее признаний. 3) Пробежки: шаги становятся образом бегства от решения."
+    },
+    {
+      "id": "VGIK-V10-00030",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Кин-дза-дза!» (реж. Георгий Данелия, 1986) с точки зрения звука и формы?",
+      "answer": "абсурдный язык и пустынная акустика фантастики",
+      "choices": [
+        "субъективный слух травмы и акустика войны",
+        "абсурдный язык и пустынная акустика фантастики",
+        "монтаж истории через судьбу человека",
+        "ветер пустыни и голосовые письма Сухова"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Кин-дза-дза!"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Плюк: ветер и паузы делают мир чужим. 2) «Ку» и «кю»: речь становится социальным кодом. 3) Пепелац: технические шумы поддерживают абсурд."
+    },
+    {
+      "id": "VGIK-V10-00031",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Берегись автомобиля» (реж. Эльдар Рязанов, 1966) с точки зрения звука и формы?",
+      "answer": "лирическая сатира, театр и городская речь",
+      "choices": [
+        "лирическая сатира, театр и городская речь",
+        "интеллектуальная драма науки и риска",
+        "офисная акустика и переход служебной речи в личную",
+        "речевая агрессия и шум распавшегося общения"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Берегись автомобиля"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Кражи машин: городские шумы и мягкий темп не делают героя злодеем. 2) Театр: репетиционная речь создаёт второй слой морали. 3) Деточкин: интонация показывает доброту и неловкость."
+    },
+    {
+      "id": "VGIK-V10-00032",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Служебный роман» (реж. Эльдар Рязанов, 1977) с точки зрения звука и формы?",
+      "answer": "офисная акустика и переход служебной речи в личную",
+      "choices": [
+        "монтаж аттракционов и ритм массового действия",
+        "память о полёте и бытовая акустика настоящего",
+        "городская среда, быт и смена социальной интонации",
+        "офисная акустика и переход служебной речи в личную"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Служебный роман"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Утро в учреждении: телефоны, шаги, машинки и сухая речь создают советский офис. 2) Новосельцев и Калугина: интонации выходят из служебной маски. 3) Музыка Петрова смягчает быт."
+    },
+    {
+      "id": "VGIK-V10-00033",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Гараж» (реж. Эльдар Рязанов, 1979) с точки зрения звука и формы?",
+      "answer": "многоголосие собрания и сатира на коллектив",
+      "choices": [
+        "многоголосие собрания и сатира на коллектив",
+        "голос, природные фоны и звук памяти",
+        "героическая речь и ранний советский звуковой стиль",
+        "субъективный слух травмы и акустика войны"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Гараж"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Собрание: перебивания, шум зала и голоса создают социальную давку. 2) Выступления: каждый голос звучит как маска. 3) Паузы после конфликтов работают как комедийный удар."
+    },
+    {
+      "id": "VGIK-V10-00034",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Жестокий романс» (реж. Эльдар Рязанов, 1984) с точки зрения звука и формы?",
+      "answer": "романс, речь купеческой среды и трагическая пауза",
+      "choices": [
+        "ранний звуковой стиль и бытовая интонация",
+        "романс, речь купеческой среды и трагическая пауза",
+        "городская лирика и лёгкая акустика оттепели",
+        "ранний советский звуковой фильм, речь и песня как социальная среда"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Жестокий романс"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Романсы выражают чувство и социальную игру вокруг Ларисы. 2) Купеческие разговоры: интонации и перебивания раскрывают власть. 3) Финал: музыка и пауза фиксируют трагический итог."
+    },
+    {
+      "id": "VGIK-V10-00035",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Гори, гори, моя звезда» (реж. Александр Митта, 1969) с точки зрения звука и формы?",
+      "answer": "театр, гражданская война и звук балаганной среды",
+      "choices": [
+        "субъективный слух травмы и акустика войны",
+        "мороз, дыхание, молчание и нравственный выбор",
+        "театр, гражданская война и звук балаганной среды",
+        "молчание, колокол и духовная акустика истории"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Гори, гори, моя звезда"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Театр: речь и музыка показывают искусство как выживание. 2) Городок гражданской войны: толпа и команды создают опасность. 3) Финал: игра сталкивается с насилием."
+    },
+    {
+      "id": "VGIK-V10-00036",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Экипаж» (реж. Александр Митта, 1979) с точки зрения звука и формы?",
+      "answer": "техническая катастрофа, гул машины и драматургия напряжения",
+      "choices": [
+        "голос, природные фоны и звук памяти",
+        "техническая катастрофа, гул машины и драматургия напряжения",
+        "офисная акустика и переход служебной речи в личную",
+        "авторский голос против архивного изображения"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Экипаж"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Кабина: переговоры, сигналы и гул техники создают профессиональную среду. 2) Катастрофа: шум разрушения и команды организуют напряжение. 3) Тишина после техники возвращает человека."
+    },
+    {
+      "id": "VGIK-V10-00037",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Андрей Рублев» (реж. Андрей Тарковский, 1966) с точки зрения звука и формы?",
+      "answer": "молчание, колокол и духовная акустика истории",
+      "choices": [
+        "авторский голос против архивного изображения",
+        "молчание, колокол и духовная акустика истории",
+        "контраст горной и городской акустики",
+        "монтаж истории через судьбу человека"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Андрей Рублев"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Нашествие: крики, копыта и огонь дробят пространство. 2) Молчание Рублева становится решением. 3) Колокол: ожидание звука важнее удара."
+    },
+    {
+      "id": "VGIK-V10-00038",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Солярис» (реж. Андрей Тарковский, 1972) с точки зрения звука и формы?",
+      "answer": "гул станции, память и музыка остановленного времени",
+      "choices": [
+        "романс, речь купеческой среды и трагическая пауза",
+        "город как монтажная машина",
+        "техническая катастрофа, гул машины и драматургия напряжения",
+        "гул станции, память и музыка остановленного времени"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Солярис"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Станция: гул и паузы создают замкнутое пространство. 2) Хари: речь переводит фантастику в память. 3) Невесомость: музыка создаёт остановленное время."
+    },
+    {
+      "id": "VGIK-V10-00039",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Зеркало» (реж. Андрей Тарковский, 1974) с точки зрения звука и формы?",
+      "answer": "голос, природные фоны и звук памяти",
+      "choices": [
+        "голос, природные фоны и звук памяти",
+        "ритуал власти, речь и музыкальная трагедия",
+        "сатирическая партитура лагерной дисциплины",
+        "интеллектуальная драма науки и риска"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Зеркало"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Пожар: треск, ветер и голоса звучат как память. 2) Голос и стихи связывают времена. 3) Дождь, вода и трава передают внутреннее состояние."
+    },
+    {
+      "id": "VGIK-V10-00040",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Сталкер» (реж. Андрей Тарковский, 1979) с точки зрения звука и формы?",
+      "answer": "дрезина, вода, пауза и акустика Зоны",
+      "choices": [
+        "ранний советский звуковой фильм, речь и песня как социальная среда",
+        "музыкально-монтажная эпика Прокофьева и Эйзенштейна",
+        "интеллектуальная драма науки и риска",
+        "дрезина, вода, пауза и акустика Зоны"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Сталкер"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Дрезина: металлический ритм вводит в другое состояние. 2) Зона: вода и дальние шумы создают ожидание. 3) Комната желаний: тишина удерживает конфликт."
+    },
+    {
+      "id": "VGIK-V10-00041",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Крылья» (реж. Лариса Шепитько, 1966) с точки зрения звука и формы?",
+      "answer": "память о полёте и бытовая акустика настоящего",
+      "choices": [
+        "военная лирика, дорога и человеческая интонация",
+        "дрезина, вода, пауза и акустика Зоны",
+        "память о полёте и бытовая акустика настоящего",
+        "героическая речь и ранний советский звуковой стиль"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Крылья"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Школа: обычные шумы показывают, что прошлое героини не слышат. 2) Полёт: воздушная тема отделяет свободу. 3) Финал: сдержанный звук усиливает одиночество."
+    },
+    {
+      "id": "VGIK-V10-00042",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Восхождение» (реж. Лариса Шепитько, 1976) с точки зрения звука и формы?",
+      "answer": "мороз, дыхание, молчание и нравственный выбор",
+      "choices": [
+        "офисная акустика и переход служебной речи в личную",
+        "рок-интонация Цоя и пустая городская среда",
+        "память о полёте и бытовая акустика настоящего",
+        "мороз, дыхание, молчание и нравственный выбор"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Восхождение"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Зимний путь: снег, дыхание и редкие звуки дают физическое страдание. 2) Допросы: голос и паузы становятся выбором. 3) Финал: сдержанный звук усиливает трагедию."
+    },
+    {
+      "id": "VGIK-V10-00043",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Астенический синдром» (реж. Кира Муратова, 1990) с точки зрения звука и формы?",
+      "answer": "речевая агрессия и шум распавшегося общения",
+      "choices": [
+        "монтаж аттракционов и ритм массового действия",
+        "речевая агрессия и шум распавшегося общения",
+        "городская лирика и лёгкая акустика оттепели",
+        "героическая речь и ранний советский звуковой стиль"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Астенический синдром"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Очереди: крики создают общество, где не слышат друг друга. 2) Перебивания: диалог распадается. 3) Документальные эпизоды ломают комфорт зрителя."
+    },
+    {
+      "id": "VGIK-V10-00044",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Москва слезам не верит» (реж. Владимир Меньшов, 1979) с точки зрения звука и формы?",
+      "answer": "городская среда, быт и смена социальной интонации",
+      "choices": [
+        "дрезина, вода, пауза и акустика Зоны",
+        "речевая агрессия и шум распавшегося общения",
+        "городской быт, телефоны и интонация нерешительности",
+        "городская среда, быт и смена социальной интонации"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Москва слезам не верит"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Общежитие: разговоры и шумы создают старт. 2) Взрослая Москва: меняется акустика статуса. 3) Катерина и Гоша: паузы и доверие важнее внешнего эффекта."
+    },
+    {
+      "id": "VGIK-V10-00045",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Калина красная» (реж. Василий Шукшин, 1973) с точки зрения звука и формы?",
+      "answer": "народная речь, деревенский звук и внутренний разрыв героя",
+      "choices": [
+        "народная речь, деревенский звук и внутренний разрыв героя",
+        "субъективный слух травмы и акустика войны",
+        "монтаж истории через судьбу человека",
+        "память о полёте и бытовая акустика настоящего"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Калина красная"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Деревня: речь и бытовые фоны создают мир возвращения. 2) Егор: интонация смешивает браваду и боль. 3) Криминальные сцены меняют домашнюю среду на угрозу."
+    },
+    {
+      "id": "VGIK-V10-00046",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Белое солнце пустыни» (реж. Владимир Мотыль, 1970) с точки зрения звука и формы?",
+      "answer": "ветер пустыни и голосовые письма Сухова",
+      "choices": [
+        "городской быт, телефоны и интонация нерешительности",
+        "городская лирика и лёгкая акустика оттепели",
+        "ветер пустыни и голосовые письма Сухова",
+        "контраст горной и городской акустики"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Белое солнце пустыни"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Пустыня: ветер и паузы делают пространство опасным. 2) Письма Сухова: голос даёт личную интонацию. 3) Боевые сцены звучат сухо."
+    },
+    {
+      "id": "VGIK-V10-00047",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Брат» (реж. Алексей Балабанов, 1997) с точки зрения звука и формы?",
+      "answer": "Петербург 1990-х, рок и сухое бытовое насилие",
+      "choices": [
+        "абсурдный язык и пустынная акустика фантастики",
+        "Петербург 1990-х, рок и сухое бытовое насилие",
+        "городская лирика и лёгкая акустика оттепели",
+        "речевая агрессия и шум распавшегося общения"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Брат"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Петербург: подъезды и транспорт создают холодную среду. 2) Наутилус звучит как голос времени. 3) Насилие подано сухо: короткие реплики и резкие звуки."
+    },
+    {
+      "id": "VGIK-V10-00048",
+      "topic": "SOVIET_RUSSIAN_CURATED",
+      "topic_name": "Классика СССР/РФ",
+      "category": "vgikFilms",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Что реально важно разобрать в фильме «Игла» (реж. Рашид Нугманов, 1988) с точки зрения звука и формы?",
+      "answer": "рок-интонация Цоя и пустая городская среда",
+      "choices": [
+        "рок-интонация Цоя и пустая городская среда",
+        "городской быт, телефоны и интонация нерешительности",
+        "дрезина, вода, пауза и акустика Зоны",
+        "мороз, дыхание, молчание и нравственный выбор"
+      ],
+      "explanation": "Ручной отбор: режиссёр, год, сцены, звук и драматургия.",
+      "tags": [
+        "советское кино",
+        "русское кино",
+        "ВГИК",
+        "Игла"
+      ],
+      "source": "v10_exam_focused",
+      "full_answer": "1) Моро: музыка Цоя задаёт отстранённость. 2) Город: ветер и пустота дают позднесоветское ощущение. 3) Конфликт звучит сдержанно и ритуально."
     }
   ]
 };
