@@ -1,0 +1,11 @@
+{
+  "version": "5.0",
+  "total_items": 740,
+  "questions_with_film_labels_fixed": 312,
+  "new_topics": [
+    "FRENCH_AUTEUR",
+    "FRENCH_SOUND"
+  ],
+  "french_author_cards_added_about": 22,
+  "french_sound_cards_added": 10
+}
