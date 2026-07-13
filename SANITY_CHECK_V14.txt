@@ -1,0 +1,5 @@
+{
+  "contains_ne_prosto": false,
+  "contains_weak_variant": false,
+  "contains_weak_answer": false
+}

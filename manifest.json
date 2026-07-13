@@ -1,7 +1,7 @@
 {
-  "name": "ВГИК тест v13",
+  "name": "ВГИК тест v14",
   "short_name": "ВГИК тест",
-  "start_url": "./index.html?v=13",
+  "start_url": "./index.html?v=14",
   "display": "standalone",
   "background_color": "#efede6",
   "theme_color": "#efede6",

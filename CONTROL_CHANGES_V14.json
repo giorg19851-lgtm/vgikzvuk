@@ -1,0 +1,15 @@
+{
+  "version": "14.0",
+  "source": "vgik_test_app_v13_creative_folder.zip",
+  "total_items": 409,
+  "updated_term_use_cards": 20,
+  "updated_trap_cards": 6,
+  "moved_to_creative_folder": "TERMS_USE and selected TRAPS",
+  "global_check": {
+    "contains_ne_prosto": false,
+    "contains_weak_variant": false,
+    "contains_weak_answer": false
+  },
+  "note": "Concrete examples added from the user creative folder; no Nalim.",
+  "trap_choices_rebuilt": "all TRAPS choices rebuilt from clean pool"
+}
