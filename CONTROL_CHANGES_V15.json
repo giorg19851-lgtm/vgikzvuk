@@ -1,0 +1,11 @@
+{
+  "version": "15.0",
+  "source": "vgik_test_app_v14_specific_folder_answers.zip",
+  "total_items": 413,
+  "term_application_cards_updated": 24,
+  "term_definition_cards_updated": 20,
+  "extra_specific_term_cards_added": 4,
+  "physics_cards_grouped": 114,
+  "bad_phrase_hits_after_patch": [],
+  "physics_rotation": "app.js now filters physics candidates away from the last 1-3 recent physics groups when possible"
+}

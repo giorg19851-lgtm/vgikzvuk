@@ -1,0 +1,13 @@
+{
+  "version": "17.0",
+  "source": "vgik_test_app_v16_laws_festivals_examples",
+  "total_items": 459,
+  "nested_menu": true,
+  "smart_filters": [
+    "director",
+    "country",
+    "festival",
+    "decade",
+    "search"
+  ]
+}

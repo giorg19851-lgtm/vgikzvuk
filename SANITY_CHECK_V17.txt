@@ -1,0 +1,13 @@
+{
+  "total": 459,
+  "categories": {
+    "sound": 108,
+    "directors": 46,
+    "creativeFolder": 74,
+    "physics": 137,
+    "philosophy": 19,
+    "sovietCinema": 46,
+    "frenchCinema": 11,
+    "festivalCinema": 18
+  }
+}
